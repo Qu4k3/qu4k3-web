@@ -44,16 +44,16 @@ export default defineConfig({
       {
         text: 'Projects',
         items: [
-          { text: 'Project A', link: '/markdown-examples' },
-          { text: 'Project B', link: '/api-examples' }
+          /*{ text: 'Project A', link: '/markdown-examples' },
+          { text: 'Project B', link: '/api-examples' }*/
         ]
       },
       {
         text: 'Achieved Projects',
         collapsed: true,
         items: [
-          { text: 'Project A', link: '/markdown-examples' },
-          { text: 'Project B', link: '/api-examples' }
+          /*{ text: 'Project A', link: '/markdown-examples' },
+          { text: 'Project B', link: '/api-examples' }*/
         ]
       }
     ],

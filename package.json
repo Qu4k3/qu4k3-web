@@ -7,12 +7,12 @@
   "license": "ISC",
   "description": "",
   "scripts": {
-    "docs:dev": "vitepress dev projects",
-    "docs:build": "vitepress build projects",
-    "docs:preview": "vitepress preview projects"
+    "dev": "vitepress dev portfolio",
+    "build": "vitepress build portfolio",
+    "preview": "vitepress preview portfolio"
   },
   "devDependencies": {
-    "vitepress": "1.3.4",
-    "vue": "3.5.8"
+    "vitepress": "1.6.3",
+    "vue": "3.5.13"
   }
 }

@@ -169,3 +169,15 @@
 .VPImage.logo {
   border-radius: 100%;
 }
+
+.vp-doc p a,
+.vp-doc p img {
+  display: inline-flex;
+}
+
+.VPFooter .container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}

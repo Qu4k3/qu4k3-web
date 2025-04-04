@@ -25,21 +25,16 @@ features:
   - icon: ⚡️
     title: +10 años de experiencia
     details: Mi trayectoria comenzó con PHP, transicioné hacia el <strong>desarrollo web y móvil con JavaScript y React</strong>, especializándome en la creación de interfaces de usuario y experiencias únicas.
-    link: /projects  
+    link: /about  
     linkText: Saber más  
-    target: _self
   - icon: ✨
     title: + 30 proyectos
     details: He participado e ideado numerosos proyectos web y móvil para facilitar o mejorar aciones de la gente.
     link: /projects  
     linkText: Ver proyectos
-    target: _self
   - icon: 🙋
     title: + 15 clientes
-    details: He tenido la suerte de ayudar, orientar y auditar numerosos proyectos de emprendedores, 
+    details: He tenido la suerte de ayudar, orientar y auditar numerosos proyectos de emprendedores, dueños de tiendas online, etc. Ofreciendo apoyo, saber y acompañamiento en el proceso de migración o creación de sus productos.
     link: /projects  
     linkText: Ver proyectos de clientes
-    target: _self
 ---
-
-<p style="text-align:center;">© 2015-2025</p>

@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Qu4k3",
   description: "Personal page, showing my projects and works :)",
   cleanUrls: true,
-  lastUpdated: true,
+  lastUpdated: false,
   appearance: {
     initialValue: 'light'
   },
@@ -46,11 +46,12 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/Qu4k3' }
     ],
 
+    sidebarMenuLabel: "Proyectos",
     darkModeSwitchLabel: "Apariencia",
     returnToTopLabel: "Volver arriba ↑",
 
     sidebar: {
-      '/projects': [
+      '/project': [
         {
           text: 'Proyectos Personales',
           collapsed: false,
@@ -61,38 +62,25 @@ export default defineConfig({
               text: '[2025]',
               collapsed: false,
               items: [
-                { text: 'Fibers v2', link: '/projects/fibers' },
-                { text: 'Killing Floor Zone', link: '/projects/killingfloor-zone' },
-                { text: 'Pocket Link', link: '/projects/pckt-link' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=20" alt="Killing Floor Zone" width="20"> Killing Floor Zone', link: '/project/killingfloor-zone' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=pckt.link&amp;sz=20" alt="Pocket Link" width="20"> Pocket Link', link: '/project/pckt-link' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v2', link: '/project/fibers' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v2', link: '/project/qu4k3' }
               ]
             },
             {
-              text: '[2020]',
+              text: '[2019]',
               collapsed: false,
               items: [
                 {
                   text: 'Disboard',
                   items: [
-                    { text: 'Web', link: '/projects/disboard-website' },
-                    { text: 'API', link: '/projects/disboard-api' },
-                    { text: 'Documentación', link: '/projects/disboard-docs' },
-                    { text: 'Discord Bot', link: '/projects/disboard-bot' }
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=disboard.team&amp;sz=20" alt="Disboard" width="20"> Web', link: '/project/disboard-website' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=api.disboard.team&amp;sz=20" alt="Disboard" width="20"> API', link: '/project/disboard-api' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=docs.disboard.team&amp;sz=20" alt="Disboard" width="20"> Documentación', link: '/project/disboard-docs' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=bot.disboard.team&amp;sz=20" alt="Disboard" width="20"> Discord Bot', link: '/project/disboard-bot' }
                   ]
                 }
-              ]
-            },
-            {
-              text: '[2017]',
-              collapsed: false,
-              items: [
-                { text: 'Fibers v1', link: '/projects/fibers-v2017' },
-              ]
-            },
-            {
-              text: '[2016]',
-              collapsed: false,
-              items: [
-                { text: 'Fibers v0', link: '/projects/fibers-v2016' },
               ]
             }
             ]
@@ -100,29 +88,67 @@ export default defineConfig({
             text: '🗃️ Archivados',
             collapsed: true,
             items: [
-              { text: 'Inefable', link: '/archive/inefable' },
-              { text: 'CEU Eventos', link: '/archive/ceu-events-scanner' },
-              { text: 'CSGO Numbers', link: '/archive/xxx' },
-              { text: 'Ecard Game', link: '/archive/xxx' },
-              { text: 'Ecard Game', link: '/archive/xxx' },
-              { text: 'Case Converter', link: '/archive/xxx' },
               {
-                text: 'Mario Kart',
+                text: '[2024]',
+                collapsed: false,
                 items: [
-                  { text: 'Discord Bot (Lakitu)', link: '/archive/mk-lakitu' },
-                  { text: 'Mario Kart World', link: '/archive/mk-mkw' },
-                  { text: 'CEMK', link: '/archive/mk-cemk' },
-                  { text: 'FEMK', link: '/archive/mk-femk' },
-                  { text: 'Torneo Interautonómico', link: '/archive/mk-torneo' }
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=inefable.day&amp;sz=20" alt="Inefable" width="20"> Inefable', link: '/project/inefable' },
                 ]
               },
-              { text: 'NVersus', link: '/archive/nversus' },
-              { text: 'Discord Themes', link: '/archive/dthemes' },
-              { text: 'MHW Guild', link: '/archive/mhw-guild' },
-              { text: 'ASCII Art', link: '/archive/ascii-art' },
-              { text: 'Kiznaiver', link: '/archive/kiznaiver' },
-              { text: 'Pong', link: '/archive/pong' },
-              { text: 'Zerg Pulse', link: '/archive/zerg-pulse' },
+              {
+                text: '[2021]',
+                collapsed: false,
+                items: [
+                  { text: 'CEU Eventos', link: '/project/ceu-events-scanner' },
+                ]
+              },
+              {
+                text: '[2018]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=animeinstitute.net&amp;sz=20" alt="Anime Institute" width="20"> Anime Institute', link: '/project/animeinstitute' },
+                  { text: 'NVersus', link: '/project/nversus' },
+                  { text: 'Discord Themes', link: '/project/dthemes' },
+                ]
+              },
+              {
+                text: '[2017]',
+                collapsed: false,
+                items: [
+                  {
+                    text: 'Mario Kart',
+                    items: [
+                      { text: 'Discord Bot (Lakitu)', link: '/project/mk-lakitu' },
+                      { text: 'Mario Kart World', link: '/project/mk-mkw' },
+                      { text: 'CEMK', link: '/project/mk-cemk' },
+                      { text: 'FEMK', link: '/project/mk-femk' },
+                      { text: 'Torneo Interautonómico', link: '/project/mk-torneo-interautonomico' }
+                    ]
+                  },
+                  { text: 'MHW Guild', link: '/project/mhw-guild' },
+                  { text: 'Zerg Pulse', link: '/project/zerg-pulse' },
+                  { text: 'Fibers v1', link: '/project/fibers-v2017' },
+                  { text: 'Pong', link: '/project/pong' },
+                  { text: 'Ecard Game', link: '/project/ecard-game' },
+                  { text: 'ASCII Art', link: '/project/ascii-art' },
+                  { text: 'Qu4k3 v1', link: '/project/qu4k3-v2017' }
+                ]
+              },
+              {
+                text: '[2016]',
+                collapsed: false,
+                items: [
+                  { text: 'Fibers v0', link: '/project/fibers-v2016' },
+                  { text: 'Kiznaiver', link: '/project/kiznaiver' },
+                ]
+              },
+              {
+                text: '[2015]',
+                collapsed: false,
+                items: [
+                  { text: 'Qu4k3 v0', link: '/project/qu4k3-v2015' },
+                ]
+              }
             ]
           }],
         },
@@ -130,52 +156,90 @@ export default defineConfig({
           text: 'Proyectos para Clientes',
           collapsed: false,
           items: [
-            { text: 'JS Arquitecto', link: '/projects/js-arquitecto' },
-            { text: 'Tratar', link: '/projects/tratar' },
-            { text: 'L\'Esmena', link: '/projects/esmena' },
-            { text: 'Llibrenet', link: '/projects/llibrenet' },
-            { text: 'LFB', link: '/projects/lfb' },
-            { text: 'LEInternational', link: '/projects/leinternacional' },
-            { text: 'Farell Editors', link: '/projects/farell-editors' },
-            { text: 'Globalex', link: '/projects/globalex' },
-            { text: 'iConcierge Red Carpet', link: '/projects/iconciergerc' },
-            { text: 'GoToikoncierge', link: '/projects/gotoikoncierge' },
-            { text: 'Clínica Abedent Podología', link: '/projects/clinica-abedent-podologia' },
-            { text: 'Evoluginos', link: '/projects/evoluginos' },
-            { text: 'Marketplace Barcelona', link: '/projects/marketplace-barcelona' },
-            { text: 'KRN Accessories', link: '/projects/krn-accessories' },
-            { text: 'Lovely Families', link: '/projects/lovelyfamilies' },
             {
-              text: 'UAO CEU',
+              text: '[2024]',
+              collapsed: false,
               items: [
-                { text: 'UAO Mailing Repository', link: '/projects/uao-mailing-repository' },
-                { text: 'UAO App Eventos', link: '/projects/uao-app-events' },
+                { text: 'Tratar', link: '/project/tratar' },
               ]
             },
             {
-              text: 'IBA',
+              text: '[2021]',
+              collapsed: false,
               items: [
-                { text: 'Panorama d\'Art', link: '/projects/iba-panoramadart' },
-                { text: 'B151 Barcelona', link: '/projects/iba-b151-barcelona' },
-                { text: 'Institut Barcelonés d\'Art', link: '/projects/iba-institutbarcelonesdart' },
+                { text: 'UAO App Eventos', link: '/project/uao-app-events' },
+                { text: 'L\'Esmena', link: '/project/esmena' },
+                { text: 'Llibrenet', link: '/project/llibrenet' },
+                {
+                  text: 'InOne',
+                  items: [
+                    { text: 'Design System', link: '/project/inone-design-system' },
+                    { text: 'Maquetación de Mails', link: '/project/inone-mailing-designs' },
+                    { text: 'MJML Editor', link: '/project/inone-grapejs-mjml' },
+                  ]
+                },
               ]
             },
             {
-              text: 'InOne',
+              text: '[2020]',
+              collapsed: false,
               items: [
-                { text: 'Design System', link: '/projects/inone-design-system' },
-                { text: 'Maquetación de Mails', link: '/projects/inone-mailing-designs' },
-                { text: 'MJML Editor', link: '/projects/inone-grapejs-mjml' },
+                { text: 'UAO Mailing Repository', link: '/project/uao-mailing-repository' },
+                { text: 'Farell Editors', link: '/project/farell-editors' },
+                { text: 'Globalex', link: '/project/globalex' },
+                { text: 'LEI Network', link: '/project/lei-network' },
               ]
             },
             {
-              text: 'AccelGrow',
+              text: '[2019]',
+              collapsed: false,
               items: [
-                { text: 'AccelGrow', link: '/projects/accelgrow' },
-                { text: 'Boostartup', link: '/projects/accelgrow-boostartup' },
-                { text: 'Loquer', link: '/projects/accelgrow-loquer' },
+                { text: 'JS Arquitecto', link: '/project/js-arquitecto' },
+                { text: 'GoToikoncierge', link: '/project/gotoikoncierge' },
+                { text: 'Wanda t-shirt', link: '/project/wanda-t-shirt' },
+                { text: 'Clínica Abedent Podología', link: '/project/clinica-abedent-podologia' },
               ]
-            }
+            },
+            {
+              text: '[2018]',
+              collapsed: false,
+              items: [
+                { text: 'Liceo Francés de Barcelona (LFB)', link: '/project/lfb' },
+                { text: 'iConcierge Red Carpet', link: '/project/iconciergerc' },
+              ]
+            },
+            {
+              text: '[2016]',
+              collapsed: false,
+              items: [
+                {
+                  text: 'IBA',
+                  items: [
+                    { text: 'Panorama d\'Art', link: '/project/iba-panoramadart' },
+                    { text: 'B151 Barcelona', link: '/project/iba-b151-barcelona' },
+                    { text: 'Institut Barcelonés d\'Art', link: '/project/iba-institutbarcelonesdart' },
+                  ]
+                },
+                { text: 'Evoluginos', link: '/project/evoluginos' },
+                { text: 'Marketplace Barcelona', link: '/project/marketplace-barcelona' },
+                { text: 'KRN Accessories', link: '/project/krn-accessories' },
+                { text: 'Lovely Families', link: '/project/lovelyfamilies' },
+                {
+                  text: 'AccelGrow',
+                  items: [
+                    { text: 'AccelGrow', link: '/project/accelgrow' },
+                    { text: 'Boostartup', link: '/project/boostartup' }
+                  ]
+                },
+              ]
+            },
+            {
+              text: '[2015]',
+              collapsed: false,
+              items: [
+                { text: 'Medical Nutribalance', link: '/project/medical-nutribalance' },
+              ]
+            },
           ]
         }
       ]

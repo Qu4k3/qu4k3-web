@@ -1,0 +1,13 @@
+[
+  {
+    "yearStart": "2023",
+    "yearPublished": "2025",
+    "title": "Killing Floor Zone",
+    "description": "",
+    "icon": "",
+    "status": "En proceso",
+    "tech": ["Next.js", "Tailwind CSS", "Vercel", "Steam API"],
+    "link": "/projects/killingfloor-zone",
+    "github": "https://github.com/Qu4k3/killingfloorzone"
+  }
+]

@@ -4,7 +4,7 @@ layout: home
 
 hero:
     text: 😃😎😋
-    tagline: Soy Paul, desarrollador web con +10 años de experiencia en ámbitos como el Marketing, el SEO, el Diseño, la Maquetación y el Desarrollo. 
+    tagline: Soy Paul, desarrollador web con <strong>+10 años de experiencia</strong> en ámbitos como el Marketing, el SEO, el Diseño, la Maquetación y el Desarrollo. 
     actions:
     - theme: brand
       text: Ver Proyectos 🧑‍💻

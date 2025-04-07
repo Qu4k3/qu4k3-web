@@ -1,0 +1,18 @@
+{
+  "name": "qu4k3-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "dev": "vitepress dev portfolio",
+    "build": "vitepress build portfolio",
+    "preview": "vitepress preview portfolio"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.3",
+    "vue": "3.5.13"
+  }
+}

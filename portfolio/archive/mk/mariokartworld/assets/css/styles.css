@@ -1,0 +1,488 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+@font-face {
+    font-family: AUdimat-Regular;
+    src: url("../fonts/AUdimat-Regular.otf") format('opentype');
+}
+
+@font-face {
+  font-family: Sed;
+  src: url("../fonts/SedgwickAveDisplay-Regular.ttf") format('opentype');
+}
+
+@font-face {
+    font-family: AUdimat-Bold;
+    src: url("../fonts/AUdimat-Bold.otf") format('opentype');
+}
+
+body {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'AUdimat-Bold', sans-serif !important;
+
+  background: url('../img/bg.jpg') no-repeat 50% 50% fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.overlay-inner::-webkit-scrollbar {
+    width: 8px;
+    background-color: #7289da;
+}
+
+.overlay-inner::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 1px rgba(0,0,0,0.3);
+    border-radius: 0px;
+    background-color: #1e2124;
+}
+
+.overlay-inner::-webkit-scrollbar-track-piece {
+    background-color: #1e2124;
+}
+
+.overlay-inner::-webkit-scrollbar-corner {
+    background-color: #7289da;
+}
+
+.overlay-inner::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.3);
+    background-color: #7289da;
+}
+
+.main-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  background: url('../img/bg.jpg') no-repeat 50% 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  transition: 1s opacity;
+}
+
+h1 {
+  font-family: "Sed", sans-serif;
+  font-size: 56px;
+  letter-spacing: 4px;
+}
+
+h4 {
+  font-family: "AUdimat-Regular", sans-serif;
+  font-size: 22px;
+  letter-spacing: 1px;
+}
+
+h4.temp-message {
+  font-family: "AUdimat-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+  border: 1.5px solid;
+  border-color: #7289da;
+  display: inline-block;
+  padding: 12px 22px;
+  animation: hue-rotate 6s linear infinite;
+  -webkit-transform: skewX(-20deg);
+  transform: skewX(-20deg);
+}
+
+h4.temp-message span {
+  display: block;
+  -webkit-transform: skewX(20deg);
+  transform: skewX(20deg);
+}
+
+h4.es-message {
+  font-family: "AUdimat-Regular", sans-serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background: rgba(0, 0, 0, 0.68);
+}
+
+.overlay-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  overflow-y: scroll;
+}
+
+.main-content {
+  margin-top: 40px;
+}
+
+
+.discord-wireframe {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.btn-discord {
+  position: relative;
+  padding-left: 44px;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  font-family: "Arial", sans-serif;
+
+  color: #fff;
+  background-color: #7289da;
+  border-color: rgba(0,0,0,0.2);
+
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+
+  transition: .25s ease-out;
+}
+
+.btn-discord:hover, .btn-discord:active, .btn-discord:focus {
+    color: #fff;
+    background-color: #5e78d5;
+    border-color: rgba(0,0,0,0.2);
+}
+
+.btn-block {
+    display: block;
+    max-width: 234px;
+    height: 60px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 45px;
+    text-align: right;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+.btn-social>:first-child {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    padding: 6px 10px;
+    text-align: center;
+    border-right: 1px solid rgba(0,0,0,0.2);
+}
+
+.discord-adjust {
+    -webkit-transition: opacity .2s;
+    margin: 4px 0 0 -24px;
+    opacity: .8;
+    overflow: hidden;
+    transition: opacity .2s;
+    width: 22px;
+  }
+
+
+ul {
+  /*max-width: 250px;*/
+  list-style: none;
+  margin: auto;
+  display: inline-block;
+}
+
+ul a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+ul a:hover, ul a:active, ul a:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+ul a:hover li {
+  box-shadow: inset 0 0 50px 25px rgba(0,0,0,0.8),
+              1px 6px 12px rgba(0, 0, 0, 0.5);
+      transform: scale(1.08);        
+}
+
+ul a li span i {
+      transition: .3s;      
+}
+
+ul a:hover li span i {
+  transform: scale(1.25);        
+}
+
+ul a img {
+  transition: .3s;         
+}
+
+ul a:hover img {
+  transform: scale(1.08);        
+}
+
+ul a li {
+  font-weight: bold;
+  display: inline-block;
+  border: 3px solid #7289da;
+  border-radius: 50%;
+  margin: 5px;
+  margin-bottom: 10px;
+  width: 175px;
+  height: 175px;
+  position: relative;
+  vertical-align: middle;
+  line-height: 175px;
+  background-color: rgba(0, 0, 0, 0.4);
+
+  transition: .3s;
+
+  box-shadow: 1px 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+ul a li span {
+  display: inline-block;
+  vertical-align: middle;
+  letter-spacing: 2px;
+  line-height: 22.1px;
+  text-transform: uppercase;
+}
+
+ul a li span i {
+  color: #7289da;
+  font-size: 32px !important;
+  padding-bottom: 10px;
+}
+
+ul a:nth-child(1) li {
+  animation: hue-rotate 3s linear infinite;
+  /*color: #919191;*/
+}
+
+ul a:nth-child(2) li {
+  animation: hue-rotate 5s linear infinite;
+}
+
+ul a:nth-child(3) li {
+  animation: hue-rotate 4s linear infinite;
+  /*color: #919191;*/
+}
+
+ul a:nth-child(4) li {
+  animation: hue-rotate 3.5s linear infinite;
+  /*color: #919191;*/
+}
+
+ul a:nth-child(5) {
+  animation: hue-rotate 4.5s linear infinite;
+}
+
+
+@keyframes hue-rotate{
+  from{
+    -webkit-filter:hue-rotate(0);
+    -moz-filter:hue-rotate(0);
+    -ms-filter:hue-rotate(0);
+    filter:hue-rotate(0);
+  }
+  to{
+    -webkit-filter:hue-rotate(360deg);
+    -moz-filter:hue-rotate(360deg);
+    -ms-filter:hue-rotate(360deg);
+    filter:hue-rotate(360deg);
+  }
+}
+
+
+footer {
+  margin: 25px 0 25px 0;
+  font-family: "AUdimat-Regular", sans-serif;
+  letter-spacing: 1px;
+
+}
+
+footer span {
+  line-height: 28.1px;
+  color: #c9c9c9;
+}
+/*
+.brand-footer {
+  padding: 4px 8px;
+  border-radius: 25px;
+  color: #fff;
+  text-decoration: none;
+
+  background: #7289da;
+  background: -webkit-linear-gradient(141deg,#7289da,#9C4BD1);
+  background: -o-linear-gradient(141deg,#7289da,#9C4BD1);
+  background: linear-gradient(141deg,#7289da,#9C4BD1);
+
+  transition: .3s;
+}
+
+.brand-footer:hover {
+  color: #fff;
+  text-decoration: none;
+
+  background: #5e78d5;
+  background: -webkit-linear-gradient(141deg,#5e78d5,#9137cc);
+  background: -o-linear-gradient(141deg,#5e78d5,#9137cc);
+  background: linear-gradient(141deg,#5e78d5,#9137cc);
+}*/
+
+.brand-footer {
+  color: #c9c9c9;
+  text-decoration: none;
+  transition: .2s;
+
+}
+
+.brand-footer:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social .fa {
+  padding: 15px;
+    font-size: 24px;
+    width: 54px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 5px 2px;
+
+  opacity: 0.72;
+
+  color: #fff;
+
+  transition: .2s;
+
+  box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.5);
+}
+
+.social .fa:hover {
+  color: #fff;
+  opacity: 1;
+}
+
+.fa-chevron-right {
+  color: #7289da;
+}
+
+
+.fa-facebook {
+  background-color: #3b5998;
+}
+
+.fa-twitter {
+  background-color: #1da1f2;
+}
+
+.fa-instagram {
+  background-color: #c13584;
+}
+
+.fa-youtube-play {
+  background-color: #cd201f;
+}
+
+.fa-twitch {
+  background-color: #6441a5;
+}
+
+.video-block {
+  margin-bottom: 20px;
+}
+
+.mkc {
+  position: relative;
+  width: 175px;
+  height: 175px;
+  display: inline-block;
+}
+
+.mkc img {
+  position: absolute;
+  bottom: 22px;
+  left: 0;
+  right: 0;
+  max-width: 100px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    margin-top: 50px;
+  }
+  .main-video {
+    display: none;
+  }
+  .overlay-inner::-webkit-scrollbar {
+      width: 5px;
+  }
+  .discord-section {
+    margin-top: 35px;
+  }
+  footer {
+    margin: 25px 0;
+  }
+
+  ul a li {
+    width: 150px !important;
+    height: 150px !important;
+
+    line-height: 150px !important;
+
+  }
+
+  .mkc img {
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    right: 0;
+    max-width: 80px;
+    margin: 0 auto;
+  }
+}

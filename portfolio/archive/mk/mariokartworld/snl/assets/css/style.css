@@ -1,0 +1,515 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: rgb(39,44,56);
+}
+
+body::before {
+	background-image: url(../images/bg_page-black.png);
+	z-index: -1;
+	filter: opacity(.05) contrast(80%) brightness(90%);
+	content: '';
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+	height: 100%;
+	background-repeat: repeat;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, div {
+	color: rgb(159,173,189);
+}
+
+.overlay {
+	background-color: rgba(0,0,0,.7);
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 800;
+	text-align: center !important;
+}
+
+.overlay .btn-discord {
+	margin: 0 auto;
+	line-height: 32px;
+}
+
+.overlay .alert {
+	max-width: 600px;
+	margin: 0 auto;
+	top: 50%;
+	transform: translateY(-50%);
+	padding: 12px;
+}
+
+.alert-info-t {
+	border-top: 4px solid #16a085 !important;
+	border-radius: 4px;
+	background-color: rgb(31,35,45);
+	padding: 18px 45px 14px 30px;
+}
+
+.nav.flex-column.nav-list-bricks > li > a {
+    background-color: rgb(31,35,45);
+    color: #8193a8;
+}
+
+.no-border {
+    border: none;
+}
+
+.no-m-top {
+    margin-top:0;
+}	
+
+.info {
+	position: relative;
+}
+
+.not-played {
+    position: absolute;
+    left: 0;
+    right: 0;
+    font-size: 12px;
+    top: 12px;
+    margin: 0 auto;
+}
+
+.not-played span {
+	background: #475468;
+	color: rgb(198, 208, 218);
+	padding: 3px 6px 4px;
+	border-radius: 4px;
+}
+
+.penal {
+	position: absolute;
+	right: 0;
+	left: 0;
+	text-align: center;
+	bottom: -10px;
+	z-index: 1;
+}
+
+.penal span {
+	border-radius: 4px;
+	padding: 2px 3px;
+	font-weight: bold;
+	color: #fff;
+	font-size: 9px;
+	background-color: rgba(146, 86, 243,.9);
+}
+
+.drop {
+	position: absolute;
+	right: 0;
+	left: 0;
+	text-align: center;
+	bottom: -10px;
+	z-index: 1;
+}
+
+.drop span {
+	border-radius: 4px;
+	padding: 2px 3px;
+	font-weight: bold;
+	color: #fff;
+	font-size: 9px;
+	background-color: rgba(232, 93, 117,.9);
+}
+
+.multiplica {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: -16px;
+	z-index: 1;
+}
+
+.multiplica span {
+	background-color: rgba(146, 86, 243,.9);
+	border-radius: 4px;
+	padding: 2px 3px;
+	font-weight: normal;
+	color: #fff;
+	font-size: 8px;
+}
+
+.modal-dialog {
+    pointer-events: auto;
+}
+
+.close-modal i {
+    background-color: rgb(31,35,45);
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 4px;
+	z-index: 20;
+	display: block;
+	font-size: 1.8rem;
+	color: #fff;
+line-height: .92;
+}
+
+.close-modal:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.modal-backdrop {
+    background-color: rgb(31,35,45);
+}
+
+.modal-content {
+    background-color: rgb(31,35,45);
+    border: none;
+    border-radius: 4px;
+}
+
+.modal-body {
+    padding: 0;
+}
+
+.nav.flex-column.nav-list-bricks > li > a.active {
+	color: #16a085;
+}
+
+footer {
+	background-color: #11161d;
+	margin-top: 20px;
+}
+
+.footer-inner {
+	padding: 15px 0;
+	text-align: center;
+}
+
+.footer-inner span{
+	font-size: 14px;	
+}
+
+.no-p {
+    padding: 0;
+}
+
+.no-p-left {
+    padding-left: 0;
+}
+.no-p-right {
+    padding-right: 0;
+}
+.no-p-top {
+    padding-top: 0;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.navbar {
+	border-radius: 0;
+	text-align: center;
+	background-color: transparent;
+}
+
+.snl-logo {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+	max-width: 120px;
+	padding: 8px 10px;
+}
+
+.team { 
+    display: inline-flex;
+    width: calc(50%);
+}
+
+.team .info {
+	display: inline-flex;
+	width: calc(100% - 43px);
+	padding: 8px 10px;
+}
+
+.team .logo {
+	width: 43px;
+	height: 43px;
+	display: inline-flex;
+	border-radius: 4px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.alert-info {
+	border-left: 4px solid #16a085;
+	border-radius: 4px;
+	background-color: rgb(31,35,45);
+}
+
+.war .war-info {
+	position: absolute;
+    bottom: -27px;
+    left: 0;
+    right: 0;
+    max-width: 35px;
+    margin: 0 auto;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	background-color: rgb(31,35,45);
+}
+
+.war-info .table {
+	padding: 6px 10px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+.war .war-info .table:hover {
+	cursor: pointer;
+}
+
+.team .name {
+	flex: 1;
+	white-space: nowrap;
+  	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 15px;
+}
+
+.team:nth-child(1) {	
+	text-align: left;
+}
+
+.team:nth-child(1) .score {	
+	text-align: right;
+	display: block;
+	margin-left: 5px;
+}
+
+.team:nth-child(2) {
+	text-align: right;
+}
+
+.team:nth-child(2) .score {
+	text-align: left;
+	display: block;
+	margin-right: 5px;
+}
+
+.btn-discord {
+	position: relative;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;   
+	color: #fff;
+	background-color: #7289da;
+	border-color: rgba(0,0,0,0.2);  
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);  
+	transition: .25s ease-out;
+	padding: 5px 5px 5px 2px;
+	font-size: 13px;
+	max-width: 210px;
+    margin: 0 auto;
+  }
+
+.btn-discord span {
+	margin-right: 5px;
+}
+
+.btn-discord span img {
+	max-width: 28px;
+	height: auto;
+}
+
+#table-modal {
+	overflow: hidden;
+}
+  
+.btn-discord:hover, .btn-discord:active, .btn-discord:focus {
+	  color: #fff;
+	  background-color: #5e78d5;
+	  border-color: rgba(0,0,0,0.2);
+}
+
+.nav.flex-column.nav-list-bricks > li.disabled > a, .nav.flex-column.nav-list-bricks > li.disabled > a:hover, .nav.flex-column.nav-list-bricks > li.disabled > a:focus {
+    background-color: #15171e;
+}
+
+.war {
+	display: inline-flex;
+	width: calc(50% - 2px);
+	background-color: rgb(31,35,45);
+    border-radius: 4px;
+    position: relative;
+    font-size: 16px;
+	margin: 10px 0 30px;
+	/*box-shadow: 0 2px 5px rgba(0,0,0,0.15);*/
+}
+
+.war .war-info.free-win {
+	max-width: 80px !important;
+	font-size: 12px;
+	bottom: -20px
+}
+
+.war .war-info.free-win span {
+	margin-left: 8px;
+}
+
+.war > .team > .info {
+	padding: 8px 5px 8px 10px;
+}
+
+.war > .team:nth-child(2) > .info {
+	padding: 8px 10px 8px 5px;
+}
+
+.score {
+	border-radius: 4px;
+	padding: 1px 5px 0 5px;
+	font-weight: bold;
+	color: #fff;
+	font-size: 15px;
+	position: relative;	
+}
+
+.nav-menu-separator {
+	margin-top: 13px;
+	margin-bottom: 10px;
+    border-top: 1px solid rgba(255,255,255,.08);
+}
+
+.score.draw{
+	/*background-color: rgb(2, 169, 255);*/
+	background-color: rgba(2, 169, 255,.4);
+}
+
+.score.lose {
+	/*background-color: rgba(255,0,0,.15);*/
+	background-color: rgba(232, 93, 117,.6);
+}
+
+.score.win {
+	/*background-color: rgba(0,255,0,.15);*/
+	background-color: rgba(104, 214, 57,.5);
+    /*border-color: #c3e6cb;*/
+}
+
+.team .tag {
+	display: none;
+	flex: 1;
+	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+}
+
+.nav-list-title {
+	font-size: .9rem;
+	margin-bottom: 5px;
+}
+
+.resultado-semanal {
+	text-align: center;
+	padding-top:20px;
+}
+
+.resultado-semanal h5 {
+	font-size: 22px;
+	text-align: left;
+}
+
+.resultado-semanal h5:not(:first-child) {
+	margin-top: 20px;
+}
+
+.resultado-semanal h5:first-child {
+	margin-top: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 8px;
+    background-color: #16a085;
+border-radius: 4px;
+}
+body::-webkit-scrollbar-corner {
+    background-color: #16a085;
+border-radius: 4px;
+}
+body::-webkit-scrollbar-thumb {
+    border-radius: 0;
+    -webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.3);
+    background-color: #16a085;
+border-radius: 4px;
+}
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.3);
+    border-radius: 0;
+    background-color: rgb(31,35,45);
+}
+body::-webkit-scrollbar-track-piece {
+    background-color: rgb(31,35,45);
+}
+
+@media (max-width: 575px) {
+	.war {
+		width: 100%;
+	}
+}
+
+@media (max-width: 767px) {
+	.team .tag {
+		display: block;
+	}
+	.team .name {
+		display: none;
+	}
+	.mobile-ok {
+		display: block;
+	}
+	.mobile-no {
+		display: none;
+	}
+}
+
+@media (min-width: 768px) {
+	.team .tag {
+		display: block;
+	}
+	.team .name {
+		display: none;
+	}
+	.desktop-no {
+		display: none;
+	}
+	.desktop-ok {
+		display: block;
+	}
+}
+
+@media (min-width: 992px) {
+	.team .tag {
+		display: none;
+	}
+	.team .name {
+		display: block;
+	}
+	
+}
+
+@media (min-width: 576px) {
+	.modal-dialog {
+		max-width: none !important;
+	}
+}

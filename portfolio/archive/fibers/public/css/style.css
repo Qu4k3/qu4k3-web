@@ -1,0 +1,114 @@
+html, body {
+    height: 100%;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.brand-logo {
+	font-family: "haxs", sans-serif !important;
+	font-size: 36px !important;
+	color: #ea4747 !important;
+}
+
+ul.dropdown-content {
+	padding-left: 0px !important;
+}
+
+.dropdown-content {
+	top: 64px !important;
+}
+
+.version {
+	font-size: 14px;
+	color: #ffab40;
+}
+
+.version:hover {
+	text-decoration: underline;
+}
+
+@media screen and (max-width:680px) {
+	.brand-logo {
+		font-family: "haxs", sans-serif !important;
+		font-size: 2.1rem !important;
+		color: #ea4747 !important;
+		right: 0.5rem !important;
+    	padding: 0;
+	}
+
+	.creadores {
+		text-align: center !important;
+		vertical-align: center;
+		padding-top: 0px;
+		padding-bottom: 10px !important;
+	}
+
+	.footer_cop {		
+		text-align: center !important;
+	}
+}
+
+.footer_cop {
+
+}
+
+.creadores {
+	text-align: right;
+	vertical-align: center;
+	padding-top: 10px !important;
+}
+
+
+@font-face {
+    font-family: america_purpose;
+    src: url(../fonts/American_Purpose_Casual_01.otf);
+    /*font-weight: bold;*/
+}
+
+@font-face {
+    font-family: haxs;
+    src: url(../fonts/haxs.ttf);
+    font-weight: lighter !important;
+}
+
+ul {
+	margin: 0;
+}
+
+ul li ul {
+	-webkit-padding-start: 10px !important;
+	padding-left: 10px;
+}
+
+.block_sub_title {
+	font-weight: bold;
+	color: #fff;
+}
+
+.square_icon {
+	margin-right: 5px;
+	font-size: 7px !important; 
+	color: darkgray;
+	vertical-align: middle;
+}
+
+.card .card-content .card-title {
+    line-height: 28px;
+    color: #ffab40;
+    font-weight: bold;
+}
+
+.card .card-content p {
+	margin-top: 10px;
+}
+
+.carousel {
+	max-height: 300px;
+}
+
+footer {
+	color: #ea4747;
+}

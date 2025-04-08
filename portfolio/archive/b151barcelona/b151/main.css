@@ -1,0 +1,95 @@
+body{
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	font-family: 'Fira Sans';    
+    font-weight: 500;
+
+    background: url(archivos/DSC_0006_mod.jpg) fixed; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+/* //////////////////////////////////////////////// */
+/* - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Header */
+
+header{
+    background: rgba(44,62,80,0.8);
+    color: #fff;
+}
+
+.imagen_izquierda{
+    margin-top: 50px;
+}
+
+.texto_derecha{
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 70px;
+    padding: 20px;
+    background-color:rgba(241,237,237,0.5);
+}
+
+#texto_cambios{
+    color: black;
+	width: 300px;
+    height: 400px;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 0;
+    background-color:rgba(104,104,104,0.8);
+}
+
+.galeria_imagenes{
+    margin-top: 50px;
+}
+
+.imagen{
+    padding: 30px;
+}
+
+.icono{
+    margin-right: 10px;
+    color: black;
+}
+
+.boton-grande{
+    text-align: center;
+/*
+    height: 65px;
+    width: 300px;
+    font-size: 250%;
+*/
+}
+
+/* //////////////////////////////////////////////// */
+/* - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Bitacora_de_actualizaciones */
+
+.actualizaciones{
+    margin-top: 25px;
+    color: black;
+}
+
+/* //////////////////////////////////////////////// */
+/* - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Footer */
+
+footer{
+    background: rgba(44,62,80,0.8);
+    color: #fff;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding: 5px;
+}

@@ -29,7 +29,7 @@ features:
     linkText: Saber más  
   - icon: ✨
     title: + 30 proyectos
-    details: He participado e ideado numerosos proyectos web y móvil para facilitar o mejorar aciones de la gente.
+    details: He participado e ideado numerosos proyectos web y móvil, con las intención de resolver una necesidad o facilitar tareas de la gente.
     link: /projects  
     linkText: Ver proyectos
   - icon: 🙋

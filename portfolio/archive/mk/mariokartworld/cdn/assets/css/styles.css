@@ -1,0 +1,235 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+@font-face {
+    font-family: AUdimat-Regular;
+    src: url("../fonts/AUdimat-Regular.otf") format('opentype');
+}
+
+@font-face {
+    font-family: AUdimat-Bold;
+    src: url("../fonts/AUdimat-Bold.otf") format('opentype');
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url("../fonts/OpenSans-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url("../fonts/OpenSans-Bold.ttf") format('truetype');
+}
+
+
+
+body {
+  color: #333;
+  font-size: 16px;
+  font-family: 'OpenSans-Regular', sans-serif !important;
+  margin-top: 50px;
+
+}
+
+.score-block {
+  border-radius: 5px;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.4);
+  margin-bottom: 15px;
+}
+
+.title-block {
+  text-align: center;
+  padding: 5px 0 15px 0; 
+  position: relative; 
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  z-index:-5;
+}
+
+.title-block .overlay {
+  background-color: rgba(0,0,0,0.3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -2;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.title-block h3 {
+  color: #fff;
+  z-index: 2;
+  font-family: "OpenSans-Bold", sans-serif;
+  text-shadow: 1px 1px 2px rgba(0,0,0,.6);
+}
+
+hr.sep {  
+  border: 0;
+  border-top: 2px solid #dd3333;
+  max-width: 40px;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.wr-tag {
+  background-color: rgba(219,183,54,.92);
+  border-radius: 20px;
+  padding: 0px 6px;
+}
+
+
+.title-block h4 {
+  color: #fff;
+  z-index: 2;
+  font-family: "OpenSans-Regular", sans-serif;
+  text-shadow: 1px 1px 4px rgba(0,0,0,.8);
+}
+
+.players-list {
+  padding: 5px 0;
+}
+
+.players-list table {
+  width: 100%;
+  border-collapse: separate !important;
+}
+
+.players-list table tr {
+  transition: .2s;
+  border-radius: 5px;
+}
+
+.players-list table tr:hover {
+  -ms-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  color: #dd3333;
+}
+
+/*.players-list table tr:first-of-type {
+  font-family: "OpenSans-Bold", sans-serif;
+}*/
+
+.flag-icon {
+  border-radius: 2px;
+}
+
+.players-list table tr td {
+  padding: 5px 0;
+}
+
+.players-list table tr td:nth-child(1) {
+  width: 20%;
+  text-align: center;
+}
+
+.players-list table tr td:nth-child(4) {
+  text-align: center;
+}
+
+
+.td-image {
+ text-align: center;
+}
+
+
+.td-image img {
+  height: auto;
+  max-height: 20px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.cups {
+  clear: both;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.cup {
+  height: 106px;
+  width: 106px;
+  background-image: url('../img/cup-sprite.png');
+  background-repeat: no-repeat;
+
+  -webkit-filter: grayscale(40%);
+    filter: grayscale(40%);
+
+    transition: .3s;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+.cup.active {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+  transform: scale(1.1);
+}
+
+.cup:hover {
+  -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.cup1 {
+  background-position: -0px -0px;
+}
+
+.cup2 {
+  background-position: -106px -0px;
+}
+
+.cup3 {
+  background-position: -212px -0px;
+}
+
+.cup4 {
+  background-position: -318px -0px;
+}
+
+.cup5 {
+  background-position: -0px -124px;
+}
+
+.cup6 {
+  background-position: -106px -124px;
+}
+
+.cup7 {
+  background-position: -212px -123px;
+}
+
+.cup8 {
+  background-position: -318px -123px;
+}
+
+.cup9 {
+  background-position: -0px -247px;
+}
+
+.cup10 {
+  background-position: -106px -247px;
+}
+
+.cup11 {
+  background-position: -212px -247px;
+}
+
+.cup12 {
+  background-position: -318px -246px;
+}

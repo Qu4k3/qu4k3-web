@@ -1,15 +1,31 @@
 [
   {
+    "type": "personal",
     "yearStart": "2023",
     "yearPublished": "2025",
     "title": "Killing Floor Zone",
     "description": "",
     "icon": "",
-    "status": "En proceso",
+    "headerBackgroundImg": "killingfloorzone-home.png",
+    "status": "En Desarrollo",
     "tech": ["Next.js", "Tailwind CSS", "Vercel", "Steam API"],
-    "favicon": "<img src='https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=20' alt='Killing Floor Zone' width='20'>",
+    "favicon": "<img src='https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=24' alt='Killing Floor Zone' width='24'>",
     "text": "Killing Floor Zone",
-    "link": "/projects/killingfloor-zone",
+    "link": "/proyecto/killingfloor-zone",
     "github": "https://github.com/Qu4k3/killingfloorzone"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2024",
+    "yearPublished": "2025",
+    "title": "Pocket Link",
+    "description": "",
+    "icon": "",
+    "status": "En Desarrollo",
+    "tech": ["Next.js", "Mantine", "Vercel", "Amazon Dynamo DB"],
+    "favicon": "<img src='https://www.google.com/s2/favicons?domain=pckt.link&amp;sz=24' alt='Pocket Link' width='24'>",
+    "text": "Pocket Link",
+    "link": "/proyecto/pckt-link",
+    "github": "https://github.com/Qu4k3/pckt-link"
   }
 ]

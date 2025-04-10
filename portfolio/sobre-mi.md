@@ -1,5 +1,7 @@
 Hey! ༼ ◕.◕ ༽つ
 
+<img src="/assets/img/paul-guillamon.jpeg" alt="Paul Guillamon" width="128" height="128" style="margin-bottom: 10px; border-radius: 10px; margin-top: -10px;" />
+
 # Soy Paul Guillamon,
 
 Desarrollador web con <strong>+10 años de experiencia</strong> en ámbitos como el
@@ -11,6 +13,8 @@ Puedes contactarme en:
 
 [![Discord](https://img.shields.io/badge/-discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/147882388347682816) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulguillamon/)
+
+[![Descargar CV en PDF](https://img.shields.io/badge/Descargar&nbsp;CV-F40F02?style=for-the-badge)](https://qu4k3.com/cv/CV_Paul_Guillamon.pdf)
 
 ## Mi Stack cotidiano
 

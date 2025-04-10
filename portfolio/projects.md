@@ -1,4 +1,0 @@
-# Proyectos
-
-## *Pendiente de definir*
-

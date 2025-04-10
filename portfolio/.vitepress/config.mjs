@@ -19,7 +19,7 @@ export default defineConfig({
   ],
   lang: 'es',
   title: "Qu4k3",
-  titleTemplate: 'Portfolio de Qu4k3',
+  titleTemplate: 'Portfolio de Paul Guillamón',
   description: "Portfolio personal con mis proyectos y trabajos :)",
   cleanUrls: true,
   lastUpdated: false,
@@ -53,8 +53,9 @@ export default defineConfig({
     ],
 
     nav: [
-      { text: 'Sobre mí', link: '/about' },
-      { text: 'Proyectos', link: '/projects' }
+      { text: 'Sobre mí', link: '/sobre-mi' },
+      { text: 'Proyectos', link: '/proyectos' },
+      { text: 'CV', link: '/cv/CV_Paul_Guillamon.pdf' }
     ],
 
     socialLinks: [
@@ -74,7 +75,7 @@ export default defineConfig({
     returnToTopLabel: "Volver arriba ↑",
 
     sidebar: {
-      '/project': [
+      '/proyecto': [
         {
           text: 'Proyectos Personales',
           collapsed: false,
@@ -85,10 +86,10 @@ export default defineConfig({
               text: '[2025]',
               collapsed: false,
               items: [
-                { text: '<img src="https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=20" alt="Killing Floor Zone" width="20"> Killing Floor Zone', link: '/project/killingfloor-zone' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=pckt.link&amp;sz=20" alt="Pocket Link" width="20"> Pocket Link', link: '/project/pckt-link' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v2', link: '/project/fibers' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v2', link: '/project/qu4k3' }
+                { text: '<img src="https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=20" alt="Killing Floor Zone" width="20"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=pckt.link&amp;sz=20" alt="Pocket Link" width="20"> Pocket Link', link: '/proyecto/pckt-link' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v2', link: '/proyecto/fibers' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v2', link: '/proyecto/qu4k3' }
               ]
             },
             {
@@ -98,10 +99,10 @@ export default defineConfig({
                 {
                   text: 'Disboard',
                   items: [
-                    { text: '<img src="https://www.google.com/s2/favicons?domain=disboard.team&amp;sz=20" alt="Disboard" width="20"> Web', link: '/project/disboard-website' },
-                    { text: '<img src="https://www.google.com/s2/favicons?domain=api.disboard.team&amp;sz=20" alt="Disboard" width="20"> API', link: '/project/disboard-api' },
-                    { text: '<img src="https://www.google.com/s2/favicons?domain=docs.disboard.team&amp;sz=20" alt="Disboard" width="20"> Documentación', link: '/project/disboard-docs' },
-                    { text: '<img src="https://www.google.com/s2/favicons?domain=bot.disboard.team&amp;sz=20" alt="Disboard" width="20"> Discord Bot', link: '/project/disboard-bot' }
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=disboard.team&amp;sz=20" alt="Disboard" width="20"> Web', link: '/proyecto/disboard-website' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=api.disboard.team&amp;sz=20" alt="Disboard" width="20"> API', link: '/proyecto/disboard-api' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=docs.disboard.team&amp;sz=20" alt="Disboard" width="20"> Documentación', link: '/proyecto/disboard-docs' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=bot.disboard.team&amp;sz=20" alt="Disboard" width="20"> Discord Bot', link: '/proyecto/disboard-bot' }
                   ]
                 }
               ]
@@ -115,23 +116,23 @@ export default defineConfig({
                 text: '[2024]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=inefable.day&amp;sz=20" alt="Inefable" width="20"> Inefable', link: '/project/inefable' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=inefable.day&amp;sz=20" alt="Inefable" width="20"> Inefable', link: '/proyecto/inefable' },
                 ]
               },
               {
                 text: '[2021]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=app-eventos.vercel.app&amp;sz=20" alt="CEU Eventos" width="20"> CEU Eventos', link: '/project/ceu-events-scanner' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=app-eventos.vercel.app&amp;sz=20" alt="CEU Eventos" width="20"> CEU Eventos', link: '/proyecto/ceu-events-scanner' },
                 ]
               },
               {
                 text: '[2018]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=animeinstitute.net&amp;sz=20" alt="Anime Institute" width="20"> Anime Institute', link: '/project/animeinstitute' },
-                  { text: 'NVersus', link: '/project/nversus' },
-                  { text: 'Discord Themes', link: '/project/dthemes' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=animeinstitute.net&amp;sz=20" alt="Anime Institute" width="20"> Anime Institute', link: '/proyecto/animeinstitute' },
+                  { text: 'NVersus', link: '/proyecto/nversus' },
+                  { text: 'Discord Themes', link: '/proyecto/dthemes' },
                 ]
               },
               {
@@ -141,36 +142,36 @@ export default defineConfig({
                   {
                     text: 'Mario Kart',
                     items: [
-                      { text: 'Discord Bot (Lakitu)', link: '/project/mk-lakitu' },
-                      { text: 'Mario Kart World', link: '/project/mk-mkw' },
-                      { text: 'CEMK', link: '/project/mk-cemk' },
-                      { text: 'FEMK', link: '/project/mk-femk' },
-                      { text: 'Torneo Interautonómico', link: '/project/mk-torneo-interautonomico' },
-                      { text: 'SNL', link: '/project/mk-snl' }
+                      { text: 'Discord Bot (Lakitu)', link: '/proyecto/mk-lakitu' },
+                      { text: 'Mario Kart World', link: '/proyecto/mk-mkw' },
+                      { text: 'CEMK', link: '/proyecto/mk-cemk' },
+                      { text: 'FEMK', link: '/proyecto/mk-femk' },
+                      { text: 'Torneo Interautonómico', link: '/proyecto/mk-torneo-interautonomico' },
+                      { text: 'SNL', link: '/proyecto/mk-snl' }
                     ]
                   },
-                  { text: 'MHW Guild', link: '/project/mhw-guild' },
-                  { text: 'Zerg Pulse', link: '/project/zerg-pulse' },
-                  { text: 'Fibers v1', link: '/project/fibers-v2017' },
-                  { text: 'Pong', link: '/project/pong' },
-                  { text: 'Ecard Game', link: '/project/ecard-game' },
-                  { text: 'ASCII Art', link: '/project/ascii-art' },
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v1', link: '/project/qu4k3-v2017' }
+                  { text: 'MHW Guild', link: '/proyecto/mhw-guild' },
+                  { text: 'Zerg Pulse', link: '/proyecto/zerg-pulse' },
+                  { text: 'Fibers v1', link: '/proyecto/fibers-v2017' },
+                  { text: 'Pong', link: '/proyecto/pong' },
+                  { text: 'Ecard Game', link: '/proyecto/ecard-game' },
+                  { text: 'ASCII Art', link: '/proyecto/ascii-art' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v1', link: '/proyecto/qu4k3-v2017' }
                 ]
               },
               {
                 text: '[2016]',
                 collapsed: false,
                 items: [
-                  { text: 'Fibers v0', link: '/project/fibers-v2016' },
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=kiznaiver.net&amp;sz=20" alt="" width="20"> Kiznaiver', link: '/project/kiznaiver' },
+                  { text: 'Fibers v0', link: '/proyecto/fibers-v2016' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=kiznaiver.net&amp;sz=20" alt="" width="20"> Kiznaiver', link: '/proyecto/kiznaiver' },
                 ]
               },
               {
                 text: '[2015]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="" width="20"> Qu4k3 v0', link: '/project/qu4k3-v2015' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="" width="20"> Qu4k3 v0', link: '/proyecto/qu4k3-v2015' },
                 ]
               }
             ]
@@ -184,22 +185,22 @@ export default defineConfig({
               text: '[2024]',
               collapsed: false,
               items: [
-                { text: '<img src="https://www.google.com/s2/favicons?domain=cms.tratar.es&amp;sz=20" alt="" width="20"> Tratar', link: '/project/tratar' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=cms.tratar.es&amp;sz=20" alt="" width="20"> Tratar', link: '/proyecto/tratar' },
               ]
             },
             {
               text: '[2021]',
               collapsed: false,
               items: [
-                { text: 'UAO App Eventos', link: '/project/uao-app-events' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=esmena.cat&amp;sz=20" alt="" width="20"> L\'Esmena', link: '/project/esmena' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=llibrenet.com&amp;sz=20" alt="" width="20"> Llibrenet', link: '/project/llibrenet' },
+                { text: 'UAO App Eventos', link: '/proyecto/uao-app-events' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=esmena.cat&amp;sz=20" alt="" width="20"> L\'Esmena', link: '/proyecto/esmena' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=llibrenet.com&amp;sz=20" alt="" width="20"> Llibrenet', link: '/proyecto/llibrenet' },
                 {
                   text: '<img src="https://www.google.com/s2/favicons?domain=inone.es&amp;sz=20" alt="" width="20"> InOne',
                   items: [
-                    { text: 'Design System', link: '/project/inone-design-system' },
-                    { text: 'Maquetación de Mails', link: '/project/inone-mailing-designs' },
-                    { text: 'MJML Editor', link: '/project/inone-grapejs-mjml' },
+                    { text: 'Design System', link: '/proyecto/inone-design-system' },
+                    { text: 'Maquetación de Mails', link: '/proyecto/inone-mailing-designs' },
+                    { text: 'MJML Editor', link: '/proyecto/inone-grapejs-mjml' },
                   ]
                 },
               ]
@@ -208,28 +209,28 @@ export default defineConfig({
               text: '[2020]',
               collapsed: false,
               items: [
-                { text: '<img src="https://www.google.com/s2/favicons?domain=mailing-repo.vercel.app&amp;sz=20" alt="" width="20"> UAO Mailing Repository', link: '/project/uao-mailing-repository' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=farelleditors.cat&amp;sz=20" alt="" width="20"> Farell Editors', link: '/project/farell-editors' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=pmglobalex.com&amp;sz=20" alt="" width="20"> Globalex', link: '/project/globalex' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=lei-network.com&amp;sz=20" alt="" width="20"> LEI Network', link: '/project/lei-network' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=mailing-repo.vercel.app&amp;sz=20" alt="" width="20"> UAO Mailing Repository', link: '/proyecto/uao-mailing-repository' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=farelleditors.cat&amp;sz=20" alt="" width="20"> Farell Editors', link: '/proyecto/farell-editors' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=pmglobalex.com&amp;sz=20" alt="" width="20"> Globalex', link: '/proyecto/globalex' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=lei-network.com&amp;sz=20" alt="" width="20"> LEI Network', link: '/proyecto/lei-network' },
               ]
             },
             {
               text: '[2019]',
               collapsed: false,
               items: [
-                { text: '<img src="https://www.google.com/s2/favicons?domain=js-arquitecto.com&amp;sz=20" alt="" width="20"> JS Arquitecto', link: '/project/js-arquitecto' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=gotoikoncierge.com&amp;sz=20" alt="" width="20"> GoToikoncierge', link: '/project/gotoikoncierge' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=lei-network.com&amp;sz=20" alt="" width="20"> Wanda t-shirt', link: '/project/wanda-t-shirt' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=clinicaabedentpodologia.com&amp;sz=20" alt="" width="20"> Clínica Abedent Podología', link: '/project/clinica-abedent-podologia' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=js-arquitecto.com&amp;sz=20" alt="" width="20"> JS Arquitecto', link: '/proyecto/js-arquitecto' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=gotoikoncierge.com&amp;sz=20" alt="" width="20"> GoToikoncierge', link: '/proyecto/gotoikoncierge' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=lei-network.com&amp;sz=20" alt="" width="20"> Wanda t-shirt', link: '/proyecto/wanda-t-shirt' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=clinicaabedentpodologia.com&amp;sz=20" alt="" width="20"> Clínica Abedent Podología', link: '/proyecto/clinica-abedent-podologia' },
               ]
             },
             {
               text: '[2018]',
               collapsed: false,
               items: [
-                { text: '<img src="https://www.google.com/s2/favicons?domain=lfb.es&amp;sz=20" alt="" width="20"> Liceo Francés de Barcelona (LFB)', link: '/project/lfb' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=iconciergerc.com&amp;sz=20" alt="" width="20"> iConcierge Red Carpet', link: '/project/iconciergerc' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=lfb.es&amp;sz=20" alt="" width="20"> Liceo Francés de Barcelona (LFB)', link: '/proyecto/lfb' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=iconciergerc.com&amp;sz=20" alt="" width="20"> iConcierge Red Carpet', link: '/proyecto/iconciergerc' },
               ]
             },
             {
@@ -239,20 +240,20 @@ export default defineConfig({
                 {
                   text: 'IBA',
                   items: [
-                    { text: 'Panorama d\'Art', link: '/project/iba-panoramadart' },
-                    { text: 'B151 Barcelona', link: '/project/iba-b151-barcelona' },
-                    { text: 'Institut Barcelonés d\'Art', link: '/project/iba-institutbarcelonesdart' },
+                    { text: 'Panorama d\'Art', link: '/proyecto/iba-panoramadart' },
+                    { text: 'B151 Barcelona', link: '/proyecto/iba-b151-barcelona' },
+                    { text: 'Institut Barcelonés d\'Art', link: '/proyecto/iba-institutbarcelonesdart' },
                   ]
                 },
-                { text: 'Evoluginos', link: '/project/evoluginos' },
-                { text: 'Marketplace Barcelona', link: '/project/marketplace-barcelona' },
-                { text: 'KRN Accessories', link: '/project/krn-accessories' },
-                { text: 'Lovely Families', link: '/project/lovelyfamilies' },
+                { text: 'Evoluginos', link: '/proyecto/evoluginos' },
+                { text: 'Marketplace Barcelona', link: '/proyecto/marketplace-barcelona' },
+                { text: 'KRN Accessories', link: '/proyecto/krn-accessories' },
+                { text: 'Lovely Families', link: '/proyecto/lovelyfamilies' },
                 {
                   text: 'AccelGrow',
                   items: [
-                    { text: 'AccelGrow', link: '/project/accelgrow' },
-                    { text: 'Boostartup', link: '/project/boostartup' }
+                    { text: 'AccelGrow', link: '/proyecto/accelgrow' },
+                    { text: 'Boostartup', link: '/proyecto/boostartup' }
                   ]
                 },
               ]
@@ -261,7 +262,7 @@ export default defineConfig({
               text: '[2015]',
               collapsed: false,
               items: [
-                { text: 'Medical Nutribalance', link: '/project/medical-nutribalance' },
+                { text: 'Medical Nutribalance', link: '/proyecto/medical-nutribalance' },
               ]
             },
           ]

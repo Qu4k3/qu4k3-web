@@ -152,7 +152,7 @@ export default defineConfig({
                   },
                   { text: 'MHW Guild', link: '/proyecto/mhw-guild' },
                   { text: 'Zerg Pulse', link: '/proyecto/zerg-pulse' },
-                  { text: 'Fibers v1', link: '/proyecto/fibers-v2017' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v1', link: '/proyecto/fibers-v2017' },
                   { text: 'Pong', link: '/proyecto/pong' },
                   { text: 'Ecard Game', link: '/proyecto/ecard-game' },
                   { text: 'ASCII Art', link: '/proyecto/ascii-art' },
@@ -163,7 +163,7 @@ export default defineConfig({
                 text: '[2016]',
                 collapsed: false,
                 items: [
-                  { text: 'Fibers v0', link: '/proyecto/fibers-v2016' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v0', link: '/proyecto/fibers-v2016' },
                   { text: '<img src="https://www.google.com/s2/favicons?domain=kiznaiver.net&amp;sz=20" alt="" width="20"> Kiznaiver', link: '/proyecto/kiznaiver' },
                 ]
               },

@@ -1,53 +1,59 @@
-# Proyectos
+# Listado de Proyectos
+
+### (*Pendiente de completar todos los proyectos*)
+
+Aquí encontrarás un avance de todos los proyectos
 
 <script setup>
 import projects from './data/projects.json';
 
 // Group projects by type
-/*const groupProjectsByType = projects.reduce((groups, project) => {
+const groupProjectsByType = projects.reduce((groups, project) => {
   if (!groups[project.type]) {
     groups[project.type] = [];
   }
   groups[project.type].push(project);
   return groups;
-}, {});*/
+}, {});
 </script>
 
-## Personales
-
 <template>
-  <div class="projects-container">
-    <div v-for="project in projects" :key="project.title" class="project-card">
-      <div class="project-header">
-        <img v-if="project.headerBackgroundImg" :src="`/assets/img/projects/${project.headerBackgroundImg}`" alt="`${project.title}` Image" />  
-        <p :class="[
-          'status',
-          {
-            'status-in-progress': project.status === 'En Desarrollo',
-            'status-completed': project.status === 'Finalizado',
-            'status-abandoned': project.status === 'Abandonado'
-          }
-        ]">
-          {{ project.status }}
-        </p> 
-        <p class="projects-activity">
-          {{ project.yearStart }}
-          <span v-if="project.yearEnd"> - {{ project.yearEnd }}</span>
-          <span v-else> - Actualidad</span>
-        </p>     
-      </div>
-      <div class="project-title">
-        <span v-html="project.favicon"></span>
-        <h3>{{ project.title }}</h3>
-      </div>
-      <div class="project-content">
-        <p class="project-tech">
-          <strong>Tech Stack:</strong>
-          <span v-for="(tech, index) in project.tech" :key="index">{{ tech }}</span>
-        </p>
-        <div class="project-links">
-          <a :href="project.link">Ver Proyecto <img src="/assets/img/move-up-right.svg" alt="Proyecto" width="16" /></a>
-          <a class="github" :href="project.github" target="_blank">GitHub <img src="/assets/img/github.svg" alt="GitHub" width="16" /></a>
+  <div v-for="(group, type) in groupProjectsByType" :key="type">
+    <h2 v-if="type === 'personal'" id="personales" tabindex="-1">Personales <a class="header-anchor" href="#personales" aria-label="Permalink to &quot;Personales&quot;">&ZeroWidthSpace;</a></h2>
+    <h2 v-else-if="type === 'cliente'" id="para-clientes" tabindex="-1">Para clientes <a class="header-anchor" href="#para-clientes" aria-label="Permalink to &quot;Para&quot;Clientes&quot;">&ZeroWidthSpace;</a></h2>
+    <div class="projects-container">
+      <div v-for="project in group" :key="project.title" class="project-card">
+        <div class="project-header">
+          <img v-if="project.headerBackgroundImg" :src="`/assets/img/projects/${project.headerBackgroundImg}`" alt="`${project.title}` Image" />  
+          <p :class="[
+            'status',
+            {
+              'status-in-progress': project.status === 'En Desarrollo',
+              'status-completed': project.status === 'Finalizado',
+              'status-abandoned': project.status === 'Abandonado'
+            }
+          ]">
+            {{ project.status }}
+          </p> 
+          <p class="projects-activity">
+            {{ project.yearStart }}
+            <span v-if="project.yearEnd"> - {{ project.yearEnd }}</span>
+            <span v-else> - Actualidad</span>
+          </p>     
+        </div>
+        <div class="project-title">
+          <img v-if="project.favicon" :src="project.favicon" alt="`${project.title}` Favicon" width="24" />
+          <h3>{{ project.title }}</h3>
+        </div>
+        <div class="project-content">
+          <p class="project-tech">
+            <strong>Tech Stack:</strong>
+            <span v-for="(tech, index) in project.tech" :key="index">{{ tech }}</span>
+          </p>
+          <div class="project-links">
+            <a :href="project.link">Ver Proyecto <img src="/assets/img/move-up-right.svg" alt="Proyecto" width="16" /></a>
+            <a v-if="project.github" class="github" :href="project.github" target="_blank">GitHub <img src="/assets/img/github.svg" alt="GitHub" width="16" /></a>
+          </div>
         </div>
       </div>
     </div>
@@ -93,7 +99,12 @@ template {
   padding-left: 1rem;
   padding-right: 1rem;
   display: flex;
+  align-items: center;
   gap: 10px;
+}
+
+.project-title img {
+  border-radius: 8px;
 }
 
 .project-title h3 {

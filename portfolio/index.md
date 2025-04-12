@@ -35,6 +35,6 @@ features:
   - icon: 🙋
     title: + 15 clientes
     details: He tenido la suerte de ayudar, orientar y auditar numerosos proyectos de emprendedores, dueños de tiendas online, etc. Ofreciendo apoyo, saber y acompañamiento en el proceso de migración o creación de sus productos.
-    link: /proyectos
+    link: /proyectos#para-clientes
     linkText: Ver proyectos de clientes
 ---

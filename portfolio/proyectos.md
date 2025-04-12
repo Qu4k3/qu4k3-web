@@ -13,6 +13,7 @@ const groupProjectsByType = projects.reduce((groups, project) => {
     groups[project.type] = [];
   }
   groups[project.type].push(project);
+  groups[project.type].sort((a, b) => b.yearStart - a.yearStart); // Sort by yearStart
   return groups;
 }, {});
 </script>
@@ -91,7 +92,7 @@ template {
 }
 
 .project-header:not(:has(img)) {
-  padding-top: 90px;
+  padding-top: 85px;
 }
 
 .project-title {
@@ -104,7 +105,7 @@ template {
 }
 
 .project-title img {
-  border-radius: 8px;
+  border-radius: 4px;
 }
 
 .project-title h3 {
@@ -123,7 +124,7 @@ template {
   border-radius: 4px;
   margin: 0;
   position: absolute;
-  bottom: 50px;
+  bottom: 45px;
   left: 10px;
   color: #fff;
 }

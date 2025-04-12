@@ -28,12 +28,12 @@ features:
     link: /sobre-mi
     linkText: Saber más  
   - icon: ✨
-    title: + 30 proyectos
-    details: He participado e ideado numerosos proyectos web y móvil, con las intención de resolver una necesidad o facilitar tareas de la gente.
+    title: +30 proyectos
+    details: He ideado y colaborado en más de 30 proyectos web y móvil, siempre con el objetivo de resolver necesidades reales y brindar soluciones prácticas y accesibles.
     link: /proyectos
     linkText: Ver proyectos
   - icon: 🙋
-    title: + 15 clientes
+    title: +15 clientes
     details: He tenido la suerte de ayudar, orientar y auditar numerosos proyectos de emprendedores, dueños de tiendas online, etc. Ofreciendo apoyo, saber y acompañamiento en el proceso de migración o creación de sus productos.
     link: /proyectos#para-clientes
     linkText: Ver proyectos de clientes

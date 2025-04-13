@@ -87,6 +87,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: '<img src="https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=20" alt="Killing Floor Zone" width="20"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=medilens.es&amp;sz=20" alt="Killing Floor Zone" width="20"> MediLens', link: '/proyecto/medilens' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=pckt.link&amp;sz=20" alt="Pocket Link" width="20"> Pocket Link', link: '/proyecto/pckt-link' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v2', link: '/proyecto/fibers' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v2', link: '/proyecto/qu4k3' }
@@ -123,7 +124,7 @@ export default defineConfig({
                 text: '[2021]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="https://www.google.com/s2/favicons?domain=app-eventos.vercel.app&amp;sz=20" alt="CEU Eventos" width="20"> CEU Eventos', link: '/proyecto/ceu-events-scanner' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=ceu.es&amp;sz=20" alt="CEU Eventos" width="20"> CEU Eventos', link: '/proyecto/ceu-events-scanner' },
                 ]
               },
               {
@@ -131,8 +132,9 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                   { text: '<img src="https://www.google.com/s2/favicons?domain=animeinstitute.net&amp;sz=20" alt="Anime Institute" width="20"> Anime Institute', link: '/proyecto/animeinstitute' },
-                  { text: 'NVersus', link: '/proyecto/nversus' },
-                  { text: 'Discord Themes', link: '/proyecto/dthemes' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=nversus.com&amp;sz=20" alt="" width="20"> NVersus', link: '/proyecto/nversus' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=discordthemes.net&amp;sz=20" alt="" width="20"> Discord Themes', link: '/proyecto/dthemes' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=iceforce.team&amp;sz=20" alt="" width="20"> iForce Team', link: '/proyecto/iforce-team' },
                 ]
               },
               {
@@ -140,22 +142,22 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                   {
-                    text: 'Mario Kart',
+                    text: '<img src="https://www.google.com/s2/favicons?domain=mariokart8.nintendo.com&amp;sz=20" alt="" width="20"> Mario Kart',
                     items: [
-                      { text: 'Discord Bot (Lakitu)', link: '/proyecto/mk-lakitu' },
-                      { text: 'Mario Kart World', link: '/proyecto/mk-mkw' },
-                      { text: 'CEMK', link: '/proyecto/mk-cemk' },
-                      { text: 'FEMK', link: '/proyecto/mk-femk' },
-                      { text: 'Torneo Interautonómico', link: '/proyecto/mk-torneo-interautonomico' },
-                      { text: 'SNL', link: '/proyecto/mk-snl' }
+                      { text: '<img src="https://www.google.com/s2/favicons?domain=bot.mariokartworld.com&amp;sz=20" alt="" width="20"> Discord Bot (Lakitu)', link: '/proyecto/mk-lakitu' },
+                      { text: '<img src="https://www.google.com/s2/favicons?domain=mariokartworld.com&amp;sz=20" alt="" width="20"> Mario Kart World', link: '/proyecto/mk-mkw' },
+                      { text: '<img src="https://www.google.com/s2/favicons?domain=cemk.es&amp;sz=20" alt="" width="20"> CEMK', link: '/proyecto/mk-cemk' },
+                      { text: '<img src="https://www.google.com/s2/favicons?domain=femk.es&amp;sz=20" alt="" width="20"> FEMK', link: '/proyecto/mk-femk' },
+                      { text: '<img src="https://www.google.com/s2/favicons?domain=mariokartworld.com&amp;sz=20" alt="" width="20"> Torneo Interautonómico', link: '/proyecto/mk-torneo-interautonomico' },
+                      { text: '<img src="https://www.google.com/s2/favicons?domain=mariokartworld.com&amp;sz=20" alt="" width="20"> SNL', link: '/proyecto/mk-snl' }
                     ]
                   },
-                  { text: 'MHW Guild', link: '/proyecto/mhw-guild' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=mhwguild.com&amp;sz=20" alt="Fibers" width="20"> MHW Guild', link: '/proyecto/mhw-guild' },
                   { text: 'Zerg Pulse', link: '/proyecto/zerg-pulse' },
                   { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=20" alt="Fibers" width="20"> Fibers v1', link: '/proyecto/fibers-v2017' },
                   { text: 'Pong', link: '/proyecto/pong' },
-                  { text: 'Ecard Game', link: '/proyecto/ecard-game' },
-                  { text: 'ASCII Art', link: '/proyecto/ascii-art' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=ecardgame.io&amp;sz=20" alt="Qu4k3" width="20"> Ecard Game', link: '/proyecto/ecard-game' },
+                  { text: '<img src="https://www.google.com/s2/favicons?domain=asciiart.io&amp;sz=20" alt="Qu4k3" width="20"> ASCII Art', link: '/proyecto/ascii-art' },
                   { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=20" alt="Qu4k3" width="20"> Qu4k3 v1', link: '/proyecto/qu4k3-v2017' }
                 ]
               },
@@ -192,24 +194,17 @@ export default defineConfig({
               text: '[2021]',
               collapsed: false,
               items: [
-                { text: 'UAO App Eventos', link: '/proyecto/uao-app-events' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=ceu.es&amp;sz=20" alt="" width="20"> UAO App Eventos', link: '/proyecto/uao-app-events' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=esmena.cat&amp;sz=20" alt="" width="20"> L\'Esmena', link: '/proyecto/esmena' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=llibrenet.com&amp;sz=20" alt="" width="20"> Llibrenet', link: '/proyecto/llibrenet' },
-                {
-                  text: '<img src="https://www.google.com/s2/favicons?domain=inone.es&amp;sz=20" alt="" width="20"> InOne',
-                  items: [
-                    { text: 'Design System', link: '/proyecto/inone-design-system' },
-                    { text: 'Maquetación de Mails', link: '/proyecto/inone-mailing-designs' },
-                    { text: 'MJML Editor', link: '/proyecto/inone-grapejs-mjml' },
-                  ]
-                },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=inone.es&amp;sz=20" alt="" width="20"> InOne', link: '/proyecto/inone' }
               ]
             },
             {
               text: '[2020]',
               collapsed: false,
               items: [
-                { text: '<img src="https://www.google.com/s2/favicons?domain=mailing-repo.vercel.app&amp;sz=20" alt="" width="20"> UAO Mailing Repository', link: '/proyecto/uao-mailing-repository' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=ceu.es&amp;sz=20" alt="" width="20"> UAO Mailing Repository', link: '/proyecto/uao-mailing-repository' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=farelleditors.cat&amp;sz=20" alt="" width="20"> Farell Editors', link: '/proyecto/farell-editors' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=pmglobalex.com&amp;sz=20" alt="" width="20"> Globalex', link: '/proyecto/globalex' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=lei-network.com&amp;sz=20" alt="" width="20"> LEI Network', link: '/proyecto/lei-network' },
@@ -240,20 +235,20 @@ export default defineConfig({
                 {
                   text: 'IBA',
                   items: [
-                    { text: 'Panorama d\'Art', link: '/proyecto/iba-panoramadart' },
-                    { text: 'B151 Barcelona', link: '/proyecto/iba-b151-barcelona' },
-                    { text: 'Institut Barcelonés d\'Art', link: '/proyecto/iba-institutbarcelonesdart' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=panoramadart.com&amp;sz=20" alt="" width="20"> Panorama d\'Art', link: '/proyecto/iba-panoramadart' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=b151barcelona.com&amp;sz=20" alt="" width="20"> B151 Barcelona', link: '/proyecto/iba-b151-barcelona' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=iba.cat&amp;sz=20" alt="" width="20"> Institut Barcelonés d\'Art', link: '/proyecto/iba-institutbarcelonesdart' },
                   ]
                 },
-                { text: 'Evoluginos', link: '/proyecto/evoluginos' },
-                { text: 'Marketplace Barcelona', link: '/proyecto/marketplace-barcelona' },
-                { text: 'KRN Accessories', link: '/proyecto/krn-accessories' },
-                { text: 'Lovely Families', link: '/proyecto/lovelyfamilies' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=evoluginos.com&amp;sz=20" alt="" width="20"> Evoluginos', link: '/proyecto/evoluginos' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=marketplacebarcelona.com&amp;sz=20" alt="" width="20"> Marketplace Barcelona', link: '/proyecto/marketplace-barcelona' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=krnaccessories.com&amp;sz=20" alt="" width="20"> KRN Accessories', link: '/proyecto/krn-accessories' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=lovelyfamilies.com&amp;sz=20" alt="" width="20"> Lovely Families', link: '/proyecto/lovelyfamilies' },
                 {
                   text: 'AccelGrow',
                   items: [
-                    { text: 'AccelGrow', link: '/proyecto/accelgrow' },
-                    { text: 'Boostartup', link: '/proyecto/boostartup' }
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=accelgrow.com&amp;sz=20" alt="" width="20"> AccelGrow', link: '/proyecto/accelgrow' },
+                    { text: '<img src="https://www.google.com/s2/favicons?domain=boostartup.es&amp;sz=20" alt="" width="20"> Boostartup', link: '/proyecto/boostartup' }
                   ]
                 },
               ]
@@ -262,7 +257,7 @@ export default defineConfig({
               text: '[2015]',
               collapsed: false,
               items: [
-                { text: 'Medical Nutribalance', link: '/proyecto/medical-nutribalance' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=medicalnutribalance.com&amp;sz=20" alt="" width="20"> Medical Nutribalance', link: '/proyecto/medical-nutribalance' },
               ]
             },
           ]

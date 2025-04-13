@@ -1,3 +1,3 @@
-# inOne Design System
+# MediLens
 
 ## *Pendiente de definir*

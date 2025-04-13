@@ -1,3 +1,3 @@
-# inOne GrapeJs x MJML
+# iForce Team
 
 ## *Pendiente de definir*

@@ -22,6 +22,7 @@ const groupProjectsByType = projects.reduce((groups, project) => {
   <div v-for="(group, type) in groupProjectsByType" :key="type">
     <h2 v-if="type === 'personal'" id="personales" tabindex="-1">Personales <a class="header-anchor" href="#personales" aria-label="Permalink to &quot;Personales&quot;">&ZeroWidthSpace;</a></h2>
     <h2 v-else-if="type === 'cliente'" id="para-clientes" tabindex="-1">Para clientes <a class="header-anchor" href="#para-clientes" aria-label="Permalink to &quot;Para&quot;Clientes&quot;">&ZeroWidthSpace;</a></h2>
+    <h2 v-else-if="type === 'otros'" id="otros" tabindex="-1">Otros <a class="header-anchor" href="#otros" aria-label="Permalink to &quot;Otrosquot;">&ZeroWidthSpace;</a></h2>
     <div class="projects-container">
       <div v-for="project in group" :key="project.title" class="project-card">
         <div class="project-header">
@@ -48,7 +49,7 @@ const groupProjectsByType = projects.reduce((groups, project) => {
         </div>
         <div class="project-content">
           <p class="project-tech">
-            <strong>Tech Stack:</strong>
+            <strong>Stack:</strong>
             <span v-for="(tech, index) in project.tech" :key="index">{{ tech }}</span>
           </p>
           <div class="project-links">

@@ -48,7 +48,7 @@ const groupProjectsByType = projects.reduce((groups, project) => {
           <h3>{{ project.title }}</h3>
         </div>
         <div class="project-content">
-          <p class="project-tech">
+          <p class="project-tech" v-if="project.tech && project.tech.length > 0">
             <strong>Stack:</strong>
             <span v-for="(tech, index) in project.tech" :key="index">{{ tech }}</span>
           </p>
@@ -93,7 +93,19 @@ template {
 }
 
 .project-header:not(:has(img)) {
-  padding-top: 85px;
+  position: relative;
+  /*padding-top: 85px;*/
+  padding-top: 227px;
+  background-color: var(--vp-c-brand-soft);
+}
+
+.project-header:not(:has(img))::after {
+  content: "Sin vista previa";
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%);
+  font-style: italic;
 }
 
 .project-title {

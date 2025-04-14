@@ -203,7 +203,6 @@
   justify-content: flex-end;
 }
 
-/* .VPSidebarItem .VPLink p img {
-  height: 24px;
-  width: 24px;
-} */
+.VPSidebarItem .VPLink p img {
+  border-radius: 4px;
+}

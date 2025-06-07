@@ -53,9 +53,22 @@ export default defineConfig({
     ],
 
     nav: [
-      { text: 'Sobre mí', link: '/sobre-mi' },
-      { text: 'Proyectos', link: '/proyectos' },
-      { text: 'CV', link: '/cv/CV_Paul_Guillamon.pdf' }
+      {
+        text: 'Sobre mí',
+        link: '/sobre-mi',
+        activeMatch: '/sobre-mi'
+      },
+      {
+        text: 'Proyectos',
+        link: '/proyectos',
+        activeMatch: '/proyectos'
+      },
+      {
+        text: 'CV',
+        link: '/cv/CV_Paul_Guillamon.pdf',
+        target: '_blank',
+        rel: 'alternate'
+      }
     ],
 
     socialLinks: [

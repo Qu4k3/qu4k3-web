@@ -2,7 +2,7 @@
   {
     "type": "personal",
     "yearStart": "2023",
-    "yearEnd": "",
+    "yearEnd": "2025",
     "yearPublished": "2025",
     "title": "Killing Floor Zone",
     "description": "",
@@ -251,6 +251,21 @@
     "favicon": "https://www.google.com/s2/favicons?domain=inone.es&amp;sz=24",
     "text": "inOne",
     "link": "/proyecto/inone"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2020",
+    "yearEnd": "2021",
+    "yearPublished": "2021",
+    "title": "UAO Mailing Repository",
+    "description": "",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": ["Next.js", "React", "Tailwind CSS", "Vercel"],
+    "favicon": "https://www.google.com/s2/favicons?domain=mailing-repo.vercel.app&amp;sz=24",
+    "text": "UAO Mailing Repository",
+    "link": "/proyecto/uao-mailing-repository"
   },
   {
     "type": "cliente",

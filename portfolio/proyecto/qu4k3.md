@@ -2,4 +2,15 @@
 
 # Qu4k3 v2
 
+<a class="vp-external-link-icon" href="#pendiente-de-definir" target="_blank">Ir a sitio web</a>
+
+| Inicio del proyecto     |
+|-------------------------|
+| **Abril 2025**          |
+
+| Dominios | Alta | Fin |
+|---------------------------|-|-|
+| [qu4k3.com](https://qu4k3.com)          | 11/2015 | - |
+| [qu4k3.dev](https://qu4k3.dev)          | 03/2013 | 03/2025
+
 ## *Pendiente de definir*

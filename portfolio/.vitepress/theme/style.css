@@ -6,6 +6,7 @@
 :root {
   --custom-c-active-1: #c21360;
   --custom-c-active-2: #a61a5e;
+  --custom-c-active-soft: #a61a5e35;
 }
 
 /**
@@ -60,7 +61,7 @@
   /*var(--vp-c-indigo-2);*/
   --vp-c-brand-3: var(--custom-c-active-1);
   /*var(--vp-c-indigo-3);*/
-  --vp-c-brand-soft: var(--vp-c-indigo-soft);
+  --vp-c-brand-soft: var(--custom-c-active-soft);
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -202,7 +203,6 @@
   justify-content: flex-end;
 }
 
-/* .VPSidebarItem .VPLink p img {
-  height: 24px;
-  width: 24px;
-} */
+.VPSidebarItem .VPLink p img {
+  border-radius: 4px;
+}

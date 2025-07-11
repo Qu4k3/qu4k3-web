@@ -100,7 +100,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: '<img src="https://www.google.com/s2/favicons?domain=killingfloor.zone&amp;sz=16" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
-                { text: '<img src="https://www.google.com/s2/favicons?domain=medilens.es&amp;sz=16" alt="Killing Floor Zone" width="16"> MediLens', link: '/proyecto/medilens' },
+                { text: '<img src="https://www.google.com/s2/favicons?domain=medilens.es&amp;sz=16" alt="MEDI lens" width="16"> MEDI lens', link: '/proyecto/medilens' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=pckt.link&amp;sz=16" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=fibers.cat&amp;sz=16" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
                 { text: '<img src="https://www.google.com/s2/favicons?domain=qu4k3.com&amp;sz=16" alt="Qu4k3" width="16"> Qu4k3 v2', link: '/proyecto/qu4k3' }

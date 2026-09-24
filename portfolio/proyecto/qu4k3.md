@@ -11,6 +11,6 @@
 | Dominios | Alta | Fin |
 |---------------------------|-|-|
 | [qu4k3.com](https://qu4k3.com)          | 11/2015 | - |
-| [qu4k3.dev](https://qu4k3.dev)          | 03/2013 | 03/2025
+| [qu4k3.dev](https://qu4k3.dev)          | 03/2023 | 03/2025 |
 
 ## *Pendiente de definir*

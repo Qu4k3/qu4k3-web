@@ -26,7 +26,7 @@ const groupProjectsByType = projects.reduce((groups, project) => {
     <div class="projects-container">
       <div v-for="project in group" :key="project.title" class="project-card">
         <div class="project-header">
-          <img v-if="project.headerBackgroundImg" :src="`/assets/img/projects/${project.headerBackgroundImg}`" alt="`${project.title}` Image" />  
+          <img v-if="project.headerBackgroundImg" :src="`/assets/img/projects/${project.headerBackgroundImg}`" :alt="`${project.title} — Qu4k3`" />
           <p :class="[
             'status',
             {
@@ -36,15 +36,15 @@ const groupProjectsByType = projects.reduce((groups, project) => {
             }
           ]">
             {{ project.status }}
-          </p> 
+          </p>
           <p class="projects-activity">
             {{ project.yearStart }}
             <span v-if="project.yearEnd"> - {{ project.yearEnd }}</span>
             <span v-else> - Actualidad</span>
-          </p>     
+          </p>
         </div>
         <div class="project-title">
-          <img v-if="project.favicon" :src="project.favicon" alt="`${project.title}` Favicon" width="24" />
+          <img v-if="project.favicon" :src="project.favicon" :alt="`${project.title} — favicon`" width="24" />
           <h3>{{ project.title }}</h3>
         </div>
         <div class="project-content">

@@ -1,0 +1,17 @@
+{
+  "name": "Qu4k3 - Portfolio de Paul Guillamon",
+  "short_name": "Qu4k3",
+  "description": "Portfolio de Paul Guillamon con proyectos web, moviles y de infraestructura.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#212121",
+  "icons": [
+    {
+      "src": "/assets/img/qu4k3.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

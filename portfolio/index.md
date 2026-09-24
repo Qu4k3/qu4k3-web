@@ -1,10 +1,14 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Qu4k3 — Portfolio de Paul Guillamón
+description: Portfolio de Paul Guillamón con proyectos web, móviles y de infraestructura.
+image: https://qu4k3.com/assets/img/qu4k3-og.png
+imageAlt: Qu4k3, portfolio de Paul Guillamón
 
 hero:
     text: 😃😎😋
-    tagline: Soy Paul, desarrollador web con <strong>+10 años de experiencia</strong> en ámbitos como el Marketing, el SEO, el Diseño, la Maquetación y el Desarrollo Web y Móvil. 
+    tagline: Soy Paul, desarrollador web con <strong>+10 años de experiencia</strong> en ámbitos como el Marketing, el SEO, el Diseño, la Maquetación y el Desarrollo Web y Móvil.
     actions:
     - theme: brand
       text: Ver Proyectos 🧑‍💻
@@ -14,7 +18,7 @@ hero:
       link: https://github.com/Qu4k3
 
 features:
-#   - icon: 
+#   - icon:
 #       src: /assets/img/projects/fiberscat.png
 #     title: Fibers.cat
 #     details: Documentation, notes and practical exercises for FIB students (Faculty of Computer Science Barcelona)
@@ -26,7 +30,7 @@ features:
     title: +10 años de experiencia
     details: Mi trayectoria comenzó con PHP, transicioné hacia el <strong>desarrollo web y móvil con JavaScript y React</strong>, especializándome en la creación de interfaces de usuario y experiencias únicas.
     link: /sobre-mi
-    linkText: Saber más  
+    linkText: Saber más
   - icon: ✨
     title: +50 proyectos
     details: He ideado y colaborado en más de 50 proyectos web y móvil, siempre con el objetivo de resolver necesidades reales y brindar soluciones prácticas y accesibles.

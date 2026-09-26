@@ -38,9 +38,12 @@ const groupProjectsByType = projects.reduce((groups, project) => {
             {{ project.status }}
           </p>
           <p class="projects-activity">
-            {{ project.yearStart }}
-            <span v-if="project.yearEnd"> - {{ project.yearEnd }}</span>
-            <span v-else> - Actualidad</span>
+            <template v-if="project.dateRange">{{ project.dateRange }}</template>
+            <template v-else>
+              {{ project.yearStart }}
+              <span v-if="project.yearEnd"> - {{ project.yearEnd }}</span>
+              <span v-else> - Actualidad</span>
+            </template>
           </p>
         </div>
         <div class="project-title">
@@ -54,6 +57,7 @@ const groupProjectsByType = projects.reduce((groups, project) => {
           </p>
           <div class="project-links">
             <a :href="project.link">Ver Proyecto <img src="/assets/img/move-up-right.svg" alt="Proyecto" width="16" /></a>
+            <!--<a v-if="project.url" :href="project.url" target="_blank" rel="noopener noreferrer">Sitio web <img src="/assets/img/move-up-right.svg" alt="Sitio web" width="16" /></a>-->
             <a v-if="project.github" class="github" :href="project.github" target="_blank">GitHub <img src="/assets/img/github.svg" alt="GitHub" width="16" /></a>
           </div>
         </div>

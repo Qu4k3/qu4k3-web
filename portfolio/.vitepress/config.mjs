@@ -132,15 +132,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#212121' }],
     [
       'script',
-      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-HG4RJR1M0Z' }
-    ],
-    [
-      'script',
-      {},
-      `window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-HG4RJR1M0Z');`
+      { defer: '', src: 'https://umami.qu4k3.com/script.js', 'data-website-id': '6e819f92-206d-47ea-b9fd-a8db66a02366' }
     ]
   ],
   lang: 'es',

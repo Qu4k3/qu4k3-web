@@ -6,11 +6,6 @@ const defaultTitle = 'Qu4k3 — Portfolio de Paul Guillamón'
 const defaultDescription = 'Portfolio de Paul Guillamón con proyectos web, móviles y de infraestructura.'
 const defaultImage = `${siteUrl}/assets/img/qu4k3-og.png`
 const excludedSitemapPaths = new Set()
-const umamiScriptAttrs = {
-  defer: '',
-  'data-website-id': '6e819f92-206d-47ea-b9fd-a8db66a02366',
-  'data-host-url': 'https://umami.qu4k3.com'
-}
 
 const normalizePath = (value) => {
   if (!value) return '/'
@@ -135,8 +130,7 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '512x512', href: '/assets/img/qu4k3.jpg' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#212121' }],
-    ['script', { ...umamiScriptAttrs, src: '/js/umami/script.js' }],
-    ['script', { ...umamiScriptAttrs, src: '/js/umami/recorder.js' }]
+    ['script', { defer: '', 'data-website-id': '6e819f92-206d-47ea-b9fd-a8db66a02366', 'data-host-url': 'https://umami.qu4k3.com', src: '/js/umami/script.js' }],
   ],
   lang: 'es',
   title: "Qu4k3",

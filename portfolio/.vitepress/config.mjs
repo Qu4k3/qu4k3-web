@@ -217,11 +217,16 @@ export default defineConfig({
               text: '[2025]',
               collapsed: false,
               items: [
-                { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
                 { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens', link: '/proyecto/medilens' },
                 { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
-                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
                 { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3 v2', link: '/proyecto/qu4k3' }
+              ]
+            },
+            {
+              text: '[2023]',
+              collapsed: false,
+              items: [
+                { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
               ]
             },
             {

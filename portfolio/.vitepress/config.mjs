@@ -207,6 +207,13 @@ export default defineConfig({
             text: '⚡ Activos',
             collapsed: false,
             items: [{
+              text: '[2026]',
+              collapsed: false,
+              items: [
+                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v3', link: '/proyecto/fibers' },
+              ]
+            },
+            {
               text: '[2025]',
               collapsed: false,
               items: [
@@ -215,6 +222,13 @@ export default defineConfig({
                 { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
                 { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
                 { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3 v2', link: '/proyecto/qu4k3' }
+              ]
+            },
+            {
+              text: '[2022]',
+              collapsed: false,
+              items: [
+                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
               ]
             },
             {
@@ -308,6 +322,22 @@ export default defineConfig({
           text: 'Proyectos para Clientes',
           collapsed: false,
           items: [
+            {
+              text: '[2026]',
+              collapsed: false,
+              items: [
+                { text: '<img src="/assets/img/favicons/kinfelina-org.png" alt="" width="16"> Kin Felina', link: '/proyecto/kinfelina' },
+                { text: '<img src="/assets/img/favicons/finquesmireia-com.png" alt="" width="16"> Finques Mireia', link: '/proyecto/finques-mireia' },
+                { text: '<img src="/assets/img/favicons/iberiaestimulantes-com.png" alt="" width="16"> Iberia Estimulantes', link: '/proyecto/iberia-estimulantes' },
+              ]
+            },
+            {
+              text: '[2025]',
+              collapsed: false,
+              items: [
+                { text: '<img src="/assets/img/favicons/hucaconstructora-com.png" alt="" width="16"> HUCA Constructora', link: '/proyecto/huca-constructora' },
+              ]
+            },
             {
               text: '[2024]',
               collapsed: false,

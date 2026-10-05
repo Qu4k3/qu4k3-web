@@ -223,17 +223,17 @@ export default defineConfig({
               ]
             },
             {
+              text: '[2024]',
+              collapsed: false,
+              items: [
+                { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
+              ]
+            },
+            {
               text: '[2023]',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
-              ]
-            },
-            {
-              text: '[2022]',
-              collapsed: false,
-              items: [
-                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
               ]
             },
             {
@@ -257,10 +257,10 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: '[2024]',
+                text: '[2022]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
+                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
                 ]
               },
               {

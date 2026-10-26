@@ -1,12 +1,7 @@
-# Killing Floor Zone
+# Killing Floor Zone v1
 
-| Inicio del proyecto     | Primer despliegue público |
-|-------------------------|---------------------------|
-| **Diciembre 2023**          | <!---**Mayo 2025**-->             |
+<a class="vp-external-link-icon" href="https://killingfloor.zone" target="_blank" rel="noopener noreferrer">Ir a sitio web</a>
 
-| Dominios |
-|---------------------------|
-| [killingfloor.zone](https://killingfloor.zone)          |
-| [kf.zone](https://kf.zone)         |
+Nueva versión de la plataforma para consultar estadísticas, logros y contenido de **Killing Floor**, conectada con Steam.
 
-## *Pendiente de definir*
+El proyecto continúa la evolución de Killing Floor Zone con una base renovada en **Next.js**, **Tailwind CSS** y **Steam API**.

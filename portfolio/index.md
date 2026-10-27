@@ -1,44 +1,44 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 title: Qu4k3 — Portfolio de Paul Guillamón
-description: Portfolio de Paul Guillamón con proyectos web, móviles y de infraestructura.
+description: Portfolio de Paul Guillamón, desarrollador web y móvil. Diseño, desarrollo y evolución de productos digitales.
 image: https://qu4k3.com/assets/img/qu4k3-og.png
 imageAlt: Qu4k3, portfolio de Paul Guillamón
 
 hero:
-    text: 😃😎😋
-    tagline: Soy Paul, desarrollador web con <strong>+10 años de experiencia</strong> en ámbitos como el Marketing, el SEO, el Diseño, la Maquetación y el Desarrollo Web y Móvil.
-    actions:
+  name: Paul Guillamón
+  text: Desarrollo web y móvil
+  tagline: Diseño y construyo <strong>productos digitales útiles, accesibles y bien cuidados</strong>, combinando experiencia en desarrollo, diseño de interfaces, SEO y marketing.
+  image:
+    src: /assets/img/paul-guillamon.jpeg
+    alt: Paul Guillamón, desarrollador web y móvil
+  actions:
     - theme: brand
-      text: Ver Proyectos 🧑‍💻
+      text: 🚀 Explorar proyectos
       link: /proyectos
     - theme: alt
-      text: Ver GitHub ↗
+      text: 👋 Conocerme mejor
+      link: /sobre-mi
+    - theme: alt
+      text: GitHub ↗
       link: https://github.com/Qu4k3
+      target: _blank
+      rel: noopener noreferrer
 
 features:
-#   - icon:
-#       src: /assets/img/projects/fiberscat.png
-#     title: Fibers.cat
-#     details: Documentation, notes and practical exercises for FIB students (Faculty of Computer Science Barcelona)
-#     link: https://fibers.cat
-#     linkText: Preview website
-# rel: exakple
-    # target: _self
-  - icon: ⚡️
-    title: +10 años de experiencia
-    details: Mi trayectoria comenzó con PHP, transicioné hacia el <strong>desarrollo web y móvil con JavaScript y React</strong>, especializándome en la creación de interfaces de usuario y experiencias únicas.
+  - icon: 🌟
+    title: 10+ años de experiencia
+    details: Una trayectoria multidisciplinar entre diseño, SEO, marketing y desarrollo web y móvil.
     link: /sobre-mi
-    linkText: Saber más
+    linkText: Mi recorrido
   - icon: ✨
-    title: +50 proyectos
-    details: He ideado y colaborado en más de 50 proyectos web y móvil, siempre con el objetivo de resolver necesidades reales y brindar soluciones prácticas y accesibles.
+    title: 70+ proyectos realizados
+    details: Productos e ideas para clientes, equipos y proyectos personales, desde la primera propuesta hasta su evolución.
     link: /proyectos
     linkText: Ver proyectos
-  - icon: 🙋
-    title: +15 clientes
-    details: He tenido la suerte de ayudar, orientar y auditar numerosos proyectos de emprendedores, proprietarios de tiendas online, etc. Ofreciendo apoyo, saber y acompañamiento en el proceso de migración o creación de sus productos.
+  - icon: 🤝
+    title: 20+ clientes y equipos
+    details: Colaboraciones cercanas para convertir necesidades reales en soluciones digitales claras y prácticas.
     link: /proyectos#para-clientes
-    linkText: Ver proyectos de clientes
+    linkText: Proyectos para clientes
 ---

@@ -130,7 +130,9 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '512x512', href: '/assets/img/qu4k3.jpg' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#212121' }],
-    ['script', { defer: '', 'data-website-id': '6e819f92-206d-47ea-b9fd-a8db66a02366', 'data-host-url': 'https://umami.qu4k3.com', src: '/js/umami/script.js' }],
+    ...(process.env.NODE_ENV === 'production'
+      ? [['script', { defer: '', 'data-website-id': '6e819f92-206d-47ea-b9fd-a8db66a02366', 'data-host-url': 'https://umami.qu4k3.com', src: '/js/umami/script.js' }]]
+      : []),
   ],
   lang: 'es',
   title: "Qu4k3",

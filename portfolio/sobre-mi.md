@@ -196,6 +196,14 @@ Me interesa participar en todo el proceso: entender el problema, ordenar priorid
   </section>
 </div>
 
+## Proyectos
+
+Aquí puedes ver una selección de mis proyectos y trabajos realizados.
+
+<div class="about-actions" style="margin: 8px 0 48px;">
+  <a class="about-action about-action--primary" href="/proyectos">Ver proyectos <span aria-hidden="true">→</span></a>
+</div>
+
 ## Tecnologías y herramientas
 
 Estas son algunas de las herramientas y tecnologías con las que he trabajado a lo largo de mi trayectoria. Mi foco actual está en el desarrollo de interfaces y aplicaciones web.
@@ -213,7 +221,7 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado a 
 </div>
 
 <details class="about-previous-stack">
-  <summary>Otras tecnologías de mi trayectoria</summary>
+  <summary>Tecnologías que ya no uso o no mantengo al día</summary>
   <ul class="about-tags">
     <li v-for="technology in previousTechnologies" :key="technology.name">
       <span class="about-tag-icon" aria-hidden="true" v-html="technology.icon"></span>

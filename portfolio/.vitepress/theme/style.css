@@ -230,6 +230,13 @@ body {
   font-weight: 300;
 }
 
+.VPSidebarItem .text {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
 .VPSidebarItem.is-active > .item .link,
 .VPSidebarItem.is-active > .item .text {
   color: var(--vp-c-brand-1);
@@ -434,10 +441,11 @@ body {
 
 .vp-doc .about-stats strong {
   color: var(--vp-c-text-1);
-  font-size: clamp(1.7rem, 4vw, 2.5rem);
+  font-size: clamp(1.5rem, 3.5vw, 2.2rem);
   font-weight: 500;
   letter-spacing: -0.06em;
   line-height: 1;
+  white-space: nowrap;
 }
 
 .vp-doc .about-stats span {
@@ -797,6 +805,49 @@ body {
   transition: border-color 0.2s ease, background-color 0.2s ease;
 }
 
+.outline-link {
+  font-weight: 300 !important;
+}
+
+/* Scrollbars personalizadas */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--vp-c-brand-1) transparent;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  border-radius: 0 !important;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 0 !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-brand-1);
+  border-radius: 0 !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-brand-2);
+  border-radius: 0 !important;
+}
+
+::-webkit-scrollbar-button,
+::-webkit-scrollbar-corner,
+::-webkit-resizer {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+::-webkit-scrollbar-track-piece {
+  background: transparent;
+}
+
 .VPDocFooter .pager-link:hover {
   border-color: var(--vp-c-brand-1);
   background-color: var(--vp-c-bg-soft);
@@ -885,7 +936,9 @@ body {
   }
 }
 
-.check,
-.icon {
-  border-radius: 2px;
+.VPSwitchAppearance .check,
+.VPSwitchAppearance .icon,
+.VPNavBar .VPNavBarAppearance .check,
+.VPNavBar .VPNavBarAppearance .icon {
+  border-radius: 2px !important;
 }

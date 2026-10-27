@@ -456,7 +456,7 @@ export default defineConfig({
 
     footer: {
       message: 'Paul Guillamón aka Qu4k3',
-      copyright: '© 2015-2025'
+      copyright: '© 2015-2026'
     }
   },
   sitemap: {

@@ -17,6 +17,21 @@ import cssModulesIcon from 'simple-icons/icons/cssmodules.svg?raw'
 import tailwindIcon from 'simple-icons/icons/tailwindcss.svg?raw'
 import muiIcon from 'simple-icons/icons/mui.svg?raw'
 import mantineIcon from 'simple-icons/icons/mantine.svg?raw'
+import confluenceIcon from 'simple-icons/icons/confluence.svg?raw'
+import jiraIcon from 'simple-icons/icons/jira.svg?raw'
+import notionIcon from 'simple-icons/icons/notion.svg?raw'
+import trelloIcon from 'simple-icons/icons/trello.svg?raw'
+import esriIcon from 'simple-icons/icons/esri.svg?raw'
+import arcgisIcon from 'simple-icons/icons/arcgis.svg?raw'
+import googleIcon from 'simple-icons/icons/google.svg?raw'
+import tanstackIcon from 'simple-icons/icons/tanstack.svg?raw'
+import semrushIcon from 'simple-icons/icons/semrush.svg?raw'
+import dbeaverIcon from 'simple-icons/icons/dbeaver.svg?raw'
+import studio3tIcon from 'simple-icons/icons/studio3t.svg?raw'
+import filezillaIcon from 'simple-icons/icons/filezilla.svg?raw'
+import githubIcon from 'simple-icons/icons/github.svg?raw'
+import gitlabIcon from 'simple-icons/icons/gitlab.svg?raw'
+import giteaIcon from 'simple-icons/icons/gitea.svg?raw'
 import viteIcon from 'simple-icons/icons/vite.svg?raw'
 import figmaIcon from 'simple-icons/icons/figma.svg?raw'
 import gitIcon from 'simple-icons/icons/git.svg?raw'
@@ -68,16 +83,22 @@ import bootstrapIcon from 'simple-icons/icons/bootstrap.svg?raw'
 
 const technologyGroups = [
   {
-    title: 'Frontend',
+    title: 'JavaScript',
     technologies: [
       { name: 'JavaScript', icon: javascriptIcon }, { name: 'TypeScript', icon: typescriptIcon },
       { name: 'React', icon: reactIcon },
-      { name: 'Next.js', icon: nextIcon }, { name: 'HTML', icon: htmlIcon },
-      { name: 'CSS', icon: cssIcon }, { name: 'Sass', icon: sassIcon },
-      { name: 'CSS Modules', icon: cssModulesIcon }, { name: 'Tailwind CSS', icon: tailwindIcon },
-      { name: 'MUI', icon: muiIcon }, { name: 'Mantine', icon: mantineIcon },
+      { name: 'Next.js', icon: nextIcon },
       { name: 'Vue.js', icon: vueIcon }, { name: 'Vite', icon: viteIcon },
       { name: 'React Native', icon: reactIcon }, { name: 'Expo', icon: expoIcon },
+    ],
+  },
+  {
+    title: 'HTML y CSS',
+    technologies: [
+      { name: 'HTML', icon: htmlIcon },
+      { name: 'CSS', icon: cssIcon }, { name: 'Sass', icon: sassIcon },
+      { name: 'CSS Modules', icon: cssModulesIcon }, { name: 'Tailwind CSS', icon: tailwindIcon },
+      { name: 'MUI', icon: muiIcon }, { name: 'Mantine', icon: mantineIcon }, { name: 'Fluent UI' },
     ],
   },
   {
@@ -85,8 +106,25 @@ const technologyGroups = [
     technologies: [
       { name: 'Figma', icon: figmaIcon }, { name: 'Adobe XD' },
       { name: 'Photoshop' }, { name: 'Illustrator' },
+      { name: 'Premiere Pro' },
       { name: 'Diseño visual' }, { name: 'Prototipado' },
+    ],
+  },
+  {
+    title: 'Herramientas de desarrollo',
+    technologies: [
       { name: 'Git', icon: gitIcon }, { name: 'Postman', icon: postmanIcon },
+      { name: 'HeidiSQL' }, { name: 'DBeaver', icon: dbeaverIcon },
+      { name: 'Robo 3T' }, { name: 'Studio 3T', icon: studio3tIcon },
+      { name: 'MongoDB Compass', icon: mongodbIcon },
+      { name: 'GitHub', icon: githubIcon }, { name: 'GitLab', icon: gitlabIcon },
+      { name: 'Gitea', icon: giteaIcon }, { name: 'Azure DevOps' },
+    ],
+  },
+  {
+    title: 'Gestión',
+    technologies: [
+      { name: 'Confluence', icon: confluenceIcon }, { name: 'Jira', icon: jiraIcon }, { name: 'Notion', icon: notionIcon }, { name: 'Trello', icon: trelloIcon },
     ],
   },
   {
@@ -96,18 +134,26 @@ const technologyGroups = [
       { name: 'Google Analytics 4', icon: googleAnalyticsIcon },
       { name: 'Google Tag Manager', icon: googleTagManagerIcon },
       { name: 'Umami', icon: umamiIcon }, { name: 'Matomo', icon: matomoIcon },
+{ name: 'SemRush', icon: semrushIcon }, { name: 'SiteImprove' },
     ],
   },
   {
-    title: 'Backend y datos',
+    title: 'Backend',
     technologies: [
       { name: 'PHP', icon: phpIcon }, { name: 'Node.js', icon: nodeIcon },
       { name: 'REST APIs' }, { name: 'Prisma', icon: prismaIcon },
-      { name: 'Drizzle ORM', icon: drizzleIcon }, { name: 'MySQL', icon: mysqlIcon },
-      { name: 'MariaDB', icon: mariadbIcon }, { name: 'PostgreSQL', icon: postgresqlIcon },
+      { name: 'Drizzle ORM', icon: drizzleIcon },
+    ],
+  },
+  {
+    title: 'BBDD',
+    technologies: [
+      { name: 'MySQL', icon: mysqlIcon }, { name: 'MariaDB', icon: mariadbIcon },
+      { name: 'PostgreSQL', icon: postgresqlIcon },
       { name: 'MongoDB', icon: mongodbIcon }, { name: 'Amazon DynamoDB' },
       { name: 'Firebase', icon: firebaseIcon }, { name: 'Supabase', icon: supabaseIcon },
       { name: 'Mongoose', icon: mongooseIcon },
+      { name: 'MongoDB Atlas', icon: mongodbIcon },
     ],
   },
   {
@@ -117,6 +163,7 @@ const technologyGroups = [
       { name: 'Cloudflare', icon: cloudflareIcon }, { name: 'OVH', icon: ovhIcon },
       { name: 'Cloudflare Workers', icon: cloudflareWorkersIcon },
       { name: 'Docker', icon: dockerIcon }, { name: 'CI/CD' },
+{ name: 'FileZilla', icon: filezillaIcon },
     ],
   },
   {
@@ -124,7 +171,7 @@ const technologyGroups = [
     technologies: [
       { name: 'WordPress', icon: wordpressIcon }, { name: 'VitePress', icon: vitepressIcon },
       { name: 'Directus', icon: directusIcon }, { name: 'Strapi', icon: strapiIcon },
-      { name: 'MJML' }, { name: 'Mailchimp', icon: mailchimpIcon },
+      { name: 'MJML' }, { name: 'GrapesJS' }, { name: 'Mailchimp', icon: mailchimpIcon },
       { name: 'Integración de emails' },
     ],
   },
@@ -133,8 +180,19 @@ const technologyGroups = [
     technologies: [
       { name: 'OpenCode', icon: opencodeIcon }, { name: 'Claude Code', icon: claudeCodeIcon },
       { name: 'GitHub Copilot', icon: copilotIcon }, { name: 'Codex' },
-      { name: 'MCP', icon: mcpIcon }, { name: 'OpenAI API' },
+      { name: 'MCP', icon: mcpIcon },
+      { name: 'Agent Skills' },
       { name: 'Antigravity' },
+    ],
+  },
+  {
+    title: 'Plataformas y servicios',
+    technologies: [
+      { name: 'ESRI', icon: esriIcon }, { name: 'ArcGIS', icon: arcgisIcon },
+      { name: 'AWS' }, { name: 'Google', icon: googleIcon },
+      { name: 'PowerApps' }, { name: 'Azure' },
+      { name: 'TanStack Query', icon: tanstackIcon }, { name: 'TanStack Table', icon: tanstackIcon },
+      { name: 'NextAuth' },
     ],
   },
   {
@@ -150,6 +208,8 @@ const previousTechnologies = [
   { name: 'Laravel', icon: laravelIcon }, { name: 'CodeIgniter', icon: codeigniterIcon },
   { name: 'Angular', icon: angularIcon }, { name: 'Java', icon: openjdkIcon },
   { name: 'Bootstrap', icon: bootstrapIcon }, { name: 'Contentful', icon: contentfulIcon },
+  { name: 'Adobe Animate' }, { name: 'Google Web Designer' },
+  { name: 'Microsoft Dynamics' }, { name: 'Click Dimensions' },
 ]
 </script>
 

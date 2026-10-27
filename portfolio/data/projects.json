@@ -9,7 +9,11 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Astro", "SEO", "Netlify"],
+    "tech": [
+      "Astro",
+      "SEO",
+      "Netlify"
+    ],
     "favicon": "/assets/img/projects/tau-logo.svg",
     "text": "Tau Studio v0",
     "url": "https://tau.studio/v0/",
@@ -23,9 +27,13 @@
     "title": "Tau Studio v1",
     "description": "Nueva versión del sitio web de Tau Studio, un estudio digital especializado en experiencias web, marketing digital y SEO.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-tau.png",
     "status": "En Desarrollo",
-    "tech": ["Astro", "SEO", "Netlify"],
+    "tech": [
+      "Astro",
+      "SEO",
+      "Netlify"
+    ],
     "favicon": "/assets/img/projects/tau-logo.svg",
     "text": "Tau Studio v1",
     "url": "https://tau.studio",
@@ -41,7 +49,12 @@
     "icon": "",
     "headerBackgroundImg": "killingfloorzone-home.png",
     "status": "En Desarrollo",
-    "tech": ["Next.js", "Tailwind CSS", "Vercel", "Steam API"],
+    "tech": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel",
+      "Steam API"
+    ],
     "favicon": "/assets/img/favicons/killingfloor-zone.png",
     "text": "Killing Floor Zone",
     "url": "https://kf.zone",
@@ -58,7 +71,12 @@
     "icon": "",
     "headerBackgroundImg": "killingfloorzone-home.png",
     "status": "En Desarrollo",
-    "tech": ["Next.js", "Tailwind CSS", "Vercel", "Steam API"],
+    "tech": [
+      "Next.js",
+      "Tailwind CSS",
+      "Vercel",
+      "Steam API"
+    ],
     "favicon": "/assets/img/favicons/killingfloor-zone.png",
     "text": "Killing Floor Zone v1",
     "url": "https://killingfloor.zone",
@@ -75,7 +93,11 @@
     "icon": "",
     "headerBackgroundImg": "medilens-landing.jpg",
     "status": "En Desarrollo",
-    "tech": ["VitePress", "Vue", "Netlify"],
+    "tech": [
+      "VitePress",
+      "Vue",
+      "Netlify"
+    ],
     "favicon": "/assets/img/favicons/medilens-es.png",
     "text": "MEDI lens — Landing",
     "url": "https://medilens.es",
@@ -90,9 +112,13 @@
     "title": "MEDI lens — App",
     "description": "Aplicación móvil de MEDI lens para consultar medicamentos y gestionar un botiquín digital.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-medilens-app.png",
     "status": "En Desarrollo",
-    "tech": ["React Native", "Expo", "API"],
+    "tech": [
+      "React Native",
+      "Expo",
+      "API"
+    ],
     "favicon": "/assets/img/favicons/medilens-es.png",
     "text": "MEDI lens - App",
     "url": "https://play.google.com/store/apps/details?id=es.medilens.app",
@@ -109,7 +135,12 @@
     "icon": "",
     "headerBackgroundImg": "pckt-link-home.png",
     "status": "En Desarrollo",
-    "tech": ["Next.js", "Mantine", "Vercel", "Amazon Dynamo DB"],
+    "tech": [
+      "Next.js",
+      "Mantine",
+      "Vercel",
+      "Amazon Dynamo DB"
+    ],
     "favicon": "/assets/img/favicons/pckt-link.png",
     "text": "Pocket Link",
     "url": "https://pckt.link/v0/",
@@ -126,7 +157,12 @@
     "icon": "",
     "headerBackgroundImg": "pckt-link-home.png",
     "status": "En Desarrollo",
-    "tech": ["Next.js", "Mantine", "Vercel", "Amazon Dynamo DB"],
+    "tech": [
+      "Next.js",
+      "Mantine",
+      "Vercel",
+      "Amazon Dynamo DB"
+    ],
     "favicon": "/assets/img/favicons/pckt-link.png",
     "text": "Pocket Link v1",
     "url": "https://pckt.link",
@@ -143,7 +179,12 @@
     "icon": "",
     "headerBackgroundImg": "inefable.png",
     "status": "Finalizado",
-    "tech": ["Next.js", "Mantine", "Vercel", "PostgreSQL"],
+    "tech": [
+      "Next.js",
+      "Mantine",
+      "Vercel",
+      "PostgreSQL"
+    ],
     "favicon": "/assets/img/favicons/inefable-day.png",
     "text": "Inefable Day",
     "url": "https://inefable.day",
@@ -158,9 +199,14 @@
     "title": "Fibers v2",
     "description": "Plataforma educativa para organizar recursos, apuntes y contenidos de estudiantes de informática.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-fibers.png",
     "status": "En Desarrollo",
-    "tech": ["Next.js", "MUI", "Firebase", "Vercel"],
+    "tech": [
+      "Next.js",
+      "MUI",
+      "Firebase",
+      "Vercel"
+    ],
     "favicon": "/assets/img/favicons/fibers-cat.png",
     "text": "Inefable Day",
     "url": "https://fibers.cat",
@@ -177,7 +223,11 @@
     "icon": "",
     "headerBackgroundImg": "qu4k3.png",
     "status": "En Desarrollo",
-    "tech": ["VitePress", "Vue", "Netlify"],
+    "tech": [
+      "VitePress",
+      "Vue",
+      "Netlify"
+    ],
     "favicon": "/assets/img/favicons/qu4k3-com.png",
     "text": "Qu4k3 v2",
     "url": "https://qu4k3.com",
@@ -194,7 +244,13 @@
     "icon": "",
     "headerBackgroundImg": "disboard-home.png",
     "status": "Finalizado",
-    "tech": ["React", "React Router", "React Helmet", "Sass", "Axios"],
+    "tech": [
+      "React",
+      "React Router",
+      "React Helmet",
+      "Sass",
+      "Axios"
+    ],
     "favicon": "/assets/img/favicons/disboard-team.png",
     "text": "Disboard Web",
     "url": "https://disboard.team/v0/",
@@ -211,7 +267,13 @@
     "icon": "",
     "headerBackgroundImg": "disboard-home.png",
     "status": "En Desarrollo",
-    "tech": ["React", "React Router", "React Helmet", "Sass", "Axios"],
+    "tech": [
+      "React",
+      "React Router",
+      "React Helmet",
+      "Sass",
+      "Axios"
+    ],
     "favicon": "/assets/img/favicons/disboard-team.png",
     "text": "Disboard Web v1",
     "url": "https://disboard.team",
@@ -228,7 +290,13 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Node", "Express", "Mongoose", "MongoDB", "Nano ID"],
+    "tech": [
+      "Node",
+      "Express",
+      "Mongoose",
+      "MongoDB",
+      "Nano ID"
+    ],
     "favicon": "/assets/img/favicons/api-disboard-team.png",
     "text": "Disboard API",
     "url": "https://api.disboard.team",
@@ -245,7 +313,9 @@
     "icon": "",
     "headerBackgroundImg": "docs.disboard.team.png",
     "status": "Finalizado",
-    "tech": ["VuePress v0"],
+    "tech": [
+      "VuePress v0"
+    ],
     "favicon": "/assets/img/favicons/docs-disboard-team.png",
     "text": "Disboard Docs",
     "url": "https://docs.disboard.team/v0/",
@@ -260,9 +330,12 @@
     "title": "Disboard Documentación v1",
     "description": "Nueva versión de la documentación técnica y guía de uso para la plataforma y los servicios de Disboard.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-disboard-docs.png",
     "status": "En Desarrollo",
-    "tech": ["VitePress", "Vue"],
+    "tech": [
+      "VitePress",
+      "Vue"
+    ],
     "favicon": "/assets/img/favicons/docs-disboard-team.png",
     "text": "Disboard Documentación v1",
     "url": "https://docs.disboard.team",
@@ -279,7 +352,10 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Express", "Discord.js v11"],
+    "tech": [
+      "Express",
+      "Discord.js v11"
+    ],
     "favicon": "/assets/img/favicons/bot-disboard-team.png",
     "text": "Disboard Bot",
     "url": "https://bot.disboard.team/v0/",
@@ -296,7 +372,10 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "En Desarrollo",
-    "tech": ["Node.js", "Discord.js"],
+    "tech": [
+      "Node.js",
+      "Discord.js"
+    ],
     "favicon": "/assets/img/favicons/bot-disboard-team.png",
     "text": "Disboard Discord Bot v1",
     "url": "https://bot.disboard.team",
@@ -312,9 +391,13 @@
     "title": "Kin Felina",
     "description": "Sitio web para Kin Felina.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-kinfelina.png",
     "status": "En Desarrollo",
-    "tech": ["Astro", "Netlify", "Netlify Forms"],
+    "tech": [
+      "Astro",
+      "Netlify",
+      "Netlify Forms"
+    ],
     "favicon": "/assets/img/favicons/kinfelina-org.png",
     "text": "Kin Felina",
     "url": "https://kinfelina.org/",
@@ -330,9 +413,14 @@
     "title": "Transcontrol App",
     "description": "Aplicación web de gestión para empresas de transporte, con control de vehículos, conductores, servicios, documentación y métricas de flota.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-transcontrol-app.png",
     "status": "Finalizado",
-    "tech": ["React", "MUI", "SPA", "Dashboard"],
+    "tech": [
+      "React",
+      "MUI",
+      "SPA",
+      "Dashboard"
+    ],
     "favicon": "/assets/img/favicons/transcontrol.svg",
     "text": "Transcontrol App",
     "url": "https://app.transcontrol.es",
@@ -347,9 +435,14 @@
     "title": "Transcontrol",
     "description": "Landing comercial para Transcontrol, optimizada para presentar la plataforma de transporte, captar solicitudes de demo y mejorar su posicionamiento orgánico.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-transcontrol.png",
     "status": "Finalizado",
-    "tech": ["Astro", "MUI", "SEO técnico", "SEO on-page"],
+    "tech": [
+      "Astro",
+      "MUI",
+      "SEO técnico",
+      "SEO on-page"
+    ],
     "favicon": "/assets/img/favicons/transcontrol.svg",
     "text": "Transcontrol",
     "url": "https://transcontrol.es",
@@ -364,9 +457,14 @@
     "title": "Finques Mireia",
     "description": "Sitio web corporativo y catálogo inmobiliario para Finques Mireia, una inmobiliaria centrada en las necesidades de las personas.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-finques-mireia.png",
     "status": "Finalizado",
-    "tech": ["Wordpress", "Elementor", "Contact Form 7", "Google Site Kit"],
+    "tech": [
+      "Wordpress",
+      "Elementor",
+      "Contact Form 7",
+      "Google Site Kit"
+    ],
     "favicon": "/assets/img/favicons/finquesmireia-com.png",
     "text": "Finques Mireia",
     "url": "https://finquesmireia.com/",
@@ -381,9 +479,16 @@
     "title": "Iberia Estimulantes",
     "description": "Sitio web corporativo para presentar soluciones agrícolas especializadas orientadas a mejorar el rendimiento, la calidad y el desarrollo de los cultivos.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-iberia-estimulantes.png",
     "status": "En Desarrollo",
-    "tech": ["Wordpress", "Elementor", "Woo Commerce", "Contact Form 7", "Polylang", "Google Site Kit"],
+    "tech": [
+      "Wordpress",
+      "Elementor",
+      "Woo Commerce",
+      "Contact Form 7",
+      "Polylang",
+      "Google Site Kit"
+    ],
     "favicon": "/assets/img/favicons/iberiaestimulantes-com.png",
     "text": "Iberia Estimulantes",
     "url": "https://iberiaestimulantes.com/",
@@ -398,9 +503,15 @@
     "title": "HUCA Constructora",
     "description": "Sitio web para una empresa constructora, con información de sus proyectos de construcción y reforma.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-huca-constructora.png",
     "status": "En Desarrollo",
-    "tech": ["Wordpress", "Elementor", "Contact Form 7", "Polylang", "Google Site Kit"],
+    "tech": [
+      "Wordpress",
+      "Elementor",
+      "Contact Form 7",
+      "Polylang",
+      "Google Site Kit"
+    ],
     "favicon": "/assets/img/favicons/hucaconstructora-com.png",
     "text": "HUCA Constructora",
     "url": "https://hucaconstructora.com/",
@@ -416,7 +527,12 @@
     "icon": "",
     "headerBackgroundImg": "tratar.png",
     "status": "Finalizado",
-    "tech": ["Directus", "Google Cloud", "Docker", "PostgreSQL"],
+    "tech": [
+      "Directus",
+      "Google Cloud",
+      "Docker",
+      "PostgreSQL"
+    ],
     "favicon": "/assets/img/favicons/cms-tratar-es.png",
     "text": "Tratar CMS",
     "url": "https://cms.tratar.es",
@@ -433,7 +549,12 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Abandonado",
-    "tech": ["React Native", "Expo", "Async Storage", "Microsoft Dynamics API"],
+    "tech": [
+      "React Native",
+      "Expo",
+      "Async Storage",
+      "Microsoft Dynamics API"
+    ],
     "favicon": "/assets/img/favicons/ceu-es.png",
     "text": "CEU Eventos (App)",
     "url": "https://ceu.es",
@@ -450,7 +571,14 @@
     "icon": "",
     "headerBackgroundImg": "esmena.png",
     "status": "Finalizado",
-    "tech": ["Wordpress", "Elementor", "OceanWP", "Contact Form 7", "Polylang", "Google Site Kit"],
+    "tech": [
+      "Wordpress",
+      "Elementor",
+      "OceanWP",
+      "Contact Form 7",
+      "Polylang",
+      "Google Site Kit"
+    ],
     "favicon": "/assets/img/favicons/esmena-cat.png",
     "text": "L'Esmena",
     "url": "https://esmena.cat",
@@ -464,7 +592,7 @@
     "title": "Llibrenet",
     "description": "Sitio web para Llibrenet orientado a presentar su actividad y servicios editoriales.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-llibrenet.png",
     "status": "Finalizado",
     "tech": [],
     "favicon": "/assets/img/favicons/llibrenet-com.png",
@@ -482,7 +610,13 @@
     "icon": "",
     "headerBackgroundImg": "inone.png",
     "status": "Finalizado",
-    "tech": ["Adobe XD", "MJML", "GrapeJS", "Laravel", "Node"],
+    "tech": [
+      "Adobe XD",
+      "MJML",
+      "GrapeJS",
+      "Laravel",
+      "Node"
+    ],
     "favicon": "/assets/img/favicons/inone-es.png",
     "text": "inOne",
     "url": "https://inone.es",
@@ -496,9 +630,14 @@
     "title": "UAO Mailing Repository",
     "description": "Repositorio web para consultar, organizar y reutilizar campañas de email de la UAO.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-uao-mailing-repository.png",
     "status": "Finalizado",
-    "tech": ["Next.js", "React", "Tailwind CSS", "Vercel"],
+    "tech": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Vercel"
+    ],
     "favicon": "/assets/img/favicons/mailing-repo-vercel-app.png",
     "text": "UAO Mailing Repository",
     "url": "https://mailing-repo.vercel.app",
@@ -514,7 +653,10 @@
     "icon": "",
     "headerBackgroundImg": "farelleditors.png",
     "status": "Finalizado",
-    "tech": ["Wordpress", "OVH"],
+    "tech": [
+      "Wordpress",
+      "OVH"
+    ],
     "favicon": "/assets/img/favicons/farelleditors-cat.png",
     "text": "Farell Editors",
     "url": "https://farelleditors.cat",
@@ -530,7 +672,10 @@
     "icon": "",
     "headerBackgroundImg": "pmglobalex.png",
     "status": "Finalizado",
-    "tech": ["Wordpress", "Adobe XD"],
+    "tech": [
+      "Wordpress",
+      "Adobe XD"
+    ],
     "favicon": "/assets/img/favicons/pmglobalex-com.png",
     "text": "Globalex Consulting",
     "url": "https://pmglobalex.com",
@@ -546,7 +691,9 @@
     "icon": "",
     "headerBackgroundImg": "lei.png",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/lei-network-com.png",
     "text": "LEI Network",
     "url": "https://lei-network.com",
@@ -562,7 +709,10 @@
     "icon": "",
     "headerBackgroundImg": "js-arquitecto.png",
     "status": "Finalizado",
-    "tech": ["Wordpress", "OVH"],
+    "tech": [
+      "Wordpress",
+      "OVH"
+    ],
     "favicon": "/assets/img/favicons/js-arquitecto-com.png",
     "text": "JS Arquitecto",
     "url": "https://js-arquitecto.com",
@@ -578,7 +728,10 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Wordpress", "OVH"],
+    "tech": [
+      "Wordpress",
+      "OVH"
+    ],
     "favicon": "/assets/img/favicons/gotoikoncierge-com.png",
     "text": "Go To iKoncierge",
     "url": "https://gotoikoncierge.com",
@@ -594,7 +747,10 @@
     "icon": "",
     "headerBackgroundImg": "wanda.png",
     "status": "Finalizado",
-    "tech": ["Wordpress", "Woo Commerce"],
+    "tech": [
+      "Wordpress",
+      "Woo Commerce"
+    ],
     "favicon": "/assets/img/favicons/wandat-shirt-com.png",
     "text": "Wanda T-Shirt",
     "url": "https://wandat-shirt.com",
@@ -610,7 +766,9 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/clinicaabedentpodologia-com.png",
     "text": "Clínica Abedent Podología",
     "url": "https://clinicaabedentpodologia.com",
@@ -626,7 +784,10 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Wordpress", "OVH"],
+    "tech": [
+      "Wordpress",
+      "OVH"
+    ],
     "favicon": "/assets/img/favicons/iconciergerc-com.png",
     "text": "iconciergeRC",
     "url": "https://iconciergerc.com",
@@ -642,7 +803,9 @@
     "icon": "",
     "headerBackgroundImg": "lfb.png",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/lfb-es.png",
     "text": "LFB",
     "url": "https://lfb.es",
@@ -706,7 +869,9 @@
     "icon": "",
     "headerBackgroundImg": "lovelyfamilies.png",
     "status": "Finalizado",
-    "tech": ["Google Analytics"],
+    "tech": [
+      "Google Analytics"
+    ],
     "favicon": "/assets/img/favicons/lovelyfamilies-com.png",
     "text": "Lovely Families",
     "url": "https://lovelyfamilies.com",
@@ -720,9 +885,11 @@
     "title": "AccelGrow",
     "description": "Sitio web corporativo para presentar los servicios y la propuesta de valor de AccelGrow.",
     "icon": "",
-    "headerBackgroundImg": "",
+    "headerBackgroundImg": "proyecto-accelgrow.png",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/accelgrow-com.png",
     "text": "AccelGrow",
     "url": "https://accelgrow.com",
@@ -738,7 +905,9 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/boostartup-es.png",
     "text": "Boostartup",
     "url": "https://boostartup.es",
@@ -754,7 +923,10 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["HTML5", "CSS3"],
+    "tech": [
+      "HTML5",
+      "CSS3"
+    ],
     "favicon": "/assets/img/favicons/medicalnutribalance-com.png",
     "text": "Medical Nutribalance",
     "url": "https://medicalnutribalance.com",
@@ -770,7 +942,9 @@
     "icon": "",
     "headerBackgroundImg": "animeinstitute.png",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/animeinstitute-net.png",
     "text": "Anime Institute",
     "url": "https://animeinstitute.net",
@@ -786,7 +960,9 @@
     "icon": "/assets/img/projects/icons/nversus.png",
     "headerBackgroundImg": "",
     "status": "Abandonado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/nversus-com.png",
     "text": "NVersus",
     "url": "https://nversus.com",
@@ -803,7 +979,9 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Abandonado",
-    "tech": ["Flat"],
+    "tech": [
+      "Flat"
+    ],
     "favicon": "/assets/img/favicons/discordthemes-net.png",
     "text": "Discord Themes",
     "url": "https://discordthemes.net",
@@ -820,7 +998,9 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": ["Wordpress"],
+    "tech": [
+      "Wordpress"
+    ],
     "favicon": "/assets/img/favicons/iceforce-team.png",
     "text": "iForce Team",
     "url": "https://iceforce.team",

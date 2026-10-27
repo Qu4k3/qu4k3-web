@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import { initWebVitals } from './webVitals.js'
+import TauGrid from './TauGrid.vue'
 import './style.css'
 
 /** @type {import('vitepress').Theme} */
@@ -10,6 +11,7 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'layout-top': () => h(TauGrid)
     })
   },
   enhanceApp({ app, router, siteData }) {

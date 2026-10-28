@@ -215,7 +215,6 @@ export default defineConfig({
                 { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v3', link: '/proyecto/fibers' },
                 { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio v1', link: '/proyecto/tau' },
                 { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link v1', link: '/proyecto/pckt-link' },
-                { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone v1', link: '/proyecto/killingfloor-zone' },
                 {
                   text: 'Disboard v1',
                   items: [
@@ -242,6 +241,13 @@ export default defineConfig({
                 { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
               ]
             },
+                          {
+                text: '[2023]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
+                ]
+              },
             ]
           }, {
             text: '🗃️ Archivados',
@@ -252,13 +258,6 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link v0', link: '/proyecto/pckt-link-v0' }
-                ]
-              },
-              {
-                text: '[2023]',
-                collapsed: false,
-                items: [
-                  { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone v0', link: '/proyecto/killingfloor-zone-v0' }
                 ]
               },
               {

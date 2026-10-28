@@ -22,6 +22,29 @@ import jiraIcon from 'simple-icons/icons/jira.svg?raw'
 import notionIcon from 'simple-icons/icons/notion.svg?raw'
 import trelloIcon from 'simple-icons/icons/trello.svg?raw'
 import esriIcon from 'simple-icons/icons/esri.svg?raw'
+import astroIcon from 'simple-icons/icons/astro.svg?raw'
+import lucideIcon from 'simple-icons/icons/lucide.svg?raw'
+import simpleIconsIcon from 'simple-icons/icons/simpleicons.svg?raw'
+import fontawesomeIcon from 'simple-icons/icons/fontawesome.svg?raw'
+import phosphorIcon from 'simple-icons/icons/phosphoricons.svg?raw'
+import remixIcon from 'simple-icons/icons/remix.svg?raw'
+import featherIcon from './icons/feather.svg?raw'
+import heroiconsIcon from './icons/heroicons.svg?raw'
+import tablerIcon from './icons/tabler.svg?raw'
+import amazonwebservicesIcon from './icons/amazonwebservices.svg?raw'
+import microsoftazureIcon from './icons/microsoftazure.svg?raw'
+import powerappsIcon from './icons/powerapps.svg?raw'
+import amazondynamodbIcon from './icons/amazondynamodb.svg?raw'
+import mjmlIcon from './icons/mjml.svg?raw'
+import antigravityIcon from './icons/antigravity.svg?raw'
+import nextauthIcon from './icons/nextauth.svg?raw'
+import grapesjsIcon from './icons/grapesjs.svg?raw'
+import codexIcon from './icons/codex.svg?raw'
+import adobexdIcon from './icons/adobexd.svg?raw'
+import fluentuiIcon from './icons/fluentui.svg?raw'
+import photoshopIcon from './icons/photoshop.svg?raw'
+import illustratorIcon from './icons/illustrator.svg?raw'
+import premiereIcon from './icons/premiere.svg?raw'
 import arcgisIcon from 'simple-icons/icons/arcgis.svg?raw'
 import googleIcon from 'simple-icons/icons/google.svg?raw'
 import tanstackIcon from 'simple-icons/icons/tanstack.svg?raw'
@@ -87,7 +110,6 @@ const technologyGroups = [
     technologies: [
       { name: 'JavaScript', icon: javascriptIcon }, { name: 'TypeScript', icon: typescriptIcon },
       { name: 'React', icon: reactIcon },
-      { name: 'Next.js', icon: nextIcon },
       { name: 'Vue.js', icon: vueIcon }, { name: 'Vite', icon: viteIcon },
       { name: 'React Native', icon: reactIcon }, { name: 'Expo', icon: expoIcon },
     ],
@@ -98,15 +120,24 @@ const technologyGroups = [
       { name: 'HTML', icon: htmlIcon },
       { name: 'CSS', icon: cssIcon }, { name: 'Sass', icon: sassIcon },
       { name: 'CSS Modules', icon: cssModulesIcon }, { name: 'Tailwind CSS', icon: tailwindIcon },
-      { name: 'MUI', icon: muiIcon }, { name: 'Mantine', icon: mantineIcon }, { name: 'Fluent UI' },
+      { name: 'MUI', icon: muiIcon }, { name: 'Mantine', icon: mantineIcon }, { name: 'Fluent UI', icon: fluentuiIcon },
+    ],
+  },
+  {
+    title: 'Frameworks',
+    technologies: [
+      { name: 'Next.js', icon: nextIcon },
+      { name: 'Astro', icon: astroIcon },
+      { name: 'VitePress', icon: vitepressIcon },
+      { name: 'VuePress', icon: vueIcon },
     ],
   },
   {
     title: 'Diseño y colaboración',
     technologies: [
-      { name: 'Figma', icon: figmaIcon }, { name: 'Adobe XD' },
-      { name: 'Photoshop' }, { name: 'Illustrator' },
-      { name: 'Premiere Pro' },
+      { name: 'Figma', icon: figmaIcon }, { name: 'Adobe XD', icon: adobexdIcon },
+      { name: 'Photoshop', icon: photoshopIcon }, { name: 'Illustrator', icon: illustratorIcon },
+      { name: 'Premiere Pro', icon: premiereIcon },
       { name: 'Diseño visual' }, { name: 'Prototipado' },
     ],
   },
@@ -150,7 +181,7 @@ const technologyGroups = [
     technologies: [
       { name: 'MySQL', icon: mysqlIcon }, { name: 'MariaDB', icon: mariadbIcon },
       { name: 'PostgreSQL', icon: postgresqlIcon },
-      { name: 'MongoDB', icon: mongodbIcon }, { name: 'Amazon DynamoDB' },
+      { name: 'MongoDB', icon: mongodbIcon }, { name: 'Amazon DynamoDB', icon: amazondynamodbIcon },
       { name: 'Firebase', icon: firebaseIcon }, { name: 'Supabase', icon: supabaseIcon },
       { name: 'Mongoose', icon: mongooseIcon },
       { name: 'MongoDB Atlas', icon: mongodbIcon },
@@ -169,9 +200,9 @@ const technologyGroups = [
   {
     title: 'CMS, email y contenido',
     technologies: [
-      { name: 'WordPress', icon: wordpressIcon }, { name: 'VitePress', icon: vitepressIcon },
+      { name: 'WordPress', icon: wordpressIcon },
       { name: 'Directus', icon: directusIcon }, { name: 'Strapi', icon: strapiIcon },
-      { name: 'MJML' }, { name: 'GrapesJS' }, { name: 'Mailchimp', icon: mailchimpIcon },
+      { name: 'MJML', icon: mjmlIcon }, { name: 'GrapesJS', icon: grapesjsIcon }, { name: 'Mailchimp', icon: mailchimpIcon },
       { name: 'Integración de emails' },
     ],
   },
@@ -179,20 +210,33 @@ const technologyGroups = [
     title: 'Desarrollo asistido por IA',
     technologies: [
       { name: 'OpenCode', icon: opencodeIcon }, { name: 'Claude Code', icon: claudeCodeIcon },
-      { name: 'GitHub Copilot', icon: copilotIcon }, { name: 'Codex' },
+      { name: 'GitHub Copilot', icon: copilotIcon }, { name: 'Codex', icon: codexIcon },
       { name: 'MCP', icon: mcpIcon },
       { name: 'Agent Skills' },
-      { name: 'Antigravity' },
+      { name: 'Antigravity', icon: antigravityIcon },
+    ],
+  },
+  {
+    title: 'Iconos',
+    technologies: [
+      { name: 'Feather Icons', icon: featherIcon },
+      { name: 'Lucide', icon: lucideIcon },
+      { name: 'Simple Icons', icon: simpleIconsIcon },
+      { name: 'Font Awesome', icon: fontawesomeIcon },
+      { name: 'Heroicons', icon: heroiconsIcon },
+      { name: 'Phosphor Icons', icon: phosphorIcon },
+      { name: 'Tabler Icons', icon: tablerIcon },
+      { name: 'Remix Icon', icon: remixIcon },
     ],
   },
   {
     title: 'Plataformas y servicios',
     technologies: [
       { name: 'ESRI', icon: esriIcon }, { name: 'ArcGIS', icon: arcgisIcon },
-      { name: 'AWS' }, { name: 'Google', icon: googleIcon },
-      { name: 'PowerApps' }, { name: 'Azure' },
+      { name: 'AWS', icon: amazonwebservicesIcon }, { name: 'Google', icon: googleIcon },
+      { name: 'PowerApps', icon: powerappsIcon }, { name: 'Azure', icon: microsoftazureIcon },
       { name: 'TanStack Query', icon: tanstackIcon }, { name: 'TanStack Table', icon: tanstackIcon },
-      { name: 'NextAuth' },
+      { name: 'NextAuth', icon: nextauthIcon },
     ],
   },
   {

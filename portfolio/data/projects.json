@@ -42,9 +42,9 @@
   {
     "type": "personal",
     "yearStart": "2023",
-    "yearEnd": "2025",
-    "yearPublished": "2025",
-    "title": "Killing Floor Zone v0",
+    "yearEnd": "",
+    "yearPublished": "2026",
+    "title": "Killing Floor Zone",
     "description": "Plataforma para consultar estadísticas, logros y contenido de Killing Floor con integración de Steam.",
     "icon": "",
     "headerBackgroundImg": "killingfloorzone-home.png",
@@ -57,28 +57,6 @@
     ],
     "favicon": "/assets/img/favicons/killingfloor-zone.png",
     "text": "Killing Floor Zone",
-    "url": "https://kf.zone",
-    "link": "/proyecto/killingfloor-zone-v0",
-    "github": "https://github.com/Qu4k3/killingfloorzone"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2026",
-    "yearEnd": "",
-    "yearPublished": "2026",
-    "title": "Killing Floor Zone v1",
-    "description": "Nueva versión de Killing Floor Zone para consultar estadísticas, logros y contenido de Killing Floor con integración de Steam.",
-    "icon": "",
-    "headerBackgroundImg": "killingfloorzone-home.png",
-    "status": "En Desarrollo",
-    "tech": [
-      "Next.js",
-      "Tailwind CSS",
-      "Vercel",
-      "Steam API"
-    ],
-    "favicon": "/assets/img/favicons/killingfloor-zone.png",
-    "text": "Killing Floor Zone v1",
     "url": "https://killingfloor.zone",
     "link": "/proyecto/killingfloor-zone",
     "github": "https://github.com/Qu4k3/killingfloorzone"

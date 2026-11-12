@@ -212,14 +212,13 @@ export default defineConfig({
               text: '[2026]',
               collapsed: false,
               items: [
-                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v3', link: '/proyecto/fibers' },
-                { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio v1', link: '/proyecto/tau' },
-                { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link v1', link: '/proyecto/pckt-link' },
+                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers', link: '/proyecto/fibers' },
+                { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio', link: '/proyecto/tau' },
                 {
-                  text: 'Disboard v1',
+                  text: 'Disboard',
                   items: [
-                    { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard" width="16"> Web + API v1', link: '/proyecto/disboard-web' },
-                    { text: '<img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard" width="16"> Documentación v1', link: '/proyecto/disboard-docs' },
+                    { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Team" width="16"> Disboard Team', link: '/proyecto/disboard-team' },
+                    { text: '<img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard Docs" width="16"> Documentación', link: '/proyecto/disboard-docs' },
                     { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot v1', link: '/proyecto/disboard-bot' }
                   ]
                 }
@@ -229,15 +228,16 @@ export default defineConfig({
               text: '[2025]',
               collapsed: false,
               items: [
+                 { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
                  { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — Landing', link: '/proyecto/medilens' },
-                 { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — App', link: '/proyecto/medilens-app' },
-                { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3 v2', link: '/proyecto/qu4k3' }
+                 { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — App', link: '/proyecto/medilens-app' }
               ]
             },
             {
               text: '[2024]',
               collapsed: false,
               items: [
+                { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3', link: '/proyecto/qu4k3' },
                 { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
               ]
             },
@@ -254,39 +254,17 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: '[2025]',
-                collapsed: false,
-                items: [
-                  { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link v0', link: '/proyecto/pckt-link-v0' }
-                ]
-              },
-              {
-                text: '[2021]',
-                collapsed: false,
-                items: [
-                  { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio v0', link: '/proyecto/tau-v0' }
-                ]
-              },
-              {
-                text: '[2019]',
+                text: '[2018]',
                 collapsed: false,
                 items: [
                   {
-                    text: 'Disboard v0',
+                    text: 'Disboard',
                     items: [
-                      { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard" width="16"> Web v0', link: '/proyecto/disboard-web-v0' },
-                      { text: '<img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard" width="16"> API v0', link: '/proyecto/disboard-api' },
-                      { text: '<img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard" width="16"> Documentación v0', link: '/proyecto/disboard-docs-v0' },
-                      { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot v0', link: '/proyecto/disboard-bot-v0' }
+                      { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Web" width="16"> Web (directorio)', link: '/proyecto/disboard-web' },
+                      { text: '<img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard API" width="16"> API', link: '/proyecto/disboard-api' },
+                  { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot', link: '/proyecto/disboard-bot' }
                     ]
                   }
-                ]
-              },
-              {
-                text: '[2022]',
-                collapsed: false,
-                items: [
-                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v2', link: '/proyecto/fibers' },
                 ]
               },
               {
@@ -324,28 +302,18 @@ export default defineConfig({
                   },
                   { text: '<img src="/assets/img/favicons/mhwguild-com.png" alt="Fibers" width="16"> MHW Guild', link: '/proyecto/mhw-guild' },
                   { text: 'Zerg Pulse', link: '/proyecto/zerg-pulse' },
-                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v1', link: '/proyecto/fibers-v2017' },
                   { text: 'Pong', link: '/proyecto/pong' },
                   { text: '<img src="/assets/img/favicons/ecardgame-io.png" alt="Qu4k3" width="16"> Ecard Game', link: '/proyecto/ecard-game' },
                   { text: '<img src="/assets/img/favicons/asciiart-io.png" alt="Qu4k3" width="16"> ASCII Art', link: '/proyecto/ascii-art' },
-                  { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3 v1', link: '/proyecto/qu4k3-v2017' }
                 ]
               },
               {
                 text: '[2016]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers v0', link: '/proyecto/fibers-v2016' },
                   { text: '<img src="/assets/img/favicons/kiznaiver-net.png" alt="" width="16"> Kiznaiver', link: '/proyecto/kiznaiver' },
                 ]
               },
-              {
-                text: '[2015]',
-                collapsed: false,
-                items: [
-                  { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="" width="16"> Qu4k3 v0', link: '/proyecto/qu4k3-v2015' },
-                ]
-              }
             ]
           }],
         },

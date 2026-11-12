@@ -1,3 +1,51 @@
+<img src="/assets/img/favicons/asciiart-io.png" alt="ASCII Art" width="35" height="35" />
+
+<script setup>
+import rubyOnRailsIcon from 'simple-icons/icons/rubyonrails.svg?raw'
+
+const technologies = [
+  { name: 'Ruby on Rails', icon: rubyOnRailsIcon },
+]
+</script>
+
 # ASCII Art
 
-## *Pendiente de definir*
+## Enlaces
+
+<div class="about-actions">
+  <a class="about-action about-action--primary" href="https://github.com/Qu4k3/asciiart" target="_blank" rel="noopener noreferrer">Código privado en GitHub <span aria-hidden="true">↗</span></a>
+</div>
+
+## Sobre el proyecto
+
+Plataforma para subir y compartir diseños y dibujos en ASCII.
+
+## Datos del proyecto
+
+| Inicio | Estado |
+|---|---|
+| 09/01/2017 | Finalizado (09/01/2021) |
+
+## Tecnologías
+
+<ul class="about-tags">
+  <li v-for="technology in technologies" :key="technology.name">
+    <span v-if="technology.icon" class="about-tag-icon" aria-hidden="true" v-html="technology.icon"></span>
+    <span>{{ technology.name }}</span>
+  </li>
+</ul>
+
+## Evolución
+
+| Fecha | Versión o hito | Cambios |
+|---|---|---|
+| 09/01/2021 | Fin del proyecto | Finaliza la etapa de la plataforma para compartir diseños y dibujos en ASCII. |
+| 09/01/2017 | Inicio del proyecto | Comienza el desarrollo con Ruby on Rails. |
+
+## Dominios
+
+| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+|---|---|---|
+| [asciiart.io](https://asciiart.io) | No publicada | 09/01/2021 (dato aportado) |
+
+Dominio propio utilizado del 09/01/2017 al 09/01/2021, según el periodo aportado.

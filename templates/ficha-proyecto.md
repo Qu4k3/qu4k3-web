@@ -43,7 +43,6 @@ import netlifyIcon from 'simple-icons/icons/netlify.svg?raw'
 
 const technologies = [
   { name: 'Astro', icon: astroIcon },
-  { name: 'SEO' },
   { name: 'Netlify', icon: netlifyIcon },
 ]
 </script>

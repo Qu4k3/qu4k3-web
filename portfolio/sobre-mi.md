@@ -9,6 +9,7 @@ imageAlt: Paul Guillamón — desarrollador web y móvil
 import javascriptIcon from 'simple-icons/icons/javascript.svg?raw'
 import typescriptIcon from 'simple-icons/icons/typescript.svg?raw'
 import reactIcon from 'simple-icons/icons/react.svg?raw'
+import reactRouterIcon from 'simple-icons/icons/reactrouter.svg?raw'
 import nextIcon from 'simple-icons/icons/nextdotjs.svg?raw'
 import htmlIcon from 'simple-icons/icons/html5.svg?raw'
 import cssIcon from 'simple-icons/icons/css.svg?raw'
@@ -17,6 +18,9 @@ import cssModulesIcon from 'simple-icons/icons/cssmodules.svg?raw'
 import tailwindIcon from 'simple-icons/icons/tailwindcss.svg?raw'
 import muiIcon from 'simple-icons/icons/mui.svg?raw'
 import mantineIcon from 'simple-icons/icons/mantine.svg?raw'
+import bulmaIcon from 'simple-icons/icons/bulma.svg?raw'
+import chakraUiIcon from 'simple-icons/icons/chakraui.svg?raw'
+import headlessUiIcon from 'simple-icons/icons/headlessui.svg?raw'
 import confluenceIcon from 'simple-icons/icons/confluence.svg?raw'
 import jiraIcon from 'simple-icons/icons/jira.svg?raw'
 import notionIcon from 'simple-icons/icons/notion.svg?raw'
@@ -45,10 +49,13 @@ import fluentuiIcon from './icons/fluentui.svg?raw'
 import photoshopIcon from './icons/photoshop.svg?raw'
 import illustratorIcon from './icons/illustrator.svg?raw'
 import premiereIcon from './icons/premiere.svg?raw'
+import lottieIcon from 'simple-icons/icons/lottiefiles.svg?raw'
 import arcgisIcon from 'simple-icons/icons/arcgis.svg?raw'
 import googleIcon from 'simple-icons/icons/google.svg?raw'
+import googleCloudIcon from 'simple-icons/icons/googlecloud.svg?raw'
 import tanstackIcon from 'simple-icons/icons/tanstack.svg?raw'
 import semrushIcon from 'simple-icons/icons/semrush.svg?raw'
+import hotjarIcon from 'simple-icons/icons/hotjar.svg?raw'
 import dbeaverIcon from 'simple-icons/icons/dbeaver.svg?raw'
 import studio3tIcon from 'simple-icons/icons/studio3t.svg?raw'
 import filezillaIcon from 'simple-icons/icons/filezilla.svg?raw'
@@ -79,10 +86,12 @@ import cloudflareWorkersIcon from 'simple-icons/icons/cloudflareworkers.svg?raw'
 import mailchimpIcon from 'simple-icons/icons/mailchimp.svg?raw'
 import ovhIcon from 'simple-icons/icons/ovh.svg?raw'
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
+import woocommerceIcon from 'simple-icons/icons/woocommerce.svg?raw'
 import vitepressIcon from 'simple-icons/icons/vitepress.svg?raw'
 import directusIcon from 'simple-icons/icons/directus.svg?raw'
 import strapiIcon from 'simple-icons/icons/strapi.svg?raw'
 import contentfulIcon from 'simple-icons/icons/contentful.svg?raw'
+import pagesCmsIcon from './icons/pagescms.svg?raw'
 import phpIcon from 'simple-icons/icons/php.svg?raw'
 import vueIcon from 'simple-icons/icons/vuedotjs.svg?raw'
 import mysqlIcon from 'simple-icons/icons/mysql.svg?raw'
@@ -103,13 +112,16 @@ import codeigniterIcon from 'simple-icons/icons/codeigniter.svg?raw'
 import angularIcon from 'simple-icons/icons/angular.svg?raw'
 import openjdkIcon from 'simple-icons/icons/openjdk.svg?raw'
 import bootstrapIcon from 'simple-icons/icons/bootstrap.svg?raw'
+import rubyIcon from 'simple-icons/icons/ruby.svg?raw'
+import rubyonrailsIcon from 'simple-icons/icons/rubyonrails.svg?raw'
 
 const technologyGroups = [
   {
     title: 'JavaScript',
     technologies: [
       { name: 'JavaScript', icon: javascriptIcon }, { name: 'TypeScript', icon: typescriptIcon },
-      { name: 'React', icon: reactIcon },
+      { name: 'React', icon: reactIcon }, { name: 'React Router', icon: reactRouterIcon },
+      { name: 'Zustand' },
       { name: 'Vue.js', icon: vueIcon }, { name: 'Vite', icon: viteIcon },
       { name: 'React Native', icon: reactIcon }, { name: 'Expo', icon: expoIcon },
     ],
@@ -120,7 +132,10 @@ const technologyGroups = [
       { name: 'HTML', icon: htmlIcon },
       { name: 'CSS', icon: cssIcon }, { name: 'Sass', icon: sassIcon },
       { name: 'CSS Modules', icon: cssModulesIcon }, { name: 'Tailwind CSS', icon: tailwindIcon },
+      { name: 'BEM' }, { name: 'CSS-in-JS' },
       { name: 'MUI', icon: muiIcon }, { name: 'Mantine', icon: mantineIcon }, { name: 'Fluent UI', icon: fluentuiIcon },
+      { name: 'Bulma', icon: bulmaIcon }, { name: 'Chakra UI', icon: chakraUiIcon },
+      { name: 'Headless UI', icon: headlessUiIcon },
     ],
   },
   {
@@ -138,7 +153,8 @@ const technologyGroups = [
       { name: 'Figma', icon: figmaIcon }, { name: 'Adobe XD', icon: adobexdIcon },
       { name: 'Photoshop', icon: photoshopIcon }, { name: 'Illustrator', icon: illustratorIcon },
       { name: 'Premiere Pro', icon: premiereIcon },
-      { name: 'Diseño visual' }, { name: 'Prototipado' },
+      { name: 'After Effects' }, { name: 'Lottie', icon: lottieIcon },
+      { name: 'Zeroheight' },
     ],
   },
   {
@@ -161,11 +177,12 @@ const technologyGroups = [
   {
     title: 'SEO y analítica digital',
     technologies: [
-      { name: 'SEO técnico' }, { name: 'Google Search Console', icon: googleSearchConsoleIcon },
+      { name: 'Google Search Console', icon: googleSearchConsoleIcon },
       { name: 'Google Analytics 4', icon: googleAnalyticsIcon },
       { name: 'Google Tag Manager', icon: googleTagManagerIcon },
       { name: 'Umami', icon: umamiIcon }, { name: 'Matomo', icon: matomoIcon },
-{ name: 'SemRush', icon: semrushIcon }, { name: 'SiteImprove' },
+      { name: 'SemRush', icon: semrushIcon }, { name: 'SiteImprove' },
+      { name: 'Screaming Frog SEO Spider' }, { name: 'Hotjar', icon: hotjarIcon },
     ],
   },
   {
@@ -192,6 +209,7 @@ const technologyGroups = [
     technologies: [
       { name: 'Vercel', icon: vercelIcon }, { name: 'Netlify', icon: netlifyIcon },
       { name: 'Cloudflare', icon: cloudflareIcon }, { name: 'OVH', icon: ovhIcon },
+      { name: 'Google Cloud', icon: googleCloudIcon },
       { name: 'Cloudflare Workers', icon: cloudflareWorkersIcon },
       { name: 'Docker', icon: dockerIcon }, { name: 'CI/CD' },
 { name: 'FileZilla', icon: filezillaIcon },
@@ -201,9 +219,11 @@ const technologyGroups = [
     title: 'CMS, email y contenido',
     technologies: [
       { name: 'WordPress', icon: wordpressIcon },
+      { name: 'Pages CMS', icon: pagesCmsIcon },
+      { name: 'WooCommerce', icon: woocommerceIcon },
       { name: 'Directus', icon: directusIcon }, { name: 'Strapi', icon: strapiIcon },
       { name: 'MJML', icon: mjmlIcon }, { name: 'GrapesJS', icon: grapesjsIcon }, { name: 'Mailchimp', icon: mailchimpIcon },
-      { name: 'Integración de emails' },
+      { name: 'Mailjet' },
     ],
   },
   {
@@ -250,8 +270,11 @@ const technologyGroups = [
 const previousTechnologies = [
   { name: 'Drupal', icon: drupalIcon }, { name: 'PrestaShop', icon: prestashopIcon },
   { name: 'Laravel', icon: laravelIcon }, { name: 'CodeIgniter', icon: codeigniterIcon },
+  { name: 'Slim PHP' },
   { name: 'Angular', icon: angularIcon }, { name: 'Java', icon: openjdkIcon },
-  { name: 'Bootstrap', icon: bootstrapIcon }, { name: 'Contentful', icon: contentfulIcon },
+  { name: 'Ruby', icon: rubyIcon }, { name: 'Ruby on Rails', icon: rubyonrailsIcon },
+  { name: 'Bootstrap', icon: bootstrapIcon }, { name: 'Materialize CSS' },
+  { name: 'Contentful', icon: contentfulIcon },
   { name: 'Adobe Animate' }, { name: 'Google Web Designer' },
   { name: 'Microsoft Dynamics' }, { name: 'Click Dimensions' },
 ]
@@ -280,7 +303,7 @@ const previousTechnologies = [
 
 ## Mi enfoque
 
-Me interesa participar en todo el proceso: entender el problema, ordenar prioridades y aplicar principios de **UI/UX** para convertir una solución clara en un producto sólido. La experiencia en marketing, SEO técnico y analítica digital también me ayuda a pensar en cómo se descubre y utiliza cada proyecto, no solo en cómo se ve.
+Me interesa participar en todo el proceso: entender el problema, ordenar prioridades y aplicar principios de **UI/UX**, **diseño visual** y **prototipado** para convertir una solución clara en un producto sólido. La experiencia en marketing, **SEO técnico**, **integración de emails** y analítica digital también me ayuda a pensar en cómo se descubre y utiliza cada proyecto, no solo en cómo se ve.
 
 <div class="about-principles">
   <section>

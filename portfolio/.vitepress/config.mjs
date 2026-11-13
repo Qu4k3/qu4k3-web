@@ -208,44 +208,63 @@ export default defineConfig({
           items: [{
             text: '⚡ Activos',
             collapsed: false,
-            items: [{
-              text: '[2026]',
-              collapsed: false,
-              items: [
-                { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers', link: '/proyecto/fibers' },
-                { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio', link: '/proyecto/tau' },
-                {
-                  text: 'Disboard',
-                  items: [
-                    { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Team" width="16"> Disboard Team', link: '/proyecto/disboard-team' },
-                    { text: '<img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard Docs" width="16"> Documentación', link: '/proyecto/disboard-docs' },
-                    { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot v1', link: '/proyecto/disboard-bot' }
-                  ]
-                }
-              ]
-            },
-            {
-              text: '[2025]',
-              collapsed: false,
-              items: [
-                 { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
-                 { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — Landing', link: '/proyecto/medilens' },
-                 { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — App', link: '/proyecto/medilens-app' }
-              ]
-            },
-            {
-              text: '[2024]',
-              collapsed: false,
-              items: [
-                { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3', link: '/proyecto/qu4k3' },
-                { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
-              ]
-            },
-                          {
+            items: [
+              {
+                text: '[2025]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
+                  { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — Landing', link: '/proyecto/medilens' },
+                  { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — App', link: '/proyecto/medilens-app' }
+                ]
+              },
+              {
+                text: '[2024]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
+                ]
+              },
+              {
                 text: '[2023]',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
+                ]
+              },
+              {
+                text: '[2019]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio', link: '/proyecto/tau' },
+                ]
+              },
+              {
+                text: '[2018]',
+                collapsed: false,
+                items: [
+                  {
+                    text: 'Disboard',
+                    items: [
+                      { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Team" width="16"> Disboard Team', link: '/proyecto/disboard-team' },
+                      { text: '<img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard Docs" width="16"> Documentación', link: '/proyecto/disboard-docs' },
+                      { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot v1', link: '/proyecto/disboard-bot' }
+                    ]
+                  }
+                ]
+              },
+              {
+                text: '[2016]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers', link: '/proyecto/fibers' }
+                ]
+              },
+              {
+                text: '[2015]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3', link: '/proyecto/qu4k3' }
                 ]
               },
             ]
@@ -262,7 +281,7 @@ export default defineConfig({
                     items: [
                       { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Web" width="16"> Web (directorio)', link: '/proyecto/disboard-web' },
                       { text: '<img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard API" width="16"> API', link: '/proyecto/disboard-api' },
-                  { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot', link: '/proyecto/disboard-bot' }
+                      { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot', link: '/proyecto/disboard-bot' }
                     ]
                   }
                 ]

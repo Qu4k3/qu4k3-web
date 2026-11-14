@@ -210,7 +210,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               {
-                text: '[2025]',
+                text: '2025',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — Landing', link: '/proyecto/medilens' },
@@ -218,28 +218,28 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2024]',
+                text: '2024',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/inefable-day.png" alt="Inefable" width="16"> Inefable', link: '/proyecto/inefable' },
                 ]
               },
               {
-                text: '[2023]',
+                text: '2023',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="16"> Killing Floor Zone', link: '/proyecto/killingfloor-zone' },
                 ]
               },
               {
-                text: '[2019]',
+                text: '2019',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/projects/tau-logo.svg" alt="Tau Studio" width="16"> Tau Studio', link: '/proyecto/tau' },
                 ]
               },
               {
-                text: '[2018]',
+                text: '2018',
                 collapsed: false,
                 items: [
                   {
@@ -253,14 +253,14 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2016]',
+                text: '2016',
                 collapsed: false,
                 items: [
                   { text: 'CSGO Numbers', link: '/proyecto/csgo-numbers' }
                 ]
               },
               {
-                text: '[2015]',
+                text: '2015',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="16"> Qu4k3', link: '/proyecto/qu4k3' }
@@ -272,7 +272,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: '[2018]',
+                text: '2018',
                 collapsed: false,
                 items: [
                   {
@@ -285,14 +285,14 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2021]',
+                text: '2021',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/ceu-es.png" alt="CEU Eventos" width="16"> CEU Eventos', link: '/proyecto/ceu-events-scanner' },
                 ]
               },
               {
-                text: '[2017]',
+                text: '2017',
                 collapsed: false,
                 items: [
                   {
@@ -312,7 +312,7 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2016]',
+                text: '2016',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/kiznaiver-net.png" alt="" width="16"> Kiznaiver', link: '/proyecto/kiznaiver' },
@@ -329,7 +329,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               {
-                text: '[2026]',
+                text: '2026',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/transcontrol.svg" alt="Transcontrol" width="16"> Transcontrol — SPA', link: '/proyecto/transcontrol-app' },
@@ -337,14 +337,14 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2025]',
+                text: '2025',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
                 ]
               },
               {
-                text: '[2016]',
+                text: '2016',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers', link: '/proyecto/fibers' }
@@ -356,7 +356,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: '[2018]',
+                text: '2018',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/animeinstitute-net.png" alt="Anime Institute" width="16"> Anime Institute', link: '/proyecto/animeinstitute' },
@@ -367,7 +367,7 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2017]',
+                text: '2017',
                 collapsed: false,
                 items: [
                   { text: '<img src="/assets/img/favicons/mariokartworld-com.png" alt="" width="16"> Mario Kart World', link: '/proyecto/mk-mkw' },
@@ -383,7 +383,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: '[2026]',
+              text: '2026',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/kinfelina-org.png" alt="" width="16"> Kin Felina', link: '/proyecto/kinfelina' },
@@ -392,21 +392,21 @@ export default defineConfig({
               ]
             },
             {
-              text: '[2025]',
+              text: '2025',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/hucaconstructora-com.png" alt="" width="16"> HUCA Constructora', link: '/proyecto/huca-constructora' },
               ]
             },
             {
-              text: '[2024]',
+              text: '2024',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/cms-tratar-es.png" alt="" width="16"> Tratar', link: '/proyecto/tratar' },
               ]
             },
             {
-              text: '[2021]',
+              text: '2021',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/ceu-es.png" alt="" width="16"> UAO App Eventos', link: '/proyecto/uao-app-events' },
@@ -416,7 +416,7 @@ export default defineConfig({
               ]
             },
             {
-              text: '[2020]',
+              text: '2020',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/ceu-es.png" alt="" width="16"> UAO Mailing Repository', link: '/proyecto/uao-mailing-repository' },
@@ -426,7 +426,7 @@ export default defineConfig({
               ]
             },
             {
-              text: '[2019]',
+              text: '2019',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/js-arquitecto-com.png" alt="" width="16"> JS Arquitecto', link: '/proyecto/js-arquitecto' },
@@ -436,7 +436,7 @@ export default defineConfig({
               ]
             },
             {
-              text: '[2018]',
+              text: '2018',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/lfb-es.png" alt="" width="16"> Liceo Francés de Barcelona (LFB)', link: '/proyecto/lfb' },
@@ -444,7 +444,7 @@ export default defineConfig({
               ]
             },
             {
-              text: '[2016]',
+              text: '2016',
               collapsed: false,
               items: [
                 {
@@ -469,7 +469,7 @@ export default defineConfig({
               ]
             },
             {
-              text: '[2015]',
+              text: '2015',
               collapsed: false,
               items: [
                 { text: '<img src="/assets/img/favicons/medicalnutribalance-com.png" alt="" width="16"> Medical Nutribalance', link: '/proyecto/medical-nutribalance' },

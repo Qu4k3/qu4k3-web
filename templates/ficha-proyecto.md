@@ -8,10 +8,10 @@ En “Tecnologías” indica el stack actual; menciona cambios de stack en la fi
 <!-- Opcional: badges de despliegue, hosting o calidad. -->
 [![Estado del despliegue](URL_DEL_BADGE)](URL_DEL_DESPLIEGUE)
 
-<!-- Opcional: logo del proyecto. -->
-<img src="/assets/img/projects/logo.svg" alt="Logo de NOMBRE_DEL_PROYECTO" width="35" height="35" />
-
 # Nombre del proyecto
+
+<!-- Opcional: logo del proyecto, siempre en .svg y debajo del título. -->
+<div class="project-logo"><img src="/assets/img/projects/logo.svg" alt="Logo de NOMBRE_DEL_PROYECTO" width="48" height="48" /></div>
 
 ## Enlaces
 
@@ -69,7 +69,7 @@ Si el stack cambió entre versiones, indica cada cambio también en la evolució
 
 La fecha de alta corresponde al registro del dominio según WHOIS/RDAP, no necesariamente al primer uso de la web. Si el registro no publica la fecha, indícalo como “No publicada”; no la infieras. Si la fecha actual es posterior al inicio del proyecto, aclara que se trata del registro vigente y no de la fecha histórica original.
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | ejemplo.com | DD/MM/AAAA | — |
 

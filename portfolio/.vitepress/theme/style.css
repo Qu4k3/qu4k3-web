@@ -322,6 +322,23 @@ body {
   border: 1px solid var(--vp-c-divider);
 }
 
+.vp-doc .project-logo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 14px 0 26px;
+}
+
+.vp-doc .project-logo img {
+  width: auto;
+  height: 48px;
+  max-width: min(220px, 100%);
+  margin: 0;
+  border: 0;
+  background: transparent;
+}
+
 .vp-doc .about-intro {
   display: grid;
   grid-template-columns: minmax(180px, 0.42fr) minmax(0, 1fr);

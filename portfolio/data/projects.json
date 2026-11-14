@@ -56,7 +56,7 @@
       "Astro",
       "Netlify"
     ],
-    "favicon": "/assets/img/favicons/medilens-es.png",
+    "favicon": "/assets/img/projects/logos/medilens.svg",
     "text": "MEDI lens — Landing",
     "url": "https://medilens.es",
     "link": "/proyecto/medilens",
@@ -77,14 +77,14 @@
       "Expo",
       "API"
     ],
-    "favicon": "/assets/img/favicons/medilens-es.png",
+    "favicon": "/assets/img/projects/logos/medilens.svg",
     "text": "MEDI lens - App",
     "url": "https://play.google.com/store/apps/details?id=es.medilens.app",
     "link": "/proyecto/medilens-app",
     "github": "https://github.com/medi-lens/medilens-app"
   },
   {
-    "type": "personal",
+    "type": "colaborativo",
     "yearStart": "2025",
     "yearEnd": "",
     "yearPublished": "2025",
@@ -128,7 +128,7 @@
     "github": "https://github.com/Qu4k3/inefable"
   },
   {
-    "type": "personal",
+    "type": "colaborativo",
     "yearStart": "2016",
     "yearEnd": "",
     "yearPublished": "2016",
@@ -302,7 +302,7 @@
     "github": "https://github.com/kinfelina/web"
   },
   {
-    "type": "cliente",
+    "type": "colaborativo",
     "yearStart": "2026",
     "yearEnd": "",
     "yearPublished": "2026",
@@ -311,7 +311,7 @@
     "description": "Aplicación web de gestión para empresas de transporte, con control de vehículos, conductores, servicios, documentación y métricas de flota.",
     "icon": "",
     "headerBackgroundImg": "proyecto-transcontrol-app.png",
-    "status": "Finalizado",
+    "status": "En Desarrollo",
     "tech": [
       "React",
       "MUI",
@@ -324,7 +324,7 @@
     "link": "/proyecto/transcontrol-app"
   },
   {
-    "type": "cliente",
+    "type": "colaborativo",
     "yearStart": "2026",
     "yearEnd": "",
     "yearPublished": "2026",
@@ -333,7 +333,7 @@
     "description": "Landing comercial para Transcontrol, optimizada para presentar la plataforma de transporte, captar solicitudes de demo y mejorar su posicionamiento orgánico.",
     "icon": "",
     "headerBackgroundImg": "proyecto-transcontrol.png",
-    "status": "Finalizado",
+    "status": "En Desarrollo",
     "tech": [
       "Astro",
       "MUI",
@@ -463,6 +463,34 @@
     "yearStart": "2021",
     "yearEnd": "2021",
     "yearPublished": "2021",
+    "title": "UAO App Eventos",
+    "description": "Aplicación web para la gestión de eventos y acciones promocionales en los centros, con códigos QR y formularios multiidioma.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "React",
+      "Next.js",
+      "React Hooks",
+      "Postman",
+      "Node.js",
+      "Vercel",
+      "Bootstrap 5",
+      "qrcode.react",
+      "react-hook-form",
+      "react-toast-notifications"
+    ],
+    "favicon": "/assets/img/favicons/ceu-es.png",
+    "text": "UAO App Eventos",
+    "url": "https://eventos.uao.es",
+    "link": "/proyecto/uao-app-events",
+    "github": "https://github.com/Qu4k3/uao-app-eventos"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2021",
+    "yearEnd": "2021",
+    "yearPublished": "2021",
     "title": "L'Esmena",
     "description": "Sitio web corporativo multilingüe para L'Esmena, desarrollado con WordPress y herramientas de edición visual.",
     "icon": "",
@@ -516,7 +544,7 @@
       "Laravel",
       "Node"
     ],
-    "favicon": "/assets/img/favicons/inone-es.png",
+    "favicon": "/assets/img/projects/logos/inone.svg",
     "text": "inOne",
     "url": "https://inone.es",
     "link": "/proyecto/inone"
@@ -740,7 +768,11 @@
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": [],
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
     "favicon": "/assets/img/favicons/marketplacebarcelona-com.png",
     "text": "Marketplace Barcelona",
     "url": "https://marketplacebarcelona.com",
@@ -839,7 +871,7 @@
     "link": "/proyecto/medical-nutribalance"
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2018",
     "yearEnd": "2019",
     "yearPublished": "2018",
@@ -857,7 +889,7 @@
     "link": "/proyecto/animeinstitute"
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2018",
     "yearEnd": "2018",
     "yearPublished": "2018",
@@ -876,7 +908,7 @@
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2018",
     "yearEnd": "2018",
     "yearPublished": "2018",
@@ -895,7 +927,28 @@
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
+    "yearStart": "2017",
+    "yearEnd": "2019",
+    "yearPublished": "2017",
+    "title": "NotAnotherAnimeTheme",
+    "description": "Tema altamente personalizable para Discord, compatible con BetterDiscord y Powercord, con control total sobre fondos, columnas y colores de la interfaz.",
+    "icon": "",
+    "headerBackgroundImg": "notanotheranimetheme.jpg",
+    "status": "Abandonado",
+    "tech": [
+      "CSS",
+      "BetterDiscord",
+      "Powercord"
+    ],
+    "favicon": "",
+    "text": "NotAnotherAnimeTheme",
+    "url": "https://betterdiscord.app/theme/NotAnotherAnimeTheme",
+    "link": "/proyecto/notanotheranimetheme",
+    "github": "https://github.com/puckzxz/NotAnotherAnimeTheme"
+  },
+  {
+    "type": "colaborativo",
     "yearStart": "2018",
     "yearEnd": "2019",
     "yearPublished": "2018",
@@ -928,7 +981,7 @@
     ],
     "favicon": "/assets/img/favicons/asciiart-io.png",
     "text": "ASCII Art",
-    "url": "",
+    "url": "https://asciiart.io",
     "link": "/proyecto/ascii-art",
     "github": "https://github.com/Qu4k3/asciiart"
   },
@@ -947,12 +1000,12 @@
     ],
     "favicon": "",
     "text": "CSGO Numbers",
-    "url": "",
+    "url": "https://csgonumbers.com",
     "link": "/proyecto/csgo-numbers",
     "github": "https://github.com/Qu4k3/csgonumbers-website"
   },
   {
-    "type": "otros",
+    "type": "personal",
     "yearStart": "2017",
     "yearEnd": "",
     "yearPublished": "2017",
@@ -974,7 +1027,7 @@
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "personal",
     "yearStart": "2016",
     "yearEnd": "2022",
     "yearPublished": "2016",
@@ -996,7 +1049,7 @@
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "personal",
     "yearStart": "2017",
     "yearEnd": "2020",
     "yearPublished": "2017",
@@ -1013,12 +1066,12 @@
     ],
     "favicon": "/assets/img/favicons/mhwguild-com.png",
     "text": "Monster Hunter World Guild",
-    "url": "",
+    "url": "https://mhwguild.com",
     "link": "/proyecto/mhw-guild",
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2017",
     "yearEnd": "2018",
     "yearPublished": "2017",
@@ -1032,12 +1085,12 @@
     ],
     "favicon": "/assets/img/favicons/cemk-es.png",
     "text": "CEMK",
-    "url": "",
+    "url": "https://cemk.es",
     "link": "/proyecto/mk-cemk",
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2018",
     "yearEnd": "2019",
     "yearPublished": "2018",
@@ -1051,12 +1104,12 @@
     ],
     "favicon": "/assets/img/favicons/femk-es.png",
     "text": "FEMK",
-    "url": "",
+    "url": "https://femk.es",
     "link": "/proyecto/mk-femk",
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2017",
     "yearEnd": "2020",
     "yearPublished": "2017",
@@ -1079,9 +1132,9 @@
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "personal",
     "yearStart": "2017",
-    "yearEnd": "",
+    "yearEnd": "2017",
     "yearPublished": "2017",
     "dateRange": "18/02/2017",
     "title": "Pong",
@@ -1102,9 +1155,9 @@
     "github": "https://github.com/Qu4k3/pong"
   },
   {
-    "type": "otros",
+    "type": "personal",
     "yearStart": "2017",
-    "yearEnd": "",
+    "yearEnd": "2017",
     "yearPublished": "2017",
     "dateRange": "09/02/2017",
     "title": "Zerg Pulse",
@@ -1118,12 +1171,12 @@
     ],
     "favicon": "",
     "text": "Zerg Pulse",
-    "url": "",
+    "url": "https://github.com/Qu4k3/zerg-pulse",
     "link": "/proyecto/zerg-pulse",
     "github": "https://github.com/Qu4k3/zerg-pulse"
   },
   {
-    "type": "otros",
+    "type": "personal",
     "yearStart": "2018",
     "yearEnd": "2019",
     "yearPublished": "2018",

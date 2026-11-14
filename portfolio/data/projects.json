@@ -18,7 +18,8 @@
     "text": "Tau Studio",
     "url": "https://tau.studio",
     "link": "/proyecto/tau",
-    "github": "https://github.com/tau/studio"
+    "github": "https://github.com/tau/studio",
+    "sidebarOrder": 4
   },
   {
     "type": "personal",
@@ -40,7 +41,8 @@
     "text": "Killing Floor Zone",
     "url": "https://killingfloor.zone",
     "link": "/proyecto/killingfloor-zone",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 3
   },
   {
     "type": "personal",
@@ -60,7 +62,8 @@
     "text": "MEDI lens — Landing",
     "url": "https://medilens.es",
     "link": "/proyecto/medilens",
-    "github": "https://github.com/medi-lens/medilens-landing"
+    "github": "https://github.com/medi-lens/medilens-landing",
+    "sidebarOrder": 0
   },
   {
     "type": "personal",
@@ -81,7 +84,8 @@
     "text": "MEDI lens - App",
     "url": "https://play.google.com/store/apps/details?id=es.medilens.app",
     "link": "/proyecto/medilens-app",
-    "github": "https://github.com/medi-lens/medilens-app"
+    "github": "https://github.com/medi-lens/medilens-app",
+    "sidebarOrder": 1
   },
   {
     "type": "colaborativo",
@@ -103,7 +107,8 @@
     "text": "Pocket Link",
     "url": "https://pckt.link",
     "link": "/proyecto/pckt-link",
-    "github": "https://github.com/pckt-link/pckt-link"
+    "github": "https://github.com/pckt-link/pckt-link",
+    "sidebarOrder": 24
   },
   {
     "type": "personal",
@@ -125,7 +130,8 @@
     "text": "Inefable Day",
     "url": "https://inefable.day",
     "link": "/proyecto/inefable",
-    "github": "https://github.com/Qu4k3/inefable"
+    "github": "https://github.com/Qu4k3/inefable",
+    "sidebarOrder": 2
   },
   {
     "type": "colaborativo",
@@ -146,7 +152,8 @@
     "text": "Fibers",
     "url": "https://fibers.cat",
     "link": "/proyecto/fibers",
-    "github": "https://github.com/fibers-cat/fibers"
+    "github": "https://github.com/fibers-cat/fibers",
+    "sidebarOrder": 25
   },
   {
     "type": "personal",
@@ -167,7 +174,8 @@
     "text": "Qu4k3",
     "url": "https://qu4k3.com",
     "link": "/proyecto/qu4k3",
-    "github": "https://github.com/qu4k3-web"
+    "github": "https://github.com/qu4k3-web",
+    "sidebarOrder": 9
   },
   {
     "type": "personal",
@@ -190,7 +198,9 @@
     "text": "Disboard Team",
     "url": "https://disboard.team",
     "link": "/proyecto/disboard-team",
-    "github": "https://github.com/disboard-team/disboard-team"
+    "github": "https://github.com/disboard-team/disboard-team",
+    "sidebarOrder": 5,
+    "group": "disboard"
   },
   {
     "type": "personal",
@@ -210,7 +220,9 @@
     "text": "Disboard Web",
     "url": "https://disboard.team/v0/",
     "link": "/proyecto/disboard-web",
-    "github": "https://github.com/disboard-team/disboard-website"
+    "github": "https://github.com/disboard-team/disboard-website",
+    "sidebarOrder": 10,
+    "group": "disboard"
   },
   {
     "type": "personal",
@@ -234,7 +246,9 @@
     "text": "Disboard API",
     "url": "https://api.disboard.team",
     "link": "/proyecto/disboard-api",
-    "github": "https://github.com/disboard-team/disboard-api"
+    "github": "https://github.com/disboard-team/disboard-api",
+    "sidebarOrder": 11,
+    "group": "disboard"
   },
   {
     "type": "personal",
@@ -256,7 +270,9 @@
     "text": "Disboard Documentación",
     "url": "https://docs.disboard.team",
     "link": "/proyecto/disboard-docs",
-    "github": "https://github.com/disboard-team/disboard-docs"
+    "github": "https://github.com/disboard-team/disboard-docs",
+    "sidebarOrder": 6,
+    "group": "disboard"
   },
   {
     "type": "personal",
@@ -277,7 +293,9 @@
     "text": "Disboard Bot",
     "url": "https://bot.disboard.team",
     "link": "/proyecto/disboard-bot",
-    "github": "https://github.com/Qu4k3/disboard-bot"
+    "github": "https://github.com/Qu4k3/disboard-bot",
+    "sidebarOrder": 7,
+    "group": "disboard"
   },
   {
     "type": "cliente",
@@ -299,7 +317,8 @@
     "text": "Kin Felina",
     "url": "https://kinfelina.org/",
     "link": "/proyecto/kinfelina",
-    "github": "https://github.com/kinfelina/web"
+    "github": "https://github.com/kinfelina/web",
+    "sidebarOrder": 34
   },
   {
     "type": "colaborativo",
@@ -321,7 +340,8 @@
     "favicon": "/assets/img/favicons/transcontrol.svg",
     "text": "Transcontrol App",
     "url": "https://app.transcontrol.es",
-    "link": "/proyecto/transcontrol-app"
+    "link": "/proyecto/transcontrol-app",
+    "sidebarOrder": 22
   },
   {
     "type": "colaborativo",
@@ -343,7 +363,8 @@
     "favicon": "/assets/img/favicons/transcontrol.svg",
     "text": "Transcontrol",
     "url": "https://transcontrol.es",
-    "link": "/proyecto/transcontrol"
+    "link": "/proyecto/transcontrol",
+    "sidebarOrder": 23
   },
   {
     "type": "cliente",
@@ -365,7 +386,8 @@
     "favicon": "/assets/img/favicons/finquesmireia-com.png",
     "text": "Finques Mireia",
     "url": "https://finquesmireia.com/",
-    "link": "/proyecto/finques-mireia"
+    "link": "/proyecto/finques-mireia",
+    "sidebarOrder": 35
   },
   {
     "type": "cliente",
@@ -389,7 +411,8 @@
     "favicon": "/assets/img/favicons/iberiaestimulantes-com.png",
     "text": "Iberia Estimulantes",
     "url": "https://iberiaestimulantes.com/",
-    "link": "/proyecto/iberia-estimulantes"
+    "link": "/proyecto/iberia-estimulantes",
+    "sidebarOrder": 36
   },
   {
     "type": "cliente",
@@ -412,7 +435,8 @@
     "favicon": "/assets/img/favicons/hucaconstructora-com.png",
     "text": "HUCA Constructora",
     "url": "https://hucaconstructora.com/",
-    "link": "/proyecto/huca-constructora"
+    "link": "/proyecto/huca-constructora",
+    "sidebarOrder": 37
   },
   {
     "type": "cliente",
@@ -434,7 +458,8 @@
     "text": "Tratar CMS",
     "url": "https://cms.tratar.es",
     "link": "/proyecto/tratar",
-    "github": "https://github.com/webmaster-tratar/recordar-cms-directus"
+    "github": "https://github.com/webmaster-tratar/recordar-cms-directus",
+    "sidebarOrder": 38
   },
   {
     "type": "cliente",
@@ -456,7 +481,8 @@
     "text": "CEU Eventos (App)",
     "url": "https://ceu.es",
     "link": "/proyecto/ceu-events-scanner",
-    "github": "https://github.com/Qu4k3/ceu-events-scanner"
+    "github": "https://github.com/Qu4k3/ceu-events-scanner",
+    "sidebarOrder": 12
   },
   {
     "type": "cliente",
@@ -484,7 +510,8 @@
     "text": "UAO App Eventos",
     "url": "https://eventos.uao.es",
     "link": "/proyecto/uao-app-events",
-    "github": "https://github.com/Qu4k3/uao-app-eventos"
+    "github": "https://github.com/Qu4k3/uao-app-eventos",
+    "sidebarOrder": 39
   },
   {
     "type": "cliente",
@@ -507,7 +534,8 @@
     "favicon": "/assets/img/favicons/esmena-cat.png",
     "text": "L'Esmena",
     "url": "https://esmena.cat",
-    "link": "/proyecto/esmena"
+    "link": "/proyecto/esmena",
+    "sidebarOrder": 40
   },
   {
     "type": "cliente",
@@ -525,7 +553,8 @@
     "favicon": "/assets/img/favicons/llibrenet-com.png",
     "text": "Llibrenet",
     "url": "https://llibrenet.com",
-    "link": "/proyecto/llibrenet"
+    "link": "/proyecto/llibrenet",
+    "sidebarOrder": 41
   },
   {
     "type": "cliente",
@@ -546,7 +575,8 @@
     "favicon": "/assets/img/projects/logos/inone.svg",
     "text": "inOne",
     "url": "https://inone.es",
-    "link": "/proyecto/inone"
+    "link": "/proyecto/inone",
+    "sidebarOrder": 42
   },
   {
     "type": "cliente",
@@ -567,7 +597,8 @@
     "favicon": "/assets/img/favicons/mailing-repo-vercel-app.png",
     "text": "UAO Mailing Repository",
     "url": "https://mailing-repo.vercel.app",
-    "link": "/proyecto/uao-mailing-repository"
+    "link": "/proyecto/uao-mailing-repository",
+    "sidebarOrder": 43
   },
   {
     "type": "cliente",
@@ -586,7 +617,8 @@
     "favicon": "/assets/img/favicons/farelleditors-cat.png",
     "text": "Farell Editors",
     "url": "https://farelleditors.cat",
-    "link": "/proyecto/farell-editors"
+    "link": "/proyecto/farell-editors",
+    "sidebarOrder": 44
   },
   {
     "type": "cliente",
@@ -604,7 +636,8 @@
     "favicon": "/assets/img/favicons/pmglobalex-com.png",
     "text": "Globalex Consulting",
     "url": "https://pmglobalex.com",
-    "link": "/proyecto/globalex"
+    "link": "/proyecto/globalex",
+    "sidebarOrder": 45
   },
   {
     "type": "cliente",
@@ -621,7 +654,8 @@
     "favicon": "/assets/img/favicons/lei-network-com.png",
     "text": "LEI Network",
     "url": "https://lei-network.com",
-    "link": "/proyecto/lei-network"
+    "link": "/proyecto/lei-network",
+    "sidebarOrder": 46
   },
   {
     "type": "cliente",
@@ -639,7 +673,8 @@
     "favicon": "/assets/img/favicons/js-arquitecto-com.png",
     "text": "JS Arquitecto",
     "url": "https://js-arquitecto.com",
-    "link": "/proyecto/js-arquitecto"
+    "link": "/proyecto/js-arquitecto",
+    "sidebarOrder": 47
   },
   {
     "type": "cliente",
@@ -658,7 +693,8 @@
     "favicon": "/assets/img/favicons/gotoikoncierge-com.png",
     "text": "Go To iKoncierge",
     "url": "https://gotoikoncierge.com",
-    "link": "/proyecto/gotoikoncierge"
+    "link": "/proyecto/gotoikoncierge",
+    "sidebarOrder": 48
   },
   {
     "type": "cliente",
@@ -676,7 +712,8 @@
     "favicon": "/assets/img/favicons/wandat-shirt-com.png",
     "text": "Wanda T-Shirt",
     "url": "https://wandat-shirt.com",
-    "link": "/proyecto/wanda-t-shirt"
+    "link": "/proyecto/wanda-t-shirt",
+    "sidebarOrder": 49
   },
   {
     "type": "cliente",
@@ -694,7 +731,8 @@
     "favicon": "/assets/img/favicons/clinicaabedentpodologia-com.png",
     "text": "Clínica Abedent Podología",
     "url": "https://clinicaabedentpodologia.com",
-    "link": "/proyecto/clinica-abedent-podologia"
+    "link": "/proyecto/clinica-abedent-podologia",
+    "sidebarOrder": 50
   },
   {
     "type": "cliente",
@@ -713,7 +751,8 @@
     "favicon": "/assets/img/favicons/iconciergerc-com.png",
     "text": "iconciergeRC",
     "url": "https://iconciergerc.com",
-    "link": "/proyecto/iconciergerc"
+    "link": "/proyecto/iconciergerc",
+    "sidebarOrder": 52
   },
   {
     "type": "cliente",
@@ -730,7 +769,8 @@
     "favicon": "/assets/img/favicons/lfb-es.png",
     "text": "LFB",
     "url": "https://lfb.es",
-    "link": "/proyecto/lfb"
+    "link": "/proyecto/lfb",
+    "sidebarOrder": 51
   },
   {
     "type": "cliente",
@@ -750,7 +790,8 @@
     "favicon": "/assets/img/favicons/evoluginos-com.png",
     "text": "Evoluginos",
     "url": "https://evoluginos.com",
-    "link": "/proyecto/evoluginos"
+    "link": "/proyecto/evoluginos",
+    "sidebarOrder": 56
   },
   {
     "type": "cliente",
@@ -770,7 +811,8 @@
     "favicon": "/assets/img/favicons/marketplacebarcelona-com.png",
     "text": "Marketplace Barcelona",
     "url": "https://marketplacebarcelona.com",
-    "link": "/proyecto/marketplace-barcelona"
+    "link": "/proyecto/marketplace-barcelona",
+    "sidebarOrder": 57
   },
   {
     "type": "cliente",
@@ -787,7 +829,8 @@
     "favicon": "/assets/img/favicons/krnaccessories-com.png",
     "text": "KRN Accessories",
     "url": "https://krnaccessories.com",
-    "link": "/proyecto/krn-accessories"
+    "link": "/proyecto/krn-accessories",
+    "sidebarOrder": 58
   },
   {
     "type": "cliente",
@@ -805,7 +848,8 @@
     "favicon": "/assets/img/favicons/lovelyfamilies-com.png",
     "text": "Lovely Families",
     "url": "https://lovelyfamilies.com",
-    "link": "/proyecto/lovelyfamilies"
+    "link": "/proyecto/lovelyfamilies",
+    "sidebarOrder": 59
   },
   {
     "type": "cliente",
@@ -822,7 +866,9 @@
     "favicon": "/assets/img/favicons/accelgrow-com.png",
     "text": "AccelGrow",
     "url": "https://accelgrow.com",
-    "link": "/proyecto/accelgrow"
+    "link": "/proyecto/accelgrow",
+    "sidebarOrder": 60,
+    "group": "accelgrow"
   },
   {
     "type": "cliente",
@@ -840,7 +886,9 @@
     "favicon": "/assets/img/favicons/boostartup-es.png",
     "text": "Boostartup",
     "url": "https://boostartup.es",
-    "link": "/proyecto/boostartup"
+    "link": "/proyecto/boostartup",
+    "sidebarOrder": 61,
+    "group": "accelgrow"
   },
   {
     "type": "cliente",
@@ -859,7 +907,8 @@
     "favicon": "/assets/img/favicons/medicalnutribalance-com.png",
     "text": "Medical Nutribalance",
     "url": "https://medicalnutribalance.com",
-    "link": "/proyecto/medical-nutribalance"
+    "link": "/proyecto/medical-nutribalance",
+    "sidebarOrder": 62
   },
   {
     "type": "colaborativo",
@@ -877,7 +926,8 @@
     "favicon": "/assets/img/favicons/animeinstitute-net.png",
     "text": "Anime Institute",
     "url": "https://animeinstitute.net",
-    "link": "/proyecto/animeinstitute"
+    "link": "/proyecto/animeinstitute",
+    "sidebarOrder": 26
   },
   {
     "type": "colaborativo",
@@ -896,7 +946,8 @@
     "text": "NVersus",
     "url": "https://nversus.com",
     "link": "/proyecto/nversus",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 27
   },
   {
     "type": "colaborativo",
@@ -915,7 +966,8 @@
     "text": "Discord Themes",
     "url": "https://discordthemes.net",
     "link": "/proyecto/dthemes",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 28
   },
   {
     "type": "colaborativo",
@@ -936,7 +988,8 @@
     "text": "NotAnotherAnimeTheme",
     "url": "https://betterdiscord.app/theme/NotAnotherAnimeTheme",
     "link": "/proyecto/notanotheranimetheme",
-    "github": "https://github.com/puckzxz/NotAnotherAnimeTheme"
+    "github": "https://github.com/puckzxz/NotAnotherAnimeTheme",
+    "sidebarOrder": 33
   },
   {
     "type": "colaborativo",
@@ -955,7 +1008,8 @@
     "text": "iForce Team",
     "url": "https://iceforce.team",
     "link": "/proyecto/iforce-team",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 29
   },
   {
     "type": "personal",
@@ -974,7 +1028,8 @@
     "text": "ASCII Art",
     "url": "https://asciiart.io",
     "link": "/proyecto/ascii-art",
-    "github": "https://github.com/Qu4k3/asciiart"
+    "github": "https://github.com/Qu4k3/asciiart",
+    "sidebarOrder": 20
   },
   {
     "type": "personal",
@@ -993,7 +1048,8 @@
     "text": "CSGO Numbers",
     "url": "https://csgonumbers.com",
     "link": "/proyecto/csgo-numbers",
-    "github": "https://github.com/Qu4k3/csgonumbers-website"
+    "github": "https://github.com/Qu4k3/csgonumbers-website",
+    "sidebarOrder": 8
   },
   {
     "type": "personal",
@@ -1015,7 +1071,8 @@
     "text": "E-Card Game",
     "url": "https://ecardgame.io",
     "link": "/proyecto/ecard-game",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 19
   },
   {
     "type": "personal",
@@ -1037,7 +1094,8 @@
     "text": "Kiznaiver",
     "url": "https://qu4k3.com/archive/kiznaiver/",
     "link": "/proyecto/kiznaiver",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 21
   },
   {
     "type": "personal",
@@ -1059,7 +1117,8 @@
     "text": "Monster Hunter World Guild",
     "url": "https://mhwguild.com",
     "link": "/proyecto/mhw-guild",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 16
   },
   {
     "type": "colaborativo",
@@ -1078,7 +1137,8 @@
     "text": "CEMK",
     "url": "https://cemk.es",
     "link": "/proyecto/mk-cemk",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 32
   },
   {
     "type": "colaborativo",
@@ -1097,7 +1157,8 @@
     "text": "FEMK",
     "url": "https://femk.es",
     "link": "/proyecto/mk-femk",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 30
   },
   {
     "type": "colaborativo",
@@ -1120,7 +1181,8 @@
     "text": "Mario Kart World",
     "url": "https://qu4k3.com/archive/mk/mariokartworld/",
     "link": "/proyecto/mk-mkw",
-    "github": ""
+    "github": "",
+    "sidebarOrder": 31
   },
   {
     "type": "personal",
@@ -1143,7 +1205,8 @@
     "text": "Pong",
     "url": "https://qu4k3.com/pong",
     "link": "/proyecto/pong",
-    "github": "https://github.com/Qu4k3/pong"
+    "github": "https://github.com/Qu4k3/pong",
+    "sidebarOrder": 18
   },
   {
     "type": "personal",
@@ -1164,7 +1227,8 @@
     "text": "Zerg Pulse",
     "url": "https://github.com/Qu4k3/zerg-pulse",
     "link": "/proyecto/zerg-pulse",
-    "github": "https://github.com/Qu4k3/zerg-pulse"
+    "github": "https://github.com/Qu4k3/zerg-pulse",
+    "sidebarOrder": 17
   },
   {
     "type": "personal",
@@ -1188,6 +1252,130 @@
     "text": "Lakitu",
     "url": "",
     "link": "/proyecto/mk-lakitu",
-    "github": "https://github.com/Qu4k3/lakitu-bot"
+    "github": "https://github.com/Qu4k3/lakitu-bot",
+    "sidebarOrder": 13,
+    "group": "mariokart"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2016",
+    "yearEnd": "2016",
+    "yearPublished": "2016",
+    "title": "Panorama d'Art",
+    "description": "Sitio web para Panorama d'Art, proyecto del Institut Barcelonès d'Art.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/favicons/panoramadart-com.png",
+    "text": "Panorama d'Art",
+    "url": "https://panoramadart.com",
+    "link": "/proyecto/iba-panoramadart",
+    "github": "",
+    "sidebarOrder": 53,
+    "group": "iba"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2016",
+    "yearEnd": "2016",
+    "yearPublished": "2016",
+    "title": "B151 Barcelona",
+    "description": "Sitio web para B151 Barcelona, proyecto del Institut Barcelonès d'Art.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/favicons/b151barcelona-com.png",
+    "text": "B151 Barcelona",
+    "url": "https://b151barcelona.com",
+    "link": "/proyecto/iba-b151-barcelona",
+    "github": "",
+    "sidebarOrder": 54,
+    "group": "iba"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2016",
+    "yearEnd": "2016",
+    "yearPublished": "2016",
+    "title": "Institut Barcelonès d'Art",
+    "description": "Sitio web para el Institut Barcelonès d'Art.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "WordPress"
+    ],
+    "favicon": "/assets/img/favicons/iba-cat.png",
+    "text": "Institut Barcelonès d'Art",
+    "url": "https://iba.cat",
+    "link": "/proyecto/iba-institutbarcelonesdart",
+    "github": "",
+    "sidebarOrder": 55,
+    "group": "iba"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "Spanish National League (SNL)",
+    "description": "Web de la Liga Española de Mario Kart 8 Deluxe, con resultados semanales, tablas y clasificaciones.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "Flat UI Pro",
+      "Video.js",
+      "Google Analytics"
+    ],
+    "favicon": "/assets/img/favicons/mariokartworld-com.png",
+    "text": "SNL",
+    "url": "https://qu4k3.com/archive/mk/mariokartworld/snl/index.html",
+    "link": "/proyecto/mk-snl",
+    "github": "",
+    "sidebarOrder": 15,
+    "group": "mariokart"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "Torneo Interautonómico de Mario Kart",
+    "description": "Web informativa para un torneo de Mario Kart por comunidades autónomas, con normas, inscripción, calendario y resultados.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "GSAP",
+      "Flickity"
+    ],
+    "favicon": "/assets/img/favicons/mariokartworld-com.png",
+    "text": "Torneo Interautonómico",
+    "url": "https://qu4k3.com/archive/mk/mariokartworld/torneo-interautonomico/index.html",
+    "link": "/proyecto/mk-torneo-interautonomico",
+    "github": "",
+    "sidebarOrder": 14,
+    "group": "mariokart"
   }
 ]

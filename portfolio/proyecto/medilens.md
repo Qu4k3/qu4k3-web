@@ -1,7 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2d6ac58f-f8a7-4637-8912-384c684cd946/deploy-status)](https://app.netlify.com/sites/medilens/deploys)
 
-<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="35" height="35" />
-
 <script setup>
 import astroIcon from 'simple-icons/icons/astro.svg?raw'
 import netlifyIcon from 'simple-icons/icons/netlify.svg?raw'
@@ -13,6 +11,8 @@ const technologies = [
 </script>
 
 # MEDI lens — Landing
+
+<div class="project-logo"><img src="/assets/img/projects/logos/medilens.svg" alt="MEDI lens" width="48" height="48" /></div>
 
 ## Enlaces
 

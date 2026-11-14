@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard Bot" width="35" height="35" />
-
 <script setup>
 import nodeIcon from 'simple-icons/icons/nodedotjs.svg?raw'
 import expressIcon from 'simple-icons/icons/express.svg?raw'
@@ -13,6 +11,8 @@ const technologies = [
 </script>
 
 # Disboard Discord Bot
+
+<div class="project-logo"><img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard Bot" width="48" height="48" /></div>
 
 ## Enlaces
 

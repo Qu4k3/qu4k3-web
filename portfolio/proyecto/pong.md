@@ -1,6 +1,6 @@
 <script setup>
 import html5Icon from 'simple-icons/icons/html5.svg?raw'
-import css3Icon from 'simple-icons/icons/css3.svg?raw'
+import css3Icon from 'simple-icons/icons/css.svg?raw'
 import javascriptIcon from 'simple-icons/icons/javascript.svg?raw'
 
 const technologies = [

@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/ceu-es.png" alt="CEU Eventos" width="35" height="35" />
-
 <script setup>
 import reactIcon from 'simple-icons/icons/react.svg?raw'
 import expoIcon from 'simple-icons/icons/expo.svg?raw'
@@ -13,6 +11,8 @@ const technologies = [
 </script>
 
 # CEU Eventos (App)
+
+<div class="project-logo"><img src="/assets/img/favicons/ceu-es.png" alt="CEU Eventos" width="48" height="48" /></div>
 
 ## Enlaces
 

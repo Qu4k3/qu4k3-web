@@ -1,8 +1,6 @@
-<img src="/assets/img/favicons/medicalnutribalance-com.png" alt="Medical Nutribalance" width="35" height="35" />
-
 <script setup>
 import html5Icon from 'simple-icons/icons/html5.svg?raw'
-import css3Icon from 'simple-icons/icons/css3.svg?raw'
+import css3Icon from 'simple-icons/icons/css.svg?raw'
 
 const technologies = [
   { name: 'HTML5', icon: html5Icon },
@@ -11,6 +9,8 @@ const technologies = [
 </script>
 
 # Medical Nutribalance
+
+<div class="project-logo"><img src="/assets/img/favicons/medicalnutribalance-com.png" alt="Medical Nutribalance" width="48" height="48" /></div>
 
 ## Enlaces
 

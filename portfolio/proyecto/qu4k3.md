@@ -14,6 +14,8 @@ const technologies = [
 
 # Qu4k3
 
+<div class="project-logo"><img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="48" height="48" /></div>
+
 ## Enlaces
 
 <div class="about-actions">

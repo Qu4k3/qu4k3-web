@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/inone-es.png" alt="inOne" width="35" height="35" />
-
 <script setup>
 import laravelIcon from 'simple-icons/icons/laravel.svg?raw'
 import nodeIcon from 'simple-icons/icons/nodedotjs.svg?raw'
@@ -14,6 +12,8 @@ const technologies = [
 </script>
 
 # inOne
+
+<div class="project-logo"><img src="/assets/img/projects/logos/inone.svg" alt="inOne" width="48" height="48" /></div>
 
 ## Enlaces
 

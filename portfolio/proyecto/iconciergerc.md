@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/iconciergerc-com.png" alt="iconciergeRC" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 import ovhIcon from 'simple-icons/icons/ovh.svg?raw'
@@ -11,6 +9,8 @@ const technologies = [
 </script>
 
 # iconciergeRC
+
+<div class="project-logo"><img src="/assets/img/favicons/iconciergerc-com.png" alt="iconciergeRC" width="48" height="48" /></div>
 
 ## Enlaces
 

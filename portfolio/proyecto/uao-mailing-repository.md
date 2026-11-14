@@ -1,5 +1,3 @@
-<img src="/assets/img/projects/proyecto-uao-mailing-repository.png" alt="UAO Mailing Repository" width="35" height="35" />
-
 <script setup>
 import nextIcon from 'simple-icons/icons/nextdotjs.svg?raw'
 import reactIcon from 'simple-icons/icons/react.svg?raw'
@@ -15,6 +13,8 @@ const technologies = [
 </script>
 
 # UAO Mailing Repository
+
+<div class="project-logo"><img src="/assets/img/projects/proyecto-uao-mailing-repository.png" alt="UAO Mailing Repository" width="48" height="48" /></div>
 
 ## Enlaces
 

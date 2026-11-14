@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/discordthemes-net.png" alt="Discord Themes" width="35" height="35" />
-
 <script setup>
 const technologies = [
   { name: 'Flat' },
@@ -7,6 +5,8 @@ const technologies = [
 </script>
 
 # Discord Themes
+
+<div class="project-logo"><img src="/assets/img/favicons/discordthemes-net.png" alt="Discord Themes" width="48" height="48" /></div>
 
 ## Enlaces
 

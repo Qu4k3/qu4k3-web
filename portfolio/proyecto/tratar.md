@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/cms-tratar-es.png" alt="Tratar CMS" width="35" height="35" />
-
 <script setup>
 import directusIcon from 'simple-icons/icons/directus.svg?raw'
 import googleCloudIcon from 'simple-icons/icons/googlecloud.svg?raw'
@@ -15,6 +13,8 @@ const technologies = [
 </script>
 
 # Tratar CMS
+
+<div class="project-logo"><img src="/assets/img/favicons/cms-tratar-es.png" alt="Tratar CMS" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/lovelyfamilies-com.png" alt="Lovely Families" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 import googleAnalyticsIcon from 'simple-icons/icons/googleanalytics.svg?raw'
@@ -11,6 +9,8 @@ const technologies = [
 </script>
 
 # Lovely Families
+
+<div class="project-logo"><img src="/assets/img/favicons/lovelyfamilies-com.png" alt="Lovely Families" width="48" height="48" /></div>
 
 ## Enlaces
 

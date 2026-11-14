@@ -14,6 +14,8 @@ const technologies = [
 
 # Fibers
 
+<div class="project-logo"><img src="/assets/img/projects/logos/fibers.svg" alt="Fibers" width="48" height="48" /></div>
+
 ## Enlaces
 
 <div class="about-actions">

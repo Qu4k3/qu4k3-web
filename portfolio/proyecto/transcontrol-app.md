@@ -1,5 +1,3 @@
-<img src="/assets/img/projects/transcontrol-logo.svg" alt="Transcontrol" width="163" height="40" />
-
 <script setup>
 import reactIcon from 'simple-icons/icons/react.svg?raw'
 import muiIcon from 'simple-icons/icons/mui.svg?raw'
@@ -13,6 +11,8 @@ const technologies = [
 </script>
 
 # Transcontrol App
+
+<div class="project-logo"><img src="/assets/img/projects/transcontrol-logo.svg" alt="Transcontrol" width="196" height="48" /></div>
 
 ## Enlaces
 
@@ -39,7 +39,7 @@ La SPA está construida con **React y MUI**, con una interfaz de dashboard orien
 
 | Inicio | Estado |
 |---|---|
-| 2026 | Finalizado |
+| 2026 | En Desarrollo |
 
 ## Tecnologías
 

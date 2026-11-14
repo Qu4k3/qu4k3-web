@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="35" height="35" />
-
 <script setup>
 import reactIcon from 'simple-icons/icons/react.svg?raw'
 import expoIcon from 'simple-icons/icons/expo.svg?raw'
@@ -12,6 +10,8 @@ const technologies = [
 </script>
 
 # MEDI lens — App
+
+<div class="project-logo"><img src="/assets/img/projects/logos/medilens.svg" alt="MEDI lens" width="48" height="48" /></div>
 
 ## Enlaces
 

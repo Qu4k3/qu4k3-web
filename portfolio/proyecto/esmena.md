@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/esmena-cat.png" alt="L'Esmena" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 import elementorIcon from 'simple-icons/icons/elementor.svg?raw'
@@ -16,6 +14,8 @@ const technologies = [
 </script>
 
 # L'Esmena
+
+<div class="project-logo"><img src="/assets/img/favicons/esmena-cat.png" alt="L'Esmena" width="48" height="48" /></div>
 
 ## Enlaces
 

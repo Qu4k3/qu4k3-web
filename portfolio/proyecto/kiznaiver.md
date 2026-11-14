@@ -1,8 +1,6 @@
-<img src="/assets/img/favicons/kiznaiver-net.png" alt="Kiznaiver" width="35" height="35" />
-
 <script setup>
 import html5Icon from 'simple-icons/icons/html5.svg?raw'
-import css3Icon from 'simple-icons/icons/css3.svg?raw'
+import css3Icon from 'simple-icons/icons/css.svg?raw'
 import javascriptIcon from 'simple-icons/icons/javascript.svg?raw'
 
 const technologies = [
@@ -14,6 +12,8 @@ const technologies = [
 </script>
 
 # Kiznaiver
+
+<div class="project-logo"><img src="/assets/img/favicons/kiznaiver-net.png" alt="Kiznaiver" width="48" height="48" /></div>
 
 ## Enlaces
 

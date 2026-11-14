@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/femk-es.png" alt="Federación Española de Mario Kart" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 
@@ -9,6 +7,8 @@ const technologies = [
 </script>
 
 # Federación Española de Mario Kart (FEMK)
+
+<div class="project-logo"><img src="/assets/img/favicons/femk-es.png" alt="Federación Española de Mario Kart" width="48" height="48" /></div>
 
 ## Enlaces
 

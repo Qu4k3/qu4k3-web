@@ -1,7 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b2f37b31-a4f7-479a-b9f9-204c9a07b194/deploy-status)](https://app.netlify.com/projects/disboard-docs/deploys)
 
-<img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard Docs" width="35" height="35" />
-
 <script setup>
 import vitepressIcon from 'simple-icons/icons/vitepress.svg?raw'
 import vueIcon from 'simple-icons/icons/vuedotjs.svg?raw'
@@ -17,6 +15,8 @@ const technologies = [
 </script>
 
 # Disboard Documentación
+
+<div class="project-logo"><img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard Docs" width="48" height="48" /></div>
 
 ## Enlaces
 

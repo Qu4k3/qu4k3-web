@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/iberiaestimulantes-com.png" alt="Iberia Estimulantes" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 import elementorIcon from 'simple-icons/icons/elementor.svg?raw'
@@ -16,6 +14,8 @@ const technologies = [
 </script>
 
 # Iberia Estimulantes
+
+<div class="project-logo"><img src="/assets/img/favicons/iberiaestimulantes-com.png" alt="Iberia Estimulantes" width="48" height="48" /></div>
 
 ## Enlaces
 

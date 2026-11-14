@@ -1,8 +1,6 @@
-<img src="/assets/img/favicons/ecardgame-io.png" alt="E-Card Game" width="35" height="35" />
-
 <script setup>
 import html5Icon from 'simple-icons/icons/html5.svg?raw'
-import css3Icon from 'simple-icons/icons/css3.svg?raw'
+import css3Icon from 'simple-icons/icons/css.svg?raw'
 import javascriptIcon from 'simple-icons/icons/javascript.svg?raw'
 
 const technologies = [
@@ -13,6 +11,8 @@ const technologies = [
 </script>
 
 # E-Card Game
+
+<div class="project-logo"><img src="/assets/img/favicons/ecardgame-io.png" alt="E-Card Game" width="48" height="48" /></div>
 
 ## Enlaces
 

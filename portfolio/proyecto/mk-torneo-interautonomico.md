@@ -1,8 +1,6 @@
-<img src="/archive/mk/mariokartworld/torneo-interautonomico/assets/images/mkw.png" alt="Torneo Interautonómico de Mario Kart" width="35" height="35" />
-
 <script setup>
 import html5Icon from 'simple-icons/icons/html5.svg?raw'
-import css3Icon from 'simple-icons/icons/css3.svg?raw'
+import css3Icon from 'simple-icons/icons/css.svg?raw'
 import javascriptIcon from 'simple-icons/icons/javascript.svg?raw'
 import bootstrapIcon from 'simple-icons/icons/bootstrap.svg?raw'
 import jqueryIcon from 'simple-icons/icons/jquery.svg?raw'
@@ -19,6 +17,8 @@ const technologies = [
 </script>
 
 # Torneo Interautonómico de Mario Kart
+
+<div class="project-logo"><img src="/archive/mk/mariokartworld/torneo-interautonomico/assets/images/mkw.png" alt="Torneo Interautonómico de Mario Kart" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="35" height="35" />
-
 <script setup>
 import nextIcon from 'simple-icons/icons/nextdotjs.svg?raw'
 import tailwindIcon from 'simple-icons/icons/tailwindcss.svg?raw'
@@ -15,6 +13,8 @@ const technologies = [
 </script>
 
 # Killing Floor Zone
+
+<div class="project-logo"><img src="/assets/img/favicons/killingfloor-zone.png" alt="Killing Floor Zone" width="48" height="48" /></div>
 
 ## Enlaces
 

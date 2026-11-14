@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/asciiart-io.png" alt="ASCII Art" width="35" height="35" />
-
 <script setup>
 import rubyOnRailsIcon from 'simple-icons/icons/rubyonrails.svg?raw'
 
@@ -10,10 +8,13 @@ const technologies = [
 
 # ASCII Art
 
+<div class="project-logo"><img src="/assets/img/favicons/asciiart-io.png" alt="ASCII Art" width="48" height="48" /></div>
+
 ## Enlaces
 
 <div class="about-actions">
-  <a class="about-action about-action--primary" href="https://github.com/Qu4k3/asciiart" target="_blank" rel="noopener noreferrer">Código privado en GitHub <span aria-hidden="true">↗</span></a>
+  <a class="about-action about-action--primary" href="https://asciiart.io" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
+  <a class="about-action" href="https://github.com/Qu4k3/asciiart" target="_blank" rel="noopener noreferrer">Código privado en GitHub <span aria-hidden="true">↗</span></a>
 </div>
 
 ## Sobre el proyecto

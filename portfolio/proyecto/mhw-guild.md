@@ -1,8 +1,6 @@
-<img src="/assets/img/favicons/mhwguild-com.png" alt="Monster Hunter World Guild" width="35" height="35" />
-
 <script setup>
 import html5Icon from 'simple-icons/icons/html5.svg?raw'
-import css3Icon from 'simple-icons/icons/css3.svg?raw'
+import css3Icon from 'simple-icons/icons/css.svg?raw'
 import javascriptIcon from 'simple-icons/icons/javascript.svg?raw'
 import mysqlIcon from 'simple-icons/icons/mysql.svg?raw'
 
@@ -15,6 +13,8 @@ const technologies = [
 </script>
 
 # Monster Hunter World Guild
+
+<div class="project-logo"><img src="/assets/img/favicons/mhwguild-com.png" alt="Monster Hunter World Guild" width="48" height="48" /></div>
 
 ## Enlaces
 

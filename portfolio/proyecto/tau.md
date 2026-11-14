@@ -1,7 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/061d6f73-e0da-41c7-97bc-acc0004b02cb/deploy-status)](https://app.netlify.com/sites/tau-studio/deploys)
 
-<img src="/assets/img/projects/tau-logo.svg" alt="Tau" width="35" height="41" /> <img src="/assets/img/projects/tau-studio-wordmark.svg" alt="Studio" width="37" height="29" />
-
 <script setup>
 import astroIcon from 'simple-icons/icons/astro.svg?raw'
 import netlifyIcon from 'simple-icons/icons/netlify.svg?raw'
@@ -14,6 +12,8 @@ const technologies = [
 </script>
 
 # Tau Studio
+
+<div class="project-logo"><img src="/assets/img/projects/tau-logo.svg" alt="Tau" width="41" height="48" /> <img src="/assets/img/projects/tau-studio-wordmark.svg" alt="Studio" width="61" height="48" /></div>
 
 ## Enlaces
 

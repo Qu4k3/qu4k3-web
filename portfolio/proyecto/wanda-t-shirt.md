@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/wandat-shirt-com.png" alt="Wanda T-Shirt" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 import woocommerceIcon from 'simple-icons/icons/woocommerce.svg?raw'
@@ -11,6 +9,8 @@ const technologies = [
 </script>
 
 # Wanda T-Shirt
+
+<div class="project-logo"><img src="/assets/img/favicons/wandat-shirt-com.png" alt="Wanda T-Shirt" width="48" height="48" /></div>
 
 ## Enlaces
 

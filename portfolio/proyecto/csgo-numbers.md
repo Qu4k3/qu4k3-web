@@ -11,7 +11,8 @@ const technologies = [
 ## Enlaces
 
 <div class="about-actions">
-  <a class="about-action about-action--primary" href="https://github.com/Qu4k3/csgonumbers-website" target="_blank" rel="noopener noreferrer">Repositorio privado en GitHub <span aria-hidden="true">↗</span></a>
+  <a class="about-action about-action--primary" href="https://csgonumbers.com" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
+  <a class="about-action" href="https://github.com/Qu4k3/csgonumbers-website" target="_blank" rel="noopener noreferrer">Repositorio privado en GitHub <span aria-hidden="true">↗</span></a>
 </div>
 
 ## Sobre el proyecto
@@ -40,3 +41,10 @@ Proyecto web iniciado como una página «coming soon» y retomado en 2023 con un
 | 2026 | Primera publicación | Se publica la primera versión del sitio. |
 | 17/06/2023 | Reescritura con Next.js | El proyecto se rehace desde cero con Next.js. |
 | 05/06/2016 | Página inicial | El proyecto comienza con una página «coming soon». |
+
+## Dominios
+
+| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+|---|---|---|
+| [csgonumbers.com](https://csgonumbers.com) | 13/12/2016 (dato aportado) | Activo |
+| [csgonumbers.net](https://csgonumbers.net) | 05/06/2016 (dato aportado) | 05/06/2025 (dato aportado) |

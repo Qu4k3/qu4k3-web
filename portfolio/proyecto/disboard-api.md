@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard API" width="35" height="35" />
-
 <script setup>
 import nodeIcon from 'simple-icons/icons/nodedotjs.svg?raw'
 import mongooseIcon from 'simple-icons/icons/mongoose.svg?raw'
@@ -16,6 +14,8 @@ const technologies = [
 </script>
 
 # Disboard API
+
+<div class="project-logo"><img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard API" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -1,7 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7f149fce-dcd9-45d3-83f5-d8e794768a1e/deploy-status)](https://app.netlify.com/projects/disboard/deploys)
 
-<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Team" width="35" height="35" />
-
 <script setup>
 import astroIcon from 'simple-icons/icons/astro.svg?raw'
 import sassIcon from 'simple-icons/icons/sass.svg?raw'
@@ -18,6 +16,8 @@ const technologies = [
 </script>
 
 # Disboard Team
+
+<div class="project-logo"><img src="/assets/img/favicons/disboard-team.png" alt="Disboard Team" width="48" height="48" /></div>
 
 ## Enlaces
 

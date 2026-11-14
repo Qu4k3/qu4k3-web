@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/clinicaabedentpodologia-com.png" alt="Clínica Abedent Podología" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 
@@ -9,6 +7,8 @@ const technologies = [
 </script>
 
 # Clínica Abedent Podología
+
+<div class="project-logo"><img src="/assets/img/favicons/clinicaabedentpodologia-com.png" alt="Clínica Abedent Podología" width="48" height="48" /></div>
 
 ## Enlaces
 

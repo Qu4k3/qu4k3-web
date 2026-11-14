@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/pmglobalex-com.png" alt="Globalex Consulting" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 
@@ -10,6 +8,8 @@ const technologies = [
 </script>
 
 # Globalex Consulting
+
+<div class="project-logo"><img src="/assets/img/favicons/pmglobalex-com.png" alt="Globalex Consulting" width="48" height="48" /></div>
 
 ## Enlaces
 

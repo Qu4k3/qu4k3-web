@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="35" height="35" />
-
 <script setup>
 import nextIcon from 'simple-icons/icons/nextdotjs.svg?raw'
 import mantineIcon from 'simple-icons/icons/mantine.svg?raw'
@@ -15,6 +13,8 @@ const technologies = [
 </script>
 
 # Pocket Link
+
+<div class="project-logo"><img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="48" height="48" /></div>
 
 ## Enlaces
 

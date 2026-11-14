@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/lfb-es.png" alt="Lycée Français de Barcelone" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 
@@ -9,6 +7,8 @@ const technologies = [
 </script>
 
 # Lycée Français de Barcelone (LFB)
+
+<div class="project-logo"><img src="/assets/img/favicons/lfb-es.png" alt="Lycée Français de Barcelone" width="48" height="48" /></div>
 
 ## Enlaces
 

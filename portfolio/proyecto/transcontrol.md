@@ -1,5 +1,3 @@
-<img src="/assets/img/projects/transcontrol-logo.svg" alt="Transcontrol" width="163" height="40" />
-
 <script setup>
 import astroIcon from 'simple-icons/icons/astro.svg?raw'
 import muiIcon from 'simple-icons/icons/mui.svg?raw'
@@ -13,6 +11,8 @@ const technologies = [
 </script>
 
 # Transcontrol
+
+<div class="project-logo"><img src="/assets/img/projects/transcontrol-logo.svg" alt="Transcontrol" width="196" height="48" /></div>
 
 ## Enlaces
 
@@ -38,7 +38,7 @@ Desarrollada con **Astro y MUI**, combina una experiencia rápida y responsive c
 
 | Inicio | Estado |
 |---|---|
-| 2026 | Finalizado |
+| 2026 | En Desarrollo |
 
 ## Tecnologías
 

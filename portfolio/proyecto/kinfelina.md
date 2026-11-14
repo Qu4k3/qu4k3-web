@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/kinfelina-org.png" alt="Kin Felina" width="35" height="35" />
-
 <script setup>
 import astroIcon from 'simple-icons/icons/astro.svg?raw'
 import netlifyIcon from 'simple-icons/icons/netlify.svg?raw'
@@ -12,6 +10,8 @@ const technologies = [
 </script>
 
 # Kin Felina
+
+<div class="project-logo"><img src="/assets/img/favicons/kinfelina-org.png" alt="Kin Felina" width="48" height="48" /></div>
 
 ## Enlaces
 

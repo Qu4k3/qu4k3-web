@@ -1,5 +1,3 @@
-<img src="/assets/img/favicons/accelgrow-com.png" alt="AccelGrow" width="35" height="35" />
-
 <script setup>
 import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
 
@@ -9,6 +7,8 @@ const technologies = [
 </script>
 
 # AccelGrow
+
+<div class="project-logo"><img src="/assets/img/favicons/accelgrow-com.png" alt="AccelGrow" width="48" height="48" /></div>
 
 ## Enlaces
 

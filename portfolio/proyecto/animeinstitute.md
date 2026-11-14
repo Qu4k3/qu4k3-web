@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Anime Institute
+# <span class="project-logo"><img src="/assets/img/projects/animeinstitute.png" alt="" aria-hidden="true" width="48" height="48" /></span> Anime Institute
 
-<div class="project-logo"><img src="/assets/img/projects/animeinstitute.png" alt="Anime Institute" width="48" height="48" /></div>
 
 ## Enlaces
 

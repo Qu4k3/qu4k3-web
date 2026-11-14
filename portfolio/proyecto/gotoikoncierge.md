@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# Go To iKoncierge
+# <span class="project-logo"><img src="/assets/img/favicons/gotoikoncierge-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Go To iKoncierge
 
-<div class="project-logo"><img src="/assets/img/favicons/gotoikoncierge-com.png" alt="Go To iKoncierge" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -10,9 +10,8 @@ const technologies = [
 ]
 </script>
 
-# Disboard Discord Bot
+# <span class="project-logo"><img src="/assets/img/favicons/bot-disboard-team.png" alt="" aria-hidden="true" width="48" height="48" /></span> Disboard Discord Bot
 
-<div class="project-logo"><img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard Bot" width="48" height="48" /></div>
 
 ## Enlaces
 

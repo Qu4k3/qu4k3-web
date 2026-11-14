@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# Wanda T-Shirt
+# <span class="project-logo"><img src="/assets/img/favicons/wandat-shirt-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Wanda T-Shirt
 
-<div class="project-logo"><img src="/assets/img/favicons/wandat-shirt-com.png" alt="Wanda T-Shirt" width="48" height="48" /></div>
 
 ## Enlaces
 

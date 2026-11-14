@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# ASCII Art
+# <span class="project-logo"><img src="/assets/img/favicons/asciiart-io.png" alt="" aria-hidden="true" width="48" height="48" /></span> ASCII Art
 
-<div class="project-logo"><img src="/assets/img/favicons/asciiart-io.png" alt="ASCII Art" width="48" height="48" /></div>
 
 ## Enlaces
 

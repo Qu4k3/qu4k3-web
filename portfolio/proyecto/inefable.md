@@ -12,9 +12,8 @@ const technologies = [
 ]
 </script>
 
-# Inefable Day
+# <span class="project-logo"><img src="/assets/img/favicons/inefable-day.png" alt="" aria-hidden="true" width="48" height="48" /></span> Inefable Day
 
-<div class="project-logo"><img src="/assets/img/favicons/inefable-day.png" alt="Inefable Day" width="48" height="48" /></div>
 
 ## Enlaces
 

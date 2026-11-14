@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Llibrenet
+# <span class="project-logo"><img src="/assets/img/favicons/llibrenet-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Llibrenet
 
-<div class="project-logo"><img src="/assets/img/favicons/llibrenet-com.png" alt="Llibrenet" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -12,9 +12,8 @@ const technologies = [
 ]
 </script>
 
-# Monster Hunter World Guild
+# <span class="project-logo"><img src="/assets/img/favicons/mhwguild-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Monster Hunter World Guild
 
-<div class="project-logo"><img src="/assets/img/favicons/mhwguild-com.png" alt="Monster Hunter World Guild" width="48" height="48" /></div>
 
 ## Enlaces
 

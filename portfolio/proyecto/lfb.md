@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Lycée Français de Barcelone (LFB)
+# <span class="project-logo"><img src="/assets/img/favicons/lfb-es.png" alt="" aria-hidden="true" width="48" height="48" /></span> Lycée Français de Barcelone (LFB)
 
-<div class="project-logo"><img src="/assets/img/favicons/lfb-es.png" alt="Lycée Français de Barcelone" width="48" height="48" /></div>
 
 ## Enlaces
 

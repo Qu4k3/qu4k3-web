@@ -11,9 +11,8 @@ const technologies = [
 ]
 </script>
 
-# Tau Studio
+# <span class="project-logo"><img src="/assets/img/projects/tau-logo.svg" alt="" aria-hidden="true" width="48" height="48" /></span> Tau Studio
 
-<div class="project-logo"><img src="/assets/img/projects/tau-logo.svg" alt="Tau" width="41" height="48" /> <img src="/assets/img/projects/tau-studio-wordmark.svg" alt="Studio" width="61" height="48" /></div>
 
 ## Enlaces
 

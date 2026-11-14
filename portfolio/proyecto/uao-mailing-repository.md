@@ -12,9 +12,8 @@ const technologies = [
 ]
 </script>
 
-# UAO Mailing Repository
+# <span class="project-logo"><img src="/assets/img/projects/proyecto-uao-mailing-repository.png" alt="" aria-hidden="true" width="48" height="48" /></span> UAO Mailing Repository
 
-<div class="project-logo"><img src="/assets/img/projects/proyecto-uao-mailing-repository.png" alt="UAO Mailing Repository" width="48" height="48" /></div>
 
 ## Enlaces
 

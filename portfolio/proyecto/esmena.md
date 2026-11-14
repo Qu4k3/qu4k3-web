@@ -13,9 +13,8 @@ const technologies = [
 ]
 </script>
 
-# L'Esmena
+# <span class="project-logo"><img src="/assets/img/favicons/esmena-cat.png" alt="" aria-hidden="true" width="48" height="48" /></span> L'Esmena
 
-<div class="project-logo"><img src="/assets/img/favicons/esmena-cat.png" alt="L'Esmena" width="48" height="48" /></div>
 
 ## Enlaces
 

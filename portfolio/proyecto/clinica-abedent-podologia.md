@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Clínica Abedent Podología
+# <span class="project-logo"><img src="/assets/img/favicons/clinicaabedentpodologia-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Clínica Abedent Podología
 
-<div class="project-logo"><img src="/assets/img/favicons/clinicaabedentpodologia-com.png" alt="Clínica Abedent Podología" width="48" height="48" /></div>
 
 ## Enlaces
 

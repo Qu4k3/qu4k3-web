@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# LEI Network
+# <span class="project-logo"><img src="/assets/img/favicons/lei-network-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> LEI Network
 
-<div class="project-logo"><img src="/assets/img/favicons/lei-network-com.png" alt="LEI Network" width="48" height="48" /></div>
 
 ## Enlaces
 

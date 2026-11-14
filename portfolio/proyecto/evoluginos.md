@@ -10,9 +10,8 @@ const technologies = [
 ]
 </script>
 
-# Evoluginos
+# <span class="project-logo"><img src="/assets/img/favicons/evoluginos-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Evoluginos
 
-<div class="project-logo"><img src="/assets/img/favicons/evoluginos-com.png" alt="Evoluginos" width="48" height="48" /></div>
 
 ## Enlaces
 

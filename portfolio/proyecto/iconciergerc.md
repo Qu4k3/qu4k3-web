@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# iconciergeRC
+# <span class="project-logo"><img src="/assets/img/favicons/iconciergerc-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> iconciergeRC
 
-<div class="project-logo"><img src="/assets/img/favicons/iconciergerc-com.png" alt="iconciergeRC" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -330,6 +330,20 @@ body {
   margin: 14px 0 26px;
 }
 
+.vp-doc h1 {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.vp-doc h1 .project-logo {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  gap: 14px;
+}
+
 .vp-doc .project-logo img {
   width: auto;
   height: 48px;
@@ -819,6 +833,12 @@ body {
   border: 1px solid var(--vp-c-divider);
   border-radius: 0;
   transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.VPDocFooter .pager-link .title {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .outline-link {

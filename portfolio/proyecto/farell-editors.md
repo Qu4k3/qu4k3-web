@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# Farell Editors
+# <span class="project-logo"><img src="/assets/img/favicons/farelleditors-cat.png" alt="" aria-hidden="true" width="48" height="48" /></span> Farell Editors
 
-<div class="project-logo"><img src="/assets/img/favicons/farelleditors-cat.png" alt="Farell Editors" width="48" height="48" /></div>
 
 ## Enlaces
 

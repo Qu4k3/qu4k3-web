@@ -11,9 +11,8 @@ const technologies = [
 ]
 </script>
 
-# inOne
+# <span class="project-logo"><img src="/assets/img/projects/logos/inone.svg" alt="" aria-hidden="true" width="48" height="48" /></span> inOne
 
-<div class="project-logo"><img src="/assets/img/projects/logos/inone.svg" alt="inOne" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# iForce Team
+# <span class="project-logo"><img src="/assets/img/favicons/iceforce-team.png" alt="" aria-hidden="true" width="48" height="48" /></span> iForce Team
 
-<div class="project-logo"><img src="/assets/img/favicons/iceforce-team.png" alt="iForce Team" width="48" height="48" /></div>
 
 ## Enlaces
 

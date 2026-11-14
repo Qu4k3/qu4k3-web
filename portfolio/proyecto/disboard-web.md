@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# Disboard Web
+# <span class="project-logo"><img src="/assets/img/favicons/disboard-team.png" alt="" aria-hidden="true" width="48" height="48" /></span> Disboard Web
 
-<div class="project-logo"><img src="/assets/img/favicons/disboard-team.png" alt="Disboard Web" width="48" height="48" /></div>
 
 ## Enlaces
 

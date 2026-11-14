@@ -12,9 +12,8 @@ const technologies = [
 ]
 </script>
 
-# Fibers
+# <span class="project-logo"><img src="/assets/img/projects/logos/fibers.svg" alt="" aria-hidden="true" width="48" height="48" /></span> Fibers
 
-<div class="project-logo"><img src="/assets/img/projects/logos/fibers.svg" alt="Fibers" width="48" height="48" /></div>
 
 ## Enlaces
 

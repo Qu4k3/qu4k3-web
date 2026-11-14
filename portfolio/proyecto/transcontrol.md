@@ -10,9 +10,8 @@ const technologies = [
 ]
 </script>
 
-# Transcontrol
+# <span class="project-logo"><img src="/assets/img/projects/transcontrol-logo.svg" alt="" aria-hidden="true" width="196" height="48" /></span> Transcontrol
 
-<div class="project-logo"><img src="/assets/img/projects/transcontrol-logo.svg" alt="Transcontrol" width="196" height="48" /></div>
 
 ## Enlaces
 

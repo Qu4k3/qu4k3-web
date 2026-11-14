@@ -10,9 +10,8 @@ const technologies = [
 ]
 </script>
 
-# E-Card Game
+# <span class="project-logo"><img src="/assets/img/favicons/ecardgame-io.png" alt="" aria-hidden="true" width="48" height="48" /></span> E-Card Game
 
-<div class="project-logo"><img src="/assets/img/favicons/ecardgame-io.png" alt="E-Card Game" width="48" height="48" /></div>
 
 ## Enlaces
 

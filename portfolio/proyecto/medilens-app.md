@@ -9,9 +9,8 @@ const technologies = [
 ]
 </script>
 
-# MEDI lens — App
+# <span class="project-logo"><img src="/assets/img/projects/logos/medilens.svg" alt="" aria-hidden="true" width="48" height="48" /></span> MEDI lens — App
 
-<div class="project-logo"><img src="/assets/img/projects/logos/medilens.svg" alt="MEDI lens" width="48" height="48" /></div>
 
 ## Enlaces
 

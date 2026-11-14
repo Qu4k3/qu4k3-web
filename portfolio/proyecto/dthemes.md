@@ -4,9 +4,8 @@ const technologies = [
 ]
 </script>
 
-# Discord Themes
+# <span class="project-logo"><img src="/assets/img/favicons/discordthemes-net.png" alt="" aria-hidden="true" width="48" height="48" /></span> Discord Themes
 
-<div class="project-logo"><img src="/assets/img/favicons/discordthemes-net.png" alt="Discord Themes" width="48" height="48" /></div>
 
 ## Enlaces
 

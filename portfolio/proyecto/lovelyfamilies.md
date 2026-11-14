@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# Lovely Families
+# <span class="project-logo"><img src="/assets/img/favicons/lovelyfamilies-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Lovely Families
 
-<div class="project-logo"><img src="/assets/img/favicons/lovelyfamilies-com.png" alt="Lovely Families" width="48" height="48" /></div>
 
 ## Enlaces
 

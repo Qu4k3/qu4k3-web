@@ -8,10 +8,9 @@ En “Tecnologías” indica el stack actual; menciona cambios de stack en la fi
 <!-- Opcional: badges de despliegue, hosting o calidad. -->
 [![Estado del despliegue](URL_DEL_BADGE)](URL_DEL_DESPLIEGUE)
 
-# Nombre del proyecto
+# <span class="project-logo"><img src="/assets/img/projects/logo.svg" alt="" aria-hidden="true" width="48" height="48" /></span> Nombre del proyecto
 
-<!-- Opcional: logo del proyecto, siempre en .svg y debajo del título. -->
-<div class="project-logo"><img src="/assets/img/projects/logo.svg" alt="Logo de NOMBRE_DEL_PROYECTO" width="48" height="48" /></div>
+<!-- El logo es decorativo: alt vacío y aria-hidden para no duplicar el título en el H1 (mejor para SEO). -->
 
 ## Enlaces
 

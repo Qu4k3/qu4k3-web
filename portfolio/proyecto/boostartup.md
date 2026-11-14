@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Boostartup
+# <span class="project-logo"><img src="/assets/img/favicons/boostartup-es.png" alt="" aria-hidden="true" width="48" height="48" /></span> Boostartup
 
-<div class="project-logo"><img src="/assets/img/favicons/boostartup-es.png" alt="Boostartup" width="48" height="48" /></div>
 
 ## Enlaces
 

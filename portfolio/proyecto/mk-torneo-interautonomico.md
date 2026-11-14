@@ -16,9 +16,8 @@ const technologies = [
 ]
 </script>
 
-# Torneo Interautonómico de Mario Kart
+# <span class="project-logo"><img src="/archive/mk/mariokartworld/torneo-interautonomico/assets/images/mkw.png" alt="" aria-hidden="true" width="48" height="48" /></span> Torneo Interautonómico de Mario Kart
 
-<div class="project-logo"><img src="/archive/mk/mariokartworld/torneo-interautonomico/assets/images/mkw.png" alt="Torneo Interautonómico de Mario Kart" width="48" height="48" /></div>
 
 ## Enlaces
 

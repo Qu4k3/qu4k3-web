@@ -13,9 +13,8 @@ const technologies = [
 ]
 </script>
 
-# Iberia Estimulantes
+# <span class="project-logo"><img src="/assets/img/favicons/iberiaestimulantes-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Iberia Estimulantes
 
-<div class="project-logo"><img src="/assets/img/favicons/iberiaestimulantes-com.png" alt="Iberia Estimulantes" width="48" height="48" /></div>
 
 ## Enlaces
 

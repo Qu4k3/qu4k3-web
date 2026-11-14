@@ -10,9 +10,8 @@ const technologies = [
 ]
 </script>
 
-# CEU Eventos (App)
+# <span class="project-logo"><img src="/assets/img/favicons/ceu-es.png" alt="" aria-hidden="true" width="48" height="48" /></span> CEU Eventos (App)
 
-<div class="project-logo"><img src="/assets/img/favicons/ceu-es.png" alt="CEU Eventos" width="48" height="48" /></div>
 
 ## Enlaces
 

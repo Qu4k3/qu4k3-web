@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# NVersus
+# <span class="project-logo"><img src="/assets/img/projects/icons/nversus.png" alt="" aria-hidden="true" width="48" height="48" /></span> NVersus
 
-<div class="project-logo"><img src="/assets/img/projects/icons/nversus.png" alt="NVersus" width="48" height="48" /></div>
 
 ## Enlaces
 

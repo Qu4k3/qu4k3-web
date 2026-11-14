@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# Medical Nutribalance
+# <span class="project-logo"><img src="/assets/img/favicons/medicalnutribalance-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Medical Nutribalance
 
-<div class="project-logo"><img src="/assets/img/favicons/medicalnutribalance-com.png" alt="Medical Nutribalance" width="48" height="48" /></div>
 
 ## Enlaces
 

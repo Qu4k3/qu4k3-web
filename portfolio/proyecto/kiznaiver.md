@@ -11,9 +11,8 @@ const technologies = [
 ]
 </script>
 
-# Kiznaiver
+# <span class="project-logo"><img src="/assets/img/favicons/kiznaiver-net.png" alt="" aria-hidden="true" width="48" height="48" /></span> Kiznaiver
 
-<div class="project-logo"><img src="/assets/img/favicons/kiznaiver-net.png" alt="Kiznaiver" width="48" height="48" /></div>
 
 ## Enlaces
 

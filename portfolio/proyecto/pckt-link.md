@@ -12,9 +12,8 @@ const technologies = [
 ]
 </script>
 
-# Pocket Link
+# <span class="project-logo"><img src="/assets/img/favicons/pckt-link.png" alt="" aria-hidden="true" width="48" height="48" /></span> Pocket Link
 
-<div class="project-logo"><img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="48" height="48" /></div>
 
 ## Enlaces
 

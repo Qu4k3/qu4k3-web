@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Federación Española de Mario Kart (FEMK)
+# <span class="project-logo"><img src="/assets/img/favicons/femk-es.png" alt="" aria-hidden="true" width="48" height="48" /></span> Federación Española de Mario Kart (FEMK)
 
-<div class="project-logo"><img src="/assets/img/favicons/femk-es.png" alt="Federación Española de Mario Kart" width="48" height="48" /></div>
 
 ## Enlaces
 

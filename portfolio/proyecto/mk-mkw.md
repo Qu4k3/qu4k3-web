@@ -14,9 +14,8 @@ const technologies = [
 ]
 </script>
 
-# Mario Kart World
+# <span class="project-logo"><img src="/assets/img/favicons/mariokartworld-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Mario Kart World
 
-<div class="project-logo"><img src="/assets/img/favicons/mariokartworld-com.png" alt="Mario Kart World" width="48" height="48" /></div>
 
 ## Enlaces
 

@@ -17,9 +17,8 @@ const technologies = [
 ]
 </script>
 
-# Spanish National League (SNL)
+# <span class="project-logo"><img src="/archive/mk/mariokartworld/snl/assets/images/snllogo.png" alt="" aria-hidden="true" width="48" height="48" /></span> Spanish National League (SNL)
 
-<div class="project-logo"><img src="/archive/mk/mariokartworld/snl/assets/images/snllogo.png" alt="Spanish National League" width="48" height="48" /></div>
 
 ## Enlaces
 

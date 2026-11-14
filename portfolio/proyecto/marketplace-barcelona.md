@@ -1,6 +1,5 @@
-# Marketplace Barcelona
+# <span class="project-logo"><img src="/assets/img/favicons/marketplacebarcelona-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Marketplace Barcelona
 
-<div class="project-logo"><img src="/assets/img/favicons/marketplacebarcelona-com.png" alt="Marketplace Barcelona" width="48" height="48" /></div>
 
 ## Enlaces
 

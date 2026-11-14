@@ -12,9 +12,8 @@ const technologies = [
 ]
 </script>
 
-# Qu4k3
+# <span class="project-logo"><img src="/assets/img/favicons/qu4k3-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Qu4k3
 
-<div class="project-logo"><img src="/assets/img/favicons/qu4k3-com.png" alt="Qu4k3" width="48" height="48" /></div>
 
 ## Enlaces
 

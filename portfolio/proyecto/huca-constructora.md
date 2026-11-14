@@ -11,9 +11,8 @@ const technologies = [
 ]
 </script>
 
-# HUCA Constructora
+# <span class="project-logo"><img src="/assets/img/favicons/hucaconstructora-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> HUCA Constructora
 
-<div class="project-logo"><img src="/assets/img/favicons/hucaconstructora-com.png" alt="HUCA Constructora" width="48" height="48" /></div>
 
 ## Enlaces
 

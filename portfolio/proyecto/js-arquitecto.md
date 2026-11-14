@@ -8,9 +8,8 @@ const technologies = [
 ]
 </script>
 
-# JS Arquitecto
+# <span class="project-logo"><img src="/assets/img/favicons/js-arquitecto-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> JS Arquitecto
 
-<div class="project-logo"><img src="/assets/img/favicons/js-arquitecto-com.png" alt="JS Arquitecto" width="48" height="48" /></div>
 
 ## Enlaces
 

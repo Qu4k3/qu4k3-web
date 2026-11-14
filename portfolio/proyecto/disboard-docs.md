@@ -14,9 +14,8 @@ const technologies = [
 ]
 </script>
 
-# Disboard Documentación
+# <span class="project-logo"><img src="/assets/img/favicons/docs-disboard-team.png" alt="" aria-hidden="true" width="48" height="48" /></span> Disboard Documentación
 
-<div class="project-logo"><img src="/assets/img/favicons/docs-disboard-team.png" alt="Disboard Docs" width="48" height="48" /></div>
 
 ## Enlaces
 

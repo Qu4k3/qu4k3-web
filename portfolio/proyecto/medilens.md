@@ -10,9 +10,8 @@ const technologies = [
 ]
 </script>
 
-# MEDI lens — Landing
+# <span class="project-logo"><img src="/assets/img/projects/logos/medilens.svg" alt="" aria-hidden="true" width="48" height="48" /></span> MEDI lens — Landing
 
-<div class="project-logo"><img src="/assets/img/projects/logos/medilens.svg" alt="MEDI lens" width="48" height="48" /></div>
 
 ## Enlaces
 

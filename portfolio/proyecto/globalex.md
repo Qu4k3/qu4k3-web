@@ -7,9 +7,8 @@ const technologies = [
 ]
 </script>
 
-# Globalex Consulting
+# <span class="project-logo"><img src="/assets/img/favicons/pmglobalex-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> Globalex Consulting
 
-<div class="project-logo"><img src="/assets/img/favicons/pmglobalex-com.png" alt="Globalex Consulting" width="48" height="48" /></div>
 
 ## Enlaces
 

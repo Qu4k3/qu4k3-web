@@ -20,9 +20,8 @@ const technologies = [
 ]
 </script>
 
-# UAO App Eventos
+# <span class="project-logo"><img src="/assets/img/projects/logos/uao-app-eventos.png" alt="" aria-hidden="true" width="174" height="48" /></span> UAO App Eventos
 
-<div class="project-logo"><img src="/assets/img/projects/logos/uao-app-eventos.png" alt="UAO App Eventos" width="174" height="48" /></div>
 
 ## Enlaces
 

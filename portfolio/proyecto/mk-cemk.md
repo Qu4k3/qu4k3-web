@@ -6,9 +6,8 @@ const technologies = [
 ]
 </script>
 
-# Comunidad Española de Mario Kart (CEMK)
+# <span class="project-logo"><img src="/assets/img/favicons/cemk-es.png" alt="" aria-hidden="true" width="48" height="48" /></span> Comunidad Española de Mario Kart (CEMK)
 
-<div class="project-logo"><img src="/assets/img/favicons/cemk-es.png" alt="Comunidad Española de Mario Kart" width="48" height="48" /></div>
 
 ## Enlaces
 

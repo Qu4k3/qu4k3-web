@@ -17,17 +17,24 @@ const groupMeta = {
     title: 'Proyectos personales',
     description: 'Productos e ideas propias, desde la primera versión hasta su evolución.'
   },
+  colaborativo: {
+    id: 'colaborativos',
+    title: 'Proyectos colaborativos',
+    description: 'Proyectos y comunidades desarrollados junto a otras personas y equipos.'
+  },
   cliente: {
     id: 'para-clientes',
     title: 'Proyectos para clientes',
     description: 'Trabajos realizados para empresas, equipos y profesionales.'
-  },
-  otros: {
-    id: 'otros',
-    title: 'Otros proyectos',
-    description: 'Experimentos, comunidades y proyectos de exploración.'
   }
 };
+
+const groupOrder = ['personal', 'colaborativo', 'cliente'];
+const groupedProjects = Object.fromEntries(
+  groupOrder
+    .map((type) => [type, groupProjectsByType[type] || []])
+    .filter(([, group]) => group.length)
+);
 
 const getStatusClass = (status) => ({
   'status-in-progress': status === 'En Desarrollo',
@@ -56,7 +63,7 @@ const getStatusClass = (status) => ({
     <div><strong>2015–2026</strong><span>trayectoria</span></div>
   </div>
 
-  <div v-for="(group, type) in groupProjectsByType" :key="type" class="projects-group">
+  <div v-for="(group, type) in groupedProjects" :key="type" class="projects-group">
     <h2 :id="groupMeta[type]?.id || type" tabindex="-1">
       {{ groupMeta[type]?.title || type }}
       <a class="header-anchor" :href="`#${groupMeta[type]?.id || type}`" :aria-label="`Permalink to ${groupMeta[type]?.title || type}`">&ZeroWidthSpace;</a>

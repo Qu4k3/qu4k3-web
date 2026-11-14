@@ -213,7 +213,6 @@ export default defineConfig({
                 text: '[2025]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
                   { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — Landing', link: '/proyecto/medilens' },
                   { text: '<img src="/assets/img/favicons/medilens-es.png" alt="MEDI lens" width="16"> MEDI lens — App', link: '/proyecto/medilens-app' }
                 ]
@@ -257,7 +256,7 @@ export default defineConfig({
                 text: '[2016]',
                 collapsed: false,
                 items: [
-                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers', link: '/proyecto/fibers' }
+                  { text: 'CSGO Numbers', link: '/proyecto/csgo-numbers' }
                 ]
               },
               {
@@ -280,8 +279,7 @@ export default defineConfig({
                     text: 'Disboard',
                     items: [
                       { text: '<img src="/assets/img/favicons/disboard-team.png" alt="Disboard Web" width="16"> Web (directorio)', link: '/proyecto/disboard-web' },
-                      { text: '<img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard API" width="16"> API', link: '/proyecto/disboard-api' },
-                      { text: '<img src="/assets/img/favicons/bot-disboard-team.png" alt="Disboard" width="16"> Discord Bot', link: '/proyecto/disboard-bot' }
+                      { text: '<img src="/assets/img/favicons/api-disboard-team.png" alt="Disboard API" width="16"> API', link: '/proyecto/disboard-api' }
                     ]
                   }
                 ]
@@ -294,16 +292,6 @@ export default defineConfig({
                 ]
               },
               {
-                text: '[2018]',
-                collapsed: false,
-                items: [
-                  { text: '<img src="/assets/img/favicons/animeinstitute-net.png" alt="Anime Institute" width="16"> Anime Institute', link: '/proyecto/animeinstitute' },
-                  { text: '<img src="/assets/img/favicons/nversus-com.png" alt="" width="16"> NVersus', link: '/proyecto/nversus' },
-                  { text: '<img src="/assets/img/favicons/discordthemes-net.png" alt="" width="16"> Discord Themes', link: '/proyecto/dthemes' },
-                  { text: '<img src="/assets/img/favicons/iceforce-team.png" alt="" width="16"> iForce Team', link: '/proyecto/iforce-team' },
-                ]
-              },
-              {
                 text: '[2017]',
                 collapsed: false,
                 items: [
@@ -312,9 +300,6 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                       { text: '<img src="/assets/img/favicons/bot-mariokartworld-com.png" alt="" width="16"> Discord Bot (Lakitu)', link: '/proyecto/mk-lakitu' },
-                      { text: '<img src="/assets/img/favicons/mariokartworld-com.png" alt="" width="16"> Mario Kart World', link: '/proyecto/mk-mkw' },
-                      { text: '<img src="/assets/img/favicons/cemk-es.png" alt="" width="16"> CEMK', link: '/proyecto/mk-cemk' },
-                      { text: '<img src="/assets/img/favicons/femk-es.png" alt="" width="16"> FEMK', link: '/proyecto/mk-femk' },
                       { text: '<img src="/assets/img/favicons/mariokartworld-com.png" alt="" width="16"> Torneo Interautonómico', link: '/proyecto/mk-torneo-interautonomico' },
                       { text: '<img src="/assets/img/favicons/mariokartworld-com.png" alt="" width="16"> SNL', link: '/proyecto/mk-snl' }
                     ]
@@ -337,6 +322,63 @@ export default defineConfig({
           }],
         },
         {
+          text: 'Proyectos Colaborativos',
+          collapsed: false,
+          items: [{
+            text: '⚡ Activos',
+            collapsed: false,
+            items: [
+              {
+                text: '[2026]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/transcontrol.svg" alt="Transcontrol" width="16"> Transcontrol — SPA', link: '/proyecto/transcontrol-app' },
+                  { text: '<img src="/assets/img/favicons/transcontrol.svg" alt="Transcontrol" width="16"> Transcontrol — Landing', link: '/proyecto/transcontrol' },
+                ]
+              },
+              {
+                text: '[2025]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/pckt-link.png" alt="Pocket Link" width="16"> Pocket Link', link: '/proyecto/pckt-link' },
+                ]
+              },
+              {
+                text: '[2016]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/fibers-cat.png" alt="Fibers" width="16"> Fibers', link: '/proyecto/fibers' }
+                ]
+              },
+            ]
+          }, {
+            text: '🗃️ Archivados',
+            collapsed: true,
+            items: [
+              {
+                text: '[2018]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/animeinstitute-net.png" alt="Anime Institute" width="16"> Anime Institute', link: '/proyecto/animeinstitute' },
+                  { text: '<img src="/assets/img/favicons/nversus-com.png" alt="" width="16"> NVersus', link: '/proyecto/nversus' },
+                  { text: '<img src="/assets/img/favicons/discordthemes-net.png" alt="" width="16"> Discord Themes', link: '/proyecto/dthemes' },
+                  { text: '<img src="/assets/img/favicons/iceforce-team.png" alt="" width="16"> iForce Team', link: '/proyecto/iforce-team' },
+                  { text: '<img src="/assets/img/favicons/femk-es.png" alt="" width="16"> FEMK', link: '/proyecto/mk-femk' },
+                ]
+              },
+              {
+                text: '[2017]',
+                collapsed: false,
+                items: [
+                  { text: '<img src="/assets/img/favicons/mariokartworld-com.png" alt="" width="16"> Mario Kart World', link: '/proyecto/mk-mkw' },
+                  { text: '<img src="/assets/img/favicons/cemk-es.png" alt="" width="16"> CEMK', link: '/proyecto/mk-cemk' },
+                  { text: 'NotAnotherAnimeTheme', link: '/proyecto/notanotheranimetheme' },
+                ]
+              },
+            ]
+          }],
+        },
+        {
           text: 'Proyectos para Clientes',
           collapsed: false,
           items: [
@@ -344,8 +386,6 @@ export default defineConfig({
               text: '[2026]',
               collapsed: false,
               items: [
-                { text: '<img src="/assets/img/favicons/transcontrol.svg" alt="Transcontrol" width="16"> Transcontrol  — SPA', link: '/proyecto/transcontrol-app' },
-                { text: '<img src="/assets/img/favicons/transcontrol.svg" alt="Transcontrol" width="16"> Transcontrol — Landing', link: '/proyecto/transcontrol' },
                 { text: '<img src="/assets/img/favicons/kinfelina-org.png" alt="" width="16"> Kin Felina', link: '/proyecto/kinfelina' },
                 { text: '<img src="/assets/img/favicons/finquesmireia-com.png" alt="" width="16"> Finques Mireia', link: '/proyecto/finques-mireia' },
                 { text: '<img src="/assets/img/favicons/iberiaestimulantes-com.png" alt="" width="16"> Iberia Estimulantes', link: '/proyecto/iberia-estimulantes' },

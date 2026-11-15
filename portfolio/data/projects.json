@@ -17,7 +17,7 @@
     "favicon": "/assets/img/projects/logos/medilens.svg",
     "text": "MEDI lens — App",
     "url": "https://play.google.com/store/apps/details?id=es.medilens.app",
-    "link": "/proyecto/medilens-app",
+    "link": "/proyectos/medilens-app",
     "github": "https://github.com/medi-lens/medilens-app"
   },
   {
@@ -37,7 +37,7 @@
     "favicon": "/assets/img/projects/logos/medilens.svg",
     "text": "MEDI lens — Landing",
     "url": "https://medilens.es",
-    "link": "/proyecto/medilens",
+    "link": "/proyectos/medilens",
     "github": "https://github.com/medi-lens/medilens-landing"
   },
   {
@@ -59,7 +59,7 @@
     "favicon": "/assets/img/favicons/inefable-day.png",
     "text": "Inefable Day",
     "url": "https://inefable.day",
-    "link": "/proyecto/inefable",
+    "link": "/proyectos/inefable",
     "github": "https://github.com/Qu4k3/inefable"
   },
   {
@@ -78,10 +78,10 @@
       "Vercel",
       "Steam API"
     ],
-    "favicon": "/assets/img/favicons/killingfloor-zone.png",
+    "favicon": "/assets/img/projects/logos/kf-zone.webp",
     "text": "Killing Floor Zone",
     "url": "https://killingfloor.zone",
-    "link": "/proyecto/killingfloor-zone",
+    "link": "/proyectos/killingfloor-zone",
     "github": ""
   },
   {
@@ -102,7 +102,7 @@
     "favicon": "/assets/img/projects/tau-logo.svg",
     "text": "Tau Studio",
     "url": "https://tau.studio",
-    "link": "/proyecto/tau",
+    "link": "/proyectos/tau",
     "github": "https://github.com/tau/studio"
   },
   {
@@ -122,10 +122,10 @@
       "JSON",
       "Netlify"
     ],
-    "favicon": "/assets/img/favicons/disboard-team.png",
+    "favicon": "/assets/img/projects/logos/disboard-team.webp",
     "text": "Disboard Team",
     "url": "https://disboard.team",
-    "link": "/proyecto/disboard-team",
+    "link": "/proyectos/disboard-team",
     "github": "https://github.com/disboard-team/disboard-team",
     "group": "disboard"
   },
@@ -145,10 +145,10 @@
       "Node.js",
       "Netlify"
     ],
-    "favicon": "/assets/img/favicons/docs-disboard-team.png",
+    "favicon": "/assets/img/projects/logos/disboard-docs.gif",
     "text": "Disboard Docs",
     "url": "https://docs.disboard.team",
-    "link": "/proyecto/disboard-docs",
+    "link": "/proyectos/disboard-docs",
     "github": "https://github.com/disboard-team/disboard-docs",
     "group": "disboard"
   },
@@ -167,10 +167,10 @@
       "Express",
       "Discord.js v14"
     ],
-    "favicon": "/assets/img/favicons/bot-disboard-team.png",
+    "favicon": "/assets/img/projects/logos/disboard-bot.png",
     "text": "Disboard Bot",
     "url": "https://bot.disboard.team",
-    "link": "/proyecto/disboard-bot",
+    "link": "/proyectos/disboard-bot",
     "github": "https://github.com/Qu4k3/disboard-bot",
     "group": "disboard"
   },
@@ -187,10 +187,10 @@
     "tech": [
       "Next.js"
     ],
-    "favicon": "",
+    "favicon": "/assets/img/projects/logos/csgonumbers.webp",
     "text": "CSGO Numbers",
     "url": "https://csgonumbers.com",
-    "link": "/proyecto/csgo-numbers",
+    "link": "/proyectos/csgo-numbers",
     "github": "https://github.com/Qu4k3/csgonumbers-website"
   },
   {
@@ -211,7 +211,7 @@
     "favicon": "/assets/img/favicons/qu4k3-com.png",
     "text": "Qu4k3",
     "url": "https://qu4k3.com",
-    "link": "/proyecto/qu4k3",
+    "link": "/proyectos/qu4k3",
     "github": "https://github.com/qu4k3-web"
   },
   {
@@ -231,7 +231,7 @@
     "favicon": "/assets/img/favicons/disboard-team.png",
     "text": "Disboard Web",
     "url": "https://disboard.team/v0/",
-    "link": "/proyecto/disboard-web",
+    "link": "/proyectos/disboard-web",
     "github": "https://github.com/disboard-team/disboard-website",
     "group": "disboard"
   },
@@ -253,10 +253,10 @@
       "Nano ID",
       "Heroku"
     ],
-    "favicon": "/assets/img/favicons/api-disboard-team.png",
+    "favicon": "/assets/img/projects/logos/disboard-api.gif",
     "text": "Disboard API",
     "url": "https://api.disboard.team",
-    "link": "/proyecto/disboard-api",
+    "link": "/proyectos/disboard-api",
     "github": "https://github.com/disboard-team/disboard-api",
     "group": "disboard"
   },
@@ -279,7 +279,7 @@
     "favicon": "/assets/img/favicons/ceu-es.png",
     "text": "CEU Eventos (App)",
     "url": "https://ceu.es",
-    "link": "/proyecto/ceu-events-scanner",
+    "link": "/proyectos/ceu-events-scanner",
     "github": "https://github.com/Qu4k3/ceu-events-scanner"
   },
   {
@@ -300,10 +300,10 @@
       "Glitch",
       "Fly.io"
     ],
-    "favicon": "/assets/img/favicons/bot-mariokartworld-com.png",
+    "favicon": "/assets/img/projects/logos/mk-lakitu.png",
     "text": "Lakitu",
     "url": "",
-    "link": "/proyecto/mk-lakitu",
+    "link": "/proyectos/mk-lakitu",
     "github": "https://github.com/Qu4k3/lakitu-bot",
     "group": "mariokart"
   },
@@ -326,10 +326,10 @@
       "GSAP",
       "Flickity"
     ],
-    "favicon": "/assets/img/favicons/mariokartworld-com.png",
+    "favicon": "/assets/img/projects/logos/mk-torneo.webp",
     "text": "Torneo Interautonómico",
     "url": "https://qu4k3.com/archive/mk/mariokartworld/torneo-interautonomico/index.html",
-    "link": "/proyecto/mk-torneo-interautonomico",
+    "link": "/proyectos/mk-torneo-interautonomico",
     "github": "",
     "group": "mariokart"
   },
@@ -353,10 +353,10 @@
       "Video.js",
       "Google Analytics"
     ],
-    "favicon": "/assets/img/favicons/mariokartworld-com.png",
+    "favicon": "/assets/img/projects/logos/mk-snl.webp",
     "text": "SNL",
     "url": "https://qu4k3.com/archive/mk/mariokartworld/snl/index.html",
-    "link": "/proyecto/mk-snl",
+    "link": "/proyectos/mk-snl",
     "github": "",
     "group": "mariokart"
   },
@@ -376,10 +376,10 @@
       "JavaScript",
       "MySQL"
     ],
-    "favicon": "/assets/img/favicons/mhwguild-com.png",
+    "favicon": "/assets/img/projects/logos/mhw-guild.jpg",
     "text": "MHW Guild",
     "url": "https://mhwguild.com",
-    "link": "/proyecto/mhw-guild",
+    "link": "/proyectos/mhw-guild",
     "github": ""
   },
   {
@@ -397,10 +397,10 @@
       "JavaScript",
       "Node.js"
     ],
-    "favicon": "",
+    "favicon": "/assets/img/projects/logos/zerg-pulse.gif",
     "text": "Zerg Pulse",
     "url": "https://github.com/Qu4k3/zerg-pulse",
-    "link": "/proyecto/zerg-pulse",
+    "link": "/proyectos/zerg-pulse",
     "github": "https://github.com/Qu4k3/zerg-pulse"
   },
   {
@@ -420,10 +420,10 @@
       "JavaScript",
       "Canvas"
     ],
-    "favicon": "",
+    "favicon": "/assets/img/projects/logos/pong.png",
     "text": "Pong",
     "url": "https://qu4k3.com/pong",
-    "link": "/proyecto/pong",
+    "link": "/proyectos/pong",
     "github": "https://github.com/Qu4k3/pong"
   },
   {
@@ -445,7 +445,7 @@
     "favicon": "/assets/img/favicons/ecardgame-io.png",
     "text": "E-Card Game",
     "url": "https://ecardgame.io",
-    "link": "/proyecto/ecard-game",
+    "link": "/proyectos/ecard-game",
     "github": ""
   },
   {
@@ -461,10 +461,10 @@
     "tech": [
       "Ruby on Rails"
     ],
-    "favicon": "/assets/img/favicons/asciiart-io.png",
+    "favicon": "/assets/img/projects/logos/ascii-art.gif",
     "text": "ASCII Art",
     "url": "https://asciiart.io",
-    "link": "/proyecto/ascii-art",
+    "link": "/proyectos/ascii-art",
     "github": "https://github.com/Qu4k3/asciiart"
   },
   {
@@ -480,14 +480,13 @@
     "tech": [
       "HTML5",
       "CSS3",
-      "JavaScript",
-      "Video.js"
+      "JavaScript"
     ],
-    "favicon": "/assets/img/favicons/kiznaiver-net.png",
+    "favicon": "/assets/img/projects/logos/kiznaiver.png",
     "text": "Kiznaiver",
     "url": "https://qu4k3.com/archive/kiznaiver/",
-    "link": "/proyecto/kiznaiver",
-    "github": ""
+    "link": "/proyectos/kiznaiver",
+    "github": "https://github.com/Qu4k3/kiznaiver"
   },
   {
     "type": "colaborativo",
@@ -509,7 +508,7 @@
     "favicon": "/assets/img/favicons/transcontrol.svg",
     "text": "Transcontrol — App",
     "url": "https://app.transcontrol.es",
-    "link": "/proyecto/transcontrol-app"
+    "link": "/proyectos/transcontrol-app"
   },
   {
     "type": "colaborativo",
@@ -531,7 +530,7 @@
     "favicon": "/assets/img/favicons/transcontrol.svg",
     "text": "Transcontrol — Landing",
     "url": "https://transcontrol.es",
-    "link": "/proyecto/transcontrol"
+    "link": "/proyectos/transcontrol"
   },
   {
     "type": "colaborativo",
@@ -549,10 +548,10 @@
       "Vercel",
       "Amazon Dynamo DB"
     ],
-    "favicon": "/assets/img/favicons/pckt-link.png",
+    "favicon": "/assets/img/projects/logos/pckt-link.webp",
     "text": "Pocket Link",
     "url": "https://pckt.link",
-    "link": "/proyecto/pckt-link",
+    "link": "/proyectos/pckt-link",
     "github": "https://github.com/pckt-link/pckt-link"
   },
   {
@@ -573,7 +572,7 @@
     "favicon": "/assets/img/favicons/fibers-cat.png",
     "text": "Fibers",
     "url": "https://fibers.cat",
-    "link": "/proyecto/fibers",
+    "link": "/proyectos/fibers",
     "github": "https://github.com/fibers-cat/fibers"
   },
   {
@@ -589,10 +588,10 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/animeinstitute-net.png",
+    "favicon": "/assets/img/favicons/anime-institute.png",
     "text": "Anime Institute",
     "url": "https://animeinstitute.net",
-    "link": "/proyecto/animeinstitute"
+    "link": "/proyectos/animeinstitute"
   },
   {
     "type": "colaborativo",
@@ -607,10 +606,10 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/nversus-com.png",
+    "favicon": "/assets/img/projects/logos/nversus.png",
     "text": "NVersus",
     "url": "https://nversus.com",
-    "link": "/proyecto/nversus",
+    "link": "/proyectos/nversus",
     "github": ""
   },
   {
@@ -619,17 +618,17 @@
     "yearEnd": "2018",
     "yearPublished": "2018",
     "title": "Discord Themes",
-    "description": "Colección de temas visuales personalizados para Discord.",
+    "description": "Era un repositorio de plantillas de Discord para visualizar y descargar en un click, con contadores de descarga y guías de uso. Se desarrolló usando Flat-UI. En paralelo, el equipo de BetterDiscord estaba desarrollando lo mismo. Acabé transfiriendo el dominio al equipo detrás de NotAnotherAnimeTheme y a la gente de abstractconcept.studio.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Abandonado",
     "tech": [
       "Flat"
     ],
-    "favicon": "/assets/img/favicons/discordthemes-net.png",
+    "favicon": "/assets/img/projects/logos/discordthemes.webp",
     "text": "Discord Themes",
     "url": "https://discordthemes.net",
-    "link": "/proyecto/discordthemes",
+    "link": "/proyectos/discordthemes",
     "github": ""
   },
   {
@@ -645,10 +644,10 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/iceforce-team.png",
+    "favicon": "/assets/img/projects/logos/ice-force.webp",
     "text": "iForce Team",
     "url": "https://iceforce.team",
-    "link": "/proyecto/iforce-team",
+    "link": "/proyectos/iforce-team",
     "github": ""
   },
   {
@@ -664,10 +663,10 @@
     "tech": [
       "WordPress"
     ],
-    "favicon": "/assets/img/favicons/femk-es.png",
+    "favicon": "/assets/img/projects/logos/femk.webp",
     "text": "FEMK",
     "url": "https://femk.es",
-    "link": "/proyecto/mk-femk",
+    "link": "/proyectos/mk-femk",
     "github": ""
   },
   {
@@ -687,10 +686,10 @@
       "jQuery",
       "Bootstrap 3.3.7"
     ],
-    "favicon": "/assets/img/favicons/mariokartworld-com.png",
+    "favicon": "/assets/img/projects/logos/mkw.png",
     "text": "Mario Kart World",
     "url": "https://qu4k3.com/archive/mk/mariokartworld/",
-    "link": "/proyecto/mk-mkw",
+    "link": "/proyectos/mk-mkw",
     "github": ""
   },
   {
@@ -706,10 +705,10 @@
     "tech": [
       "WordPress"
     ],
-    "favicon": "/assets/img/favicons/cemk-es.png",
+    "favicon": "/assets/img/projects/logos/cemk.png",
     "text": "CEMK",
     "url": "https://cemk.es",
-    "link": "/proyecto/mk-cemk",
+    "link": "/proyectos/mk-cemk",
     "github": ""
   },
   {
@@ -721,16 +720,15 @@
     "description": "Tema altamente personalizable para Discord, compatible con BetterDiscord y Powercord, con control total sobre fondos, columnas y colores de la interfaz.",
     "icon": "",
     "headerBackgroundImg": "notanotheranimetheme.jpg",
-    "status": "Abandonado",
+    "status": "En Desarrollo",
     "tech": [
       "CSS",
-      "BetterDiscord",
-      "Powercord"
+      "BetterDiscord"
     ],
-    "favicon": "",
+    "favicon": "/assets/img/projects/logos/notanotheranimetheme.webp",
     "text": "NotAnotherAnimeTheme",
     "url": "https://betterdiscord.app/theme/NotAnotherAnimeTheme",
-    "link": "/proyecto/notanotheranimetheme",
+    "link": "/proyectos/notanotheranimetheme",
     "github": "https://github.com/puckzxz/NotAnotherAnimeTheme"
   },
   {
@@ -752,7 +750,7 @@
     "favicon": "/assets/img/favicons/kinfelina-org.png",
     "text": "Kin Felina",
     "url": "https://kinfelina.org/",
-    "link": "/proyecto/kinfelina",
+    "link": "/proyectos/kinfelina",
     "github": "https://github.com/kinfelina/web"
   },
   {
@@ -775,7 +773,7 @@
     "favicon": "/assets/img/favicons/finquesmireia-com.png",
     "text": "Finques Mireia",
     "url": "https://finquesmireia.com/",
-    "link": "/proyecto/finques-mireia"
+    "link": "/proyectos/finques-mireia"
   },
   {
     "type": "cliente",
@@ -799,7 +797,7 @@
     "favicon": "/assets/img/favicons/iberiaestimulantes-com.png",
     "text": "Iberia Estimulantes",
     "url": "https://iberiaestimulantes.com/",
-    "link": "/proyecto/iberia-estimulantes"
+    "link": "/proyectos/iberia-estimulantes"
   },
   {
     "type": "cliente",
@@ -822,7 +820,7 @@
     "favicon": "/assets/img/favicons/hucaconstructora-com.png",
     "text": "HUCA Constructora",
     "url": "https://hucaconstructora.com/",
-    "link": "/proyecto/huca-constructora"
+    "link": "/proyectos/huca-constructora"
   },
   {
     "type": "cliente",
@@ -840,10 +838,10 @@
       "Docker",
       "PostgreSQL"
     ],
-    "favicon": "/assets/img/favicons/cms-tratar-es.png",
+    "favicon": "",
     "text": "Tratar CMS",
     "url": "https://cms.tratar.es",
-    "link": "/proyecto/tratar",
+    "link": "/proyectos/tratar",
     "github": "https://github.com/webmaster-tratar/recordar-cms-directus"
   },
   {
@@ -871,7 +869,7 @@
     "favicon": "/assets/img/favicons/ceu-es.png",
     "text": "UAO App Eventos",
     "url": "https://eventos.uao.es",
-    "link": "/proyecto/uao-app-events",
+    "link": "/proyectos/uao-app-events",
     "github": "https://github.com/Qu4k3/uao-app-eventos"
   },
   {
@@ -895,7 +893,7 @@
     "favicon": "/assets/img/favicons/esmena-cat.png",
     "text": "L'Esmena",
     "url": "https://esmena.cat",
-    "link": "/proyecto/esmena"
+    "link": "/proyectos/esmena"
   },
   {
     "type": "cliente",
@@ -913,7 +911,7 @@
     "favicon": "/assets/img/favicons/llibrenet-com.png",
     "text": "Llibrenet",
     "url": "https://llibrenet.com",
-    "link": "/proyecto/llibrenet"
+    "link": "/proyectos/llibrenet"
   },
   {
     "type": "cliente",
@@ -934,7 +932,7 @@
     "favicon": "/assets/img/projects/logos/inone.svg",
     "text": "inOne",
     "url": "https://inone.es",
-    "link": "/proyecto/inone"
+    "link": "/proyectos/inone"
   },
   {
     "type": "cliente",
@@ -955,7 +953,7 @@
     "favicon": "/assets/img/favicons/mailing-repo-vercel-app.png",
     "text": "UAO Mailing Repository",
     "url": "https://mailing-repo.vercel.app",
-    "link": "/proyecto/uao-mailing-repository"
+    "link": "/proyectos/uao-mailing-repository"
   },
   {
     "type": "cliente",
@@ -974,7 +972,7 @@
     "favicon": "/assets/img/favicons/farelleditors-cat.png",
     "text": "Farell Editors",
     "url": "https://farelleditors.cat",
-    "link": "/proyecto/farell-editors"
+    "link": "/proyectos/farell-editors"
   },
   {
     "type": "cliente",
@@ -992,7 +990,7 @@
     "favicon": "/assets/img/favicons/pmglobalex-com.png",
     "text": "Globalex Consulting",
     "url": "https://pmglobalex.com",
-    "link": "/proyecto/globalex"
+    "link": "/proyectos/globalex"
   },
   {
     "type": "cliente",
@@ -1009,7 +1007,7 @@
     "favicon": "/assets/img/favicons/lei-network-com.png",
     "text": "LEI Network",
     "url": "https://lei-network.com",
-    "link": "/proyecto/lei-network"
+    "link": "/proyectos/lei-network"
   },
   {
     "type": "cliente",
@@ -1027,7 +1025,7 @@
     "favicon": "/assets/img/favicons/js-arquitecto-com.png",
     "text": "JS Arquitecto",
     "url": "https://js-arquitecto.com",
-    "link": "/proyecto/js-arquitecto"
+    "link": "/proyectos/js-arquitecto"
   },
   {
     "type": "cliente",
@@ -1043,10 +1041,10 @@
       "Wordpress",
       "OVH"
     ],
-    "favicon": "/assets/img/favicons/gotoikoncierge-com.png",
+    "favicon": "/assets/img/projects/logos/gotoikoncierge.png",
     "text": "Go To iKoncierge",
     "url": "https://gotoikoncierge.com",
-    "link": "/proyecto/gotoikoncierge"
+    "link": "/proyectos/gotoikoncierge"
   },
   {
     "type": "cliente",
@@ -1064,7 +1062,7 @@
     "favicon": "/assets/img/favicons/wandat-shirt-com.png",
     "text": "Wanda T-Shirt",
     "url": "https://wandat-shirt.com",
-    "link": "/proyecto/wanda-t-shirt"
+    "link": "/proyectos/wanda-t-shirt"
   },
   {
     "type": "cliente",
@@ -1079,10 +1077,10 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/clinicaabedentpodologia-com.png",
+    "favicon": "/assets/img/projects/logos/clinica-abedent-podologia.png",
     "text": "Clínica Abedent Podología",
     "url": "https://clinicaabedentpodologia.com",
-    "link": "/proyecto/clinica-abedent-podologia"
+    "link": "/proyectos/clinica-abedent-podologia"
   },
   {
     "type": "cliente",
@@ -1099,7 +1097,7 @@
     "favicon": "/assets/img/favicons/lfb-es.png",
     "text": "LFB",
     "url": "https://lfb.es",
-    "link": "/proyecto/lfb"
+    "link": "/proyectos/lfb"
   },
   {
     "type": "cliente",
@@ -1115,10 +1113,10 @@
       "Wordpress",
       "OVH"
     ],
-    "favicon": "/assets/img/favicons/iconciergerc-com.png",
+    "favicon": "/assets/img/projects/logos/iconciergerc.png",
     "text": "iconciergeRC",
     "url": "https://iconciergerc.com",
-    "link": "/proyecto/iconciergerc"
+    "link": "/proyectos/iconciergerc"
   },
   {
     "type": "cliente",
@@ -1135,10 +1133,10 @@
       "CSS3",
       "JavaScript"
     ],
-    "favicon": "/assets/img/favicons/panoramadart-com.png",
+    "favicon": "/assets/img/projects/logos/iba-institutbarcelonesdart.jpg",
     "text": "Panorama d'Art",
     "url": "https://panoramadart.com",
-    "link": "/proyecto/iba-panoramadart",
+    "link": "/proyectos/iba-panoramadart",
     "github": "",
     "group": "iba"
   },
@@ -1157,10 +1155,10 @@
       "CSS3",
       "JavaScript"
     ],
-    "favicon": "/assets/img/favicons/b151barcelona-com.png",
+    "favicon": "/assets/img/projects/logos/b151-barcelona.png",
     "text": "B151 Barcelona",
     "url": "https://b151barcelona.com",
-    "link": "/proyecto/iba-b151-barcelona",
+    "link": "/proyectos/iba-b151-barcelona",
     "github": "",
     "group": "iba"
   },
@@ -1177,10 +1175,10 @@
     "tech": [
       "WordPress"
     ],
-    "favicon": "/assets/img/favicons/iba-cat.png",
+    "favicon": "/assets/img/projects/logos/iba-institutbarcelonesdart.jpg",
     "text": "Institut Barcelonès d'Art",
     "url": "https://iba.cat",
-    "link": "/proyecto/iba-institutbarcelonesdart",
+    "link": "/proyectos/iba-institutbarcelonesdart",
     "github": "",
     "group": "iba"
   },
@@ -1199,10 +1197,10 @@
       "CSS3",
       "JavaScript"
     ],
-    "favicon": "/assets/img/favicons/evoluginos-com.png",
+    "favicon": "/assets/img/projects/logos/evoluginos.png",
     "text": "Evoluginos",
     "url": "https://evoluginos.com",
-    "link": "/proyecto/evoluginos"
+    "link": "/proyectos/evoluginos"
   },
   {
     "type": "cliente",
@@ -1219,10 +1217,10 @@
       "CSS3",
       "JavaScript"
     ],
-    "favicon": "/assets/img/favicons/marketplacebarcelona-com.png",
+    "favicon": "/assets/img/projects/logos/marketplace-barcelona.png",
     "text": "Marketplace Barcelona",
     "url": "https://marketplacebarcelona.com",
-    "link": "/proyecto/marketplace-barcelona"
+    "link": "/proyectos/marketplace-barcelona"
   },
   {
     "type": "cliente",
@@ -1236,10 +1234,10 @@
     "tech": [
       "WordPress"
     ],
-    "favicon": "/assets/img/favicons/krnaccessories-com.png",
+    "favicon": "/assets/img/projects/logos/krn-accessories.jpg",
     "text": "KRN Accessories",
     "url": "https://krnaccessories.com",
-    "link": "/proyecto/krn-accessories"
+    "link": "/proyectos/krn-accessories"
   },
   {
     "type": "cliente",
@@ -1257,7 +1255,7 @@
     "favicon": "/assets/img/favicons/lovelyfamilies-com.png",
     "text": "Lovely Families",
     "url": "https://lovelyfamilies.com",
-    "link": "/proyecto/lovelyfamilies"
+    "link": "/proyectos/lovelyfamilies"
   },
   {
     "type": "cliente",
@@ -1271,10 +1269,10 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/accelgrow-com.png",
+    "favicon": "/assets/img/projects/logos/accelgrow.png",
     "text": "AccelGrow",
     "url": "https://accelgrow.com",
-    "link": "/proyecto/accelgrow",
+    "link": "/proyectos/accelgrow",
     "group": "accelgrow"
   },
   {
@@ -1290,10 +1288,10 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/boostartup-es.png",
+    "favicon": "",
     "text": "Boostartup",
     "url": "https://boostartup.es",
-    "link": "/proyecto/boostartup",
+    "link": "/proyectos/boostartup",
     "group": "accelgrow"
   },
   {
@@ -1310,10 +1308,10 @@
       "HTML5",
       "CSS3"
     ],
-    "favicon": "/assets/img/favicons/medicalnutribalance-com.png",
+    "favicon": "/assets/img/projects/logos/medical-nutribalance.png",
     "text": "Medical Nutribalance",
     "url": "https://medicalnutribalance.com",
-    "link": "/proyecto/medical-nutribalance"
+    "link": "/proyectos/medical-nutribalance"
   },
   {
     "type": "personal",
@@ -1329,7 +1327,7 @@
     "favicon": "",
     "text": "CSGO Bots",
     "url": "https://csgobots.com",
-    "link": "/proyecto/csgo-bots",
+    "link": "/proyectos/csgo-bots",
     "github": ""
   },
   {
@@ -1346,7 +1344,7 @@
     "favicon": "",
     "text": "Xatty",
     "url": "https://xatty.net",
-    "link": "/proyecto/xatty",
+    "link": "/proyectos/xatty",
     "github": ""
   },
   {
@@ -1367,7 +1365,7 @@
     "favicon": "",
     "text": "Pikotas",
     "url": "https://pikotas.com",
-    "link": "/proyecto/pikotas",
+    "link": "/proyectos/pikotas",
     "github": ""
   },
   {
@@ -1386,7 +1384,7 @@
     "favicon": "/assets/img/favicons/insofting.svg",
     "text": "Insofting",
     "url": "https://insofting.com",
-    "link": "/proyecto/insofting",
+    "link": "/proyectos/insofting",
     "github": ""
   },
   {
@@ -1405,7 +1403,7 @@
     "favicon": "/assets/img/favicons/mundolibros.svg",
     "text": "Mundolibros",
     "url": "https://mundolibros.net",
-    "link": "/proyecto/mundolibros",
+    "link": "/proyectos/mundolibros",
     "github": ""
   },
   {
@@ -1422,7 +1420,7 @@
     "favicon": "",
     "text": "Kid Paddle",
     "url": "https://kidpaddle.net",
-    "link": "/proyecto/kid-paddle",
+    "link": "/proyectos/kid-paddle",
     "github": ""
   },
   {
@@ -1439,7 +1437,7 @@
     "favicon": "",
     "text": "Pagui",
     "url": "https://pagui.net",
-    "link": "/proyecto/pagui",
+    "link": "/proyectos/pagui",
     "github": "https://github.com/Qu4k3/pagui"
   },
   {
@@ -1448,7 +1446,7 @@
     "yearEnd": "2021",
     "yearPublished": "2019",
     "title": "Malthemes",
-    "description": "Era un repositorio de plantillas de Discord para visualizar y descargar en un click, con contadores de descarga y guías de uso. Se desarrolló usando Flat-UI. En paralelo, el equipo de BetterDiscord estaba desarrollando lo mismo. Acabé transfiriendo el dominio al equipo detrás de NotAnotherAnimeTheme y a la gente de abstractconcept.studio.",
+    "description": "Colección de temas visuales personalizados para Discord.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
@@ -1459,7 +1457,7 @@
     "favicon": "",
     "text": "Malthemes",
     "url": "https://malthemes.com",
-    "link": "/proyecto/malthemes",
+    "link": "/proyectos/malthemes",
     "github": ""
   },
   {
@@ -1467,7 +1465,7 @@
     "yearStart": "2018",
     "yearEnd": "2018",
     "yearPublished": "2018",
-    "title": "Abstract Concept Studio",
+    "title": "Abstract Concept",
     "description": "Ayudé a montar la web de Abstract Concept Studio en WordPress.",
     "icon": "",
     "headerBackgroundImg": "",
@@ -1475,10 +1473,10 @@
     "tech": [
       "WordPress"
     ],
-    "favicon": "",
-    "text": "Abstract Concept Studio",
+    "favicon": "/assets/img/projects/logos/abstract-concept.webp",
+    "text": "Abstract Concept",
     "url": "http://abstractconcept.studio",
-    "link": "/proyecto/abstract-concept-studio",
+    "link": "/proyectos/abstract-concept-studio",
     "github": ""
   },
   {
@@ -1494,10 +1492,10 @@
     "tech": [
       "Vue.js"
     ],
-    "favicon": "",
+    "favicon": "/assets/img/projects/logos/qk3.png",
     "text": "qk3.io",
     "url": "https://qk3.io",
-    "link": "/proyecto/qk3",
+    "link": "/proyectos/qk3",
     "github": "https://github.com/Qu4k3/qk3.io"
   },
   {
@@ -1511,10 +1509,10 @@
     "headerBackgroundImg": "",
     "status": "En Desarrollo",
     "tech": [],
-    "favicon": "",
+    "favicon": "/assets/img/favicons/raffu.svg",
     "text": "Raffu",
     "url": "https://raffu.app",
-    "link": "/proyecto/raffu",
+    "link": "/proyectos/raffu",
     "github": ""
   },
   {
@@ -1531,7 +1529,63 @@
     "favicon": "",
     "text": "Thiéry Gallery",
     "url": "https://thiery.gallery",
-    "link": "/proyecto/thiery-gallery",
+    "link": "/proyectos/thiery-gallery",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "AGRO lens",
+    "description": "",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [],
+    "favicon": "",
+    "text": "AGRO lens",
+    "url": "",
+    "link": "/proyectos/agro-lens",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "VET lens — App",
+    "description": "Versión de MEDI lens para medicamentos veterinarios (app).",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [
+      "Expo"
+    ],
+    "favicon": "/assets/img/projects/logos/vetlens.png",
+    "text": "VET lens — App",
+    "url": "",
+    "link": "/proyectos/vetlens-app",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "VET lens — Landing",
+    "description": "Versión de MEDI lens para medicamentos veterinarios.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [
+      "Astro",
+      "Netlify"
+    ],
+    "favicon": "/assets/img/projects/logos/vetlens.png",
+    "text": "VET lens — Landing",
+    "url": "https://vetlens.es",
+    "link": "/proyectos/vetlens",
     "github": ""
   }
 ]

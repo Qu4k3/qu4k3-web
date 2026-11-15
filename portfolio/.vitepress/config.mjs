@@ -202,7 +202,7 @@ export default defineConfig({
     returnToTopLabel: "Volver arriba ↑",
 
     sidebar: {
-      '/proyecto': buildProjectSidebar(projects)
+      '/proyectos': buildProjectSidebar(projects)
     },
 
     footer: {

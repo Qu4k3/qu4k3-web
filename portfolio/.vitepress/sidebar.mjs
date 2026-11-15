@@ -6,7 +6,7 @@ const GROUP_TITLES = {
 }
 
 const GROUP_COLLAPSED = {
-  mariokart: true
+  mariokart: false
 }
 
 const projectText = (project) => {

@@ -12,7 +12,6 @@ const technologies = [
 ## Enlaces
 
 <div class="about-actions">
-  <a class="about-action about-action--primary" href="https://asciiart.io" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
   <a class="about-action" href="https://github.com/Qu4k3/asciiart" target="_blank" rel="noopener noreferrer">Código privado en GitHub <span aria-hidden="true">↗</span></a>
 </div>
 
@@ -46,6 +45,6 @@ Plataforma para subir y compartir diseños y dibujos en ASCII.
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [asciiart.io](https://asciiart.io) | 09/01/2017 | 09/01/2021 |
+| asciiart.io | 09/01/2017 | 09/01/2021 |
 
 Dominio propio utilizado del 09/01/2017 al 09/01/2021, según el periodo aportado.

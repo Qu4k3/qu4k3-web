@@ -49,4 +49,4 @@ Landing dedicada a *Kiznaiver*, con la introducción del anime como vídeo de fo
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [kiznaiver.net](https://kiznaiver.net) | 25/05/2016 | 25/05/2022 |
+| kiznaiver.net | 25/05/2016 | 25/05/2022 |

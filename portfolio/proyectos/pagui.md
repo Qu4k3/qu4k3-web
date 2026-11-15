@@ -3,7 +3,6 @@
 ## Enlaces
 
 <div class="about-actions">
-  <a class="about-action about-action--primary" href="https://pagui.net" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
   <a class="about-action" href="https://github.com/Qu4k3/pagui" target="_blank" rel="noopener noreferrer">Código en GitHub <span aria-hidden="true">↗</span></a>
 </div>
 
@@ -21,4 +20,4 @@ Fue un intento de salir de "Insofting" a algo más personal, pero no acabó mate
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [pagui.net](https://pagui.net) | 14/02/2019 | 14/02/2020 |
+| pagui.net | 14/02/2019 | 14/02/2020 |

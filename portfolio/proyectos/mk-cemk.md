@@ -9,11 +9,6 @@ const technologies = [
 # <span class="project-logo"><img src="/assets/img/projects/logos/cemk.png" alt="" aria-hidden="true" width="48" height="48" /></span> Comunidad Española de Mario Kart (CEMK)
 
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://cemk.es" target="_blank" rel="noopener noreferrer">Dominio histórico <span aria-hidden="true">↗</span></a>
-</div>
 
 ## Sobre el proyecto
 
@@ -45,4 +40,4 @@ Sitio web con noticias de la comunidad española de Mario Kart.
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [cemk.es](https://cemk.es) | 13/07/2017 | 13/07/2018 |
+| cemk.es | 13/07/2017 | 13/07/2018 |

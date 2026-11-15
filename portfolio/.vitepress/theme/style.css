@@ -572,6 +572,11 @@ body {
   color: var(--vp-c-brand-1);
 }
 
+.vp-doc .about-tags li.no-icon {
+  gap: 0;
+  padding: 6px 8px;
+}
+
 .vp-doc .about-tag-icon svg {
   display: block;
   width: 100%;

@@ -1,11 +1,5 @@
 # Malthemes
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://malthemes.com" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
-</div>
-
 ## Sobre el proyecto
 
 Colección de temas visuales personalizados para Discord.
@@ -27,5 +21,5 @@ Colección de temas visuales personalizados para Discord.
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [malthemes.com](https://malthemes.com) | 21/02/2019 | 21/02/2021 |
-| [malthemes.net](https://malthemes.net) | 21/02/2019 | 21/02/2021 |
+| malthemes.com | 21/02/2019 | 21/02/2021 |
+| malthemes.net | 21/02/2019 | 21/02/2021 |

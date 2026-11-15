@@ -19,6 +19,9 @@ import tailwindIcon from 'simple-icons/icons/tailwindcss.svg?raw'
 import muiIcon from 'simple-icons/icons/mui.svg?raw'
 import mantineIcon from 'simple-icons/icons/mantine.svg?raw'
 import bulmaIcon from 'simple-icons/icons/bulma.svg?raw'
+import bemIcon from 'simple-icons/icons/bem.svg?raw'
+import agentskillsIcon from 'simple-icons/icons/agentskills.svg?raw'
+import materialDesignIcon from 'simple-icons/icons/materialdesign.svg?raw'
 import chakraUiIcon from 'simple-icons/icons/chakraui.svg?raw'
 import headlessUiIcon from 'simple-icons/icons/headlessui.svg?raw'
 import confluenceIcon from 'simple-icons/icons/confluence.svg?raw'
@@ -132,7 +135,7 @@ const technologyGroups = [
       { name: 'HTML', icon: htmlIcon },
       { name: 'CSS', icon: cssIcon }, { name: 'Sass', icon: sassIcon },
       { name: 'CSS Modules', icon: cssModulesIcon }, { name: 'Tailwind CSS', icon: tailwindIcon },
-      { name: 'BEM' }, { name: 'CSS-in-JS' },
+      { name: 'BEM', icon: bemIcon }, { name: 'CSS-in-JS', icon: cssIcon },
       { name: 'MUI', icon: muiIcon }, { name: 'Mantine', icon: mantineIcon }, { name: 'Fluent UI', icon: fluentuiIcon },
       { name: 'Bulma', icon: bulmaIcon }, { name: 'Chakra UI', icon: chakraUiIcon },
       { name: 'Headless UI', icon: headlessUiIcon },
@@ -232,7 +235,7 @@ const technologyGroups = [
       { name: 'OpenCode', icon: opencodeIcon }, { name: 'Claude Code', icon: claudeCodeIcon },
       { name: 'GitHub Copilot', icon: copilotIcon }, { name: 'Codex', icon: codexIcon },
       { name: 'MCP', icon: mcpIcon },
-      { name: 'Agent Skills' },
+      { name: 'Agent Skills', icon: agentskillsIcon },
       { name: 'Antigravity', icon: antigravityIcon },
     ],
   },
@@ -273,7 +276,7 @@ const previousTechnologies = [
   { name: 'Slim PHP' },
   { name: 'Angular', icon: angularIcon }, { name: 'Java', icon: openjdkIcon },
   { name: 'Ruby', icon: rubyIcon }, { name: 'Ruby on Rails', icon: rubyonrailsIcon },
-  { name: 'Bootstrap', icon: bootstrapIcon }, { name: 'Materialize CSS' },
+  { name: 'Bootstrap', icon: bootstrapIcon }, { name: 'Materialize CSS', icon: materialDesignIcon },
   { name: 'Contentful', icon: contentfulIcon },
   { name: 'Adobe Animate' }, { name: 'Google Web Designer' },
   { name: 'Microsoft Dynamics' }, { name: 'Click Dimensions' },
@@ -339,7 +342,7 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado a 
   <section v-for="group in technologyGroups" :key="group.title">
     <h3>{{ group.title }}</h3>
     <ul class="about-tags">
-      <li v-for="technology in group.technologies" :key="technology.name">
+      <li v-for="technology in group.technologies" :key="technology.name" :class="{ 'no-icon': !technology.icon }">
         <span v-if="technology.icon" class="about-tag-icon" aria-hidden="true" v-html="technology.icon"></span>
         <span>{{ technology.name }}</span>
       </li>

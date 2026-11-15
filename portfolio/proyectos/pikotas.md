@@ -12,12 +12,6 @@ const technologies = [
 
 # Pikotas
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://pikotas.com" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
-</div>
-
 ## Sobre el proyecto
 
 Iba a ser una landing divertida como ejercicio práctico de entrenamiento al diseño y animación con HTML, CSS y JS para la famosa marca de caramelos.
@@ -41,5 +35,5 @@ Iba a ser una landing divertida como ejercicio práctico de entrenamiento al dis
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [pikotas.com](https://pikotas.com) | 02/06/2016 | 02/06/2017 |
-| [pikotas.es](https://pikotas.es) | 03/06/2016 | 03/06/2017 |
+| pikotas.com | 02/06/2016 | 02/06/2017 |
+| pikotas.es | 03/06/2016 | 03/06/2017 |

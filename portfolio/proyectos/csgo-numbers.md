@@ -47,5 +47,5 @@ Proyecto web iniciado como una página «coming soon» y retomado en 2023 con un
 | Dominio | Alta | Fin de uso |
 |---|---|---|
 | [csgonumbers.com](https://csgonumbers.com) | 13/12/2016 | Activo |
-| [csgonumbers.net](https://csgonumbers.net) | 05/06/2016 | 05/06/2025 |
+| csgonumbers.net | 05/06/2016 | 05/06/2025 |
 | [csgodata.net](https://csgodata.net) | 05/06/2016 | 05/06/2016 |

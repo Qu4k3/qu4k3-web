@@ -11,7 +11,6 @@ const technologies = [
 ## Enlaces
 
 <div class="about-actions">
-  <a class="about-action about-action--primary" href="https://qk3.io" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
   <a class="about-action" href="https://github.com/Qu4k3/qk3.io" target="_blank" rel="noopener noreferrer">Código en GitHub <span aria-hidden="true">↗</span></a>
 </div>
 
@@ -38,4 +37,4 @@ Era un repositorio de proyectos y de hosting de proyectos, como indica la descri
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [qk3.io](https://qk3.io) | 03/04/2019 | 03/04/2020 |
+| qk3.io | 03/04/2019 | 03/04/2020 |

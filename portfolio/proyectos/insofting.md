@@ -8,13 +8,6 @@ const technologies = [
 
 # <span class="project-logo"><img src="/assets/img/favicons/insofting.svg" alt="" aria-hidden="true" width="48" height="48" /></span> Insofting
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://insofting.com" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
-</div>
-
-
 ## Sobre el proyecto
 
 <div class="project-logo project-logo-alt"><img src="/assets/img/projects/logos/insofting.svg" alt="Insofting" height="56" /></div>
@@ -40,6 +33,6 @@ Iba a ser mi "empresa" o mi "nombre" tras hacerme autónomo; era un sitio desarr
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [insofting.com](https://insofting.com) | 14/03/2017 | 14/03/2021 |
-| [insofting.net](https://insofting.net) | 14/03/2017 | 14/03/2021 |
-| [insofting.org](https://insofting.org) | 14/03/2017 | 14/03/2021 |
+| insofting.com | 14/03/2017 | 14/03/2021 |
+| insofting.net | 14/03/2017 | 14/03/2021 |
+| insofting.org | 14/03/2017 | 14/03/2021 |

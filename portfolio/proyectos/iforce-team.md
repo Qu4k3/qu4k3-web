@@ -9,11 +9,6 @@ const technologies = [
 # <span class="project-logo"><img src="/assets/img/projects/logos/ice-force.webp" alt="" aria-hidden="true" width="48" height="48" /></span> iForce Team
 
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://iceforce.team" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
-</div>
 
 ## Sobre el proyecto
 
@@ -44,4 +39,4 @@ Página de presentación de un equipo competitivo de esports.
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [iceforce.team](https://iceforce.team) | 02/06/2018 | 02/06/2019 |
+| iceforce.team | 02/06/2018 | 02/06/2019 |

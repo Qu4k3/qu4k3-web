@@ -15,11 +15,6 @@ const technologies = [
 # <span class="project-logo"><img src="/assets/img/projects/logos/mhw-guild.jpg" alt="" aria-hidden="true" width="48" height="48" /></span> Monster Hunter World Guild
 
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://mhwguild.com" target="_blank" rel="noopener noreferrer">Dominio histórico <span aria-hidden="true">↗</span></a>
-</div>
 
 ## Sobre el proyecto
 
@@ -51,4 +46,4 @@ Landing de presentación de una nueva plataforma relacionada con *Monster Hunter
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [mhwguild.com](https://mhwguild.com) | 12/09/2017 | 12/09/2020 |
+| mhwguild.com | 12/09/2017 | 12/09/2020 |

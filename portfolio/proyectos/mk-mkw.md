@@ -53,11 +53,11 @@ Web de la comunidad española de Mario Kart para presentar torneos, estadística
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [mariokartworld.com](https://mariokartworld.com) | 16/12/2017 | 16/12/2020 |
-| [mariokartworld.es](https://mariokartworld.es) | 16/12/2017 | 16/12/2018 |
-| [mariokartworld.net](https://mariokartworld.net) | 16/12/2017 | 16/12/2018 |
-| [mariokartworld.org](https://mariokartworld.org) | 16/12/2017 | 16/12/2018 |
-| [mariokart.world](https://mariokart.world) | 18/12/2017 | 18/12/2018 |
-| [mariokart.rip](https://mariokart.rip) | 16/12/2017 | 16/12/2018 |
-| [mkworld.gg](https://mkworld.gg) | 18/03/2018 | 18/03/2019 |
-| [mariokarthub.com](https://mariokarthub.com) | 19/01/2019 | 19/01/2021 |
+| mariokartworld.com | 16/12/2017 | 16/12/2020 |
+| mariokartworld.es | 16/12/2017 | 16/12/2018 |
+| mariokartworld.net | 16/12/2017 | 16/12/2018 |
+| mariokartworld.org | 16/12/2017 | 16/12/2018 |
+| mariokart.world | 18/12/2017 | 18/12/2018 |
+| mariokart.rip | 16/12/2017 | 16/12/2018 |
+| mkworld.gg | 18/03/2018 | 18/03/2019 |
+| mariokarthub.com | 19/01/2019 | 19/01/2021 |

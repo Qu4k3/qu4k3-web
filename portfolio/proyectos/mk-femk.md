@@ -9,11 +9,6 @@ const technologies = [
 # <span class="project-logo"><img src="/assets/img/projects/logos/femk.webp" alt="" aria-hidden="true" width="48" height="48" /></span> Federación Española de Mario Kart (FEMK)
 
 
-## Enlaces
-
-<div class="about-actions">
-  <a class="about-action about-action--primary" href="https://femk.es" target="_blank" rel="noopener noreferrer">Dominio histórico <span aria-hidden="true">↗</span></a>
-</div>
 
 ## Sobre el proyecto
 
@@ -45,4 +40,4 @@ Sitio web de la Federación Española de Mario Kart.
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|
-| [femk.es](https://femk.es) | 14/07/2018 | 14/07/2019 |
+| femk.es | 14/07/2018 | 14/07/2019 |

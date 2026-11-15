@@ -904,6 +904,11 @@ body {
   border-radius: 2px;
 }
 
+[class^="VP"],
+[class*=" VP"] {
+  border-radius: 2px !important;
+}
+
 .VPBackToTop {
   border: 1px solid var(--vp-c-divider);
   border-radius: 2px;

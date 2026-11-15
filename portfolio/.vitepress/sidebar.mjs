@@ -22,7 +22,7 @@ const linkItem = (project) => ({
 })
 
 const buildYearBucket = (year, items) => {
-  const sorted = [...items].sort((a, b) => (a.sidebarOrder ?? 0) - (b.sidebarOrder ?? 0))
+  const sorted = [...items]
   const entries = []
   let currentGroup = null
   let currentItems = []
@@ -54,7 +54,7 @@ const buildYearBucket = (year, items) => {
   flushGroup()
 
   return {
-    text: `[${year}]`,
+    text: `${year}`,
     collapsed: false,
     items: entries
   }
@@ -103,6 +103,6 @@ export const buildProjectSidebar = (allProjects) => ([
   {
     text: 'Proyectos para Clientes',
     collapsed: false,
-    items: byYear(allProjects.filter((p) => p.type === 'cliente'))
+    items: buildTypeSidebar(allProjects.filter((p) => p.type === 'cliente'))
   }
 ])

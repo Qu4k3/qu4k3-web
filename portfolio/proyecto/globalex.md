@@ -1,3 +1,0 @@
-# Globalex
-
-## *Pendiente de definir*

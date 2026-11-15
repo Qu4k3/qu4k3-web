@@ -1,3 +1,0 @@
-# Inefable
-
-## *Pendiente de definir*

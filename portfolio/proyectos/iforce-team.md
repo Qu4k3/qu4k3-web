@@ -1,0 +1,42 @@
+<script setup>
+import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
+
+const technologies = [
+  { name: 'WordPress', icon: wordpressIcon },
+]
+</script>
+
+# <span class="project-logo"><img src="/assets/img/projects/logos/ice-force.webp" alt="" aria-hidden="true" width="48" height="48" /></span> iForce Team
+
+
+
+## Sobre el proyecto
+
+Página de presentación de un equipo competitivo de esports.
+
+## Datos del proyecto
+
+| Inicio | Estado |
+|---|---|
+| 2018 | Finalizado |
+
+## Tecnologías
+
+<ul class="about-tags">
+  <li v-for="technology in technologies" :key="technology.name">
+    <span v-if="technology.icon" class="about-tag-icon" aria-hidden="true" v-html="technology.icon"></span>
+    <span>{{ technology.name }}</span>
+  </li>
+</ul>
+
+## Evolución
+
+| Fecha | Versión o hito | Cambios |
+|---|---|---|
+| 2018–2019 | Sitio del equipo | Página de presentación de un equipo competitivo de esports, desarrollada con WordPress. |
+
+## Dominios
+
+| Dominio | Alta | Fin de uso |
+|---|---|---|
+| iceforce.team | 02/06/2018 | 02/06/2019 |

@@ -1,0 +1,47 @@
+<script setup>
+import wordpressIcon from 'simple-icons/icons/wordpress.svg?raw'
+import elementorIcon from 'simple-icons/icons/elementor.svg?raw'
+
+const technologies = [
+  { name: 'WordPress', icon: wordpressIcon },
+  { name: 'Elementor', icon: elementorIcon },
+  { name: 'Contact Form 7' },
+  { name: 'Polylang' },
+  { name: 'Google Site Kit' },
+]
+</script>
+
+# <span class="project-logo"><img src="/assets/img/favicons/hucaconstructora-com.png" alt="" aria-hidden="true" width="48" height="48" /></span> HUCA Constructora
+
+
+## Enlaces
+
+<div class="about-actions">
+  <a class="about-action about-action--primary" href="https://hucaconstructora.com/" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
+</div>
+
+## Sobre el proyecto
+
+Sitio web para una empresa constructora, con información de sus proyectos de construcción y reforma.
+
+## Datos del proyecto
+
+| Inicio | Estado |
+|---|---|
+| Julio de 2025 | En desarrollo |
+
+## Tecnologías
+
+<ul class="about-tags">
+  <li v-for="technology in technologies" :key="technology.name">
+    <span v-if="technology.icon" class="about-tag-icon" aria-hidden="true" v-html="technology.icon"></span>
+    <span>{{ technology.name }}</span>
+  </li>
+</ul>
+
+## Evolución
+
+| Fecha | Versión o hito | Cambios |
+|---|---|---|
+| Desde julio de 2025 | Desarrollo del sitio web | Web corporativa para presentar los trabajos de construcción y reforma de HUCA. |
+

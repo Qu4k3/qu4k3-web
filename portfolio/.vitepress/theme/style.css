@@ -322,6 +322,47 @@ body {
   border: 1px solid var(--vp-c-divider);
 }
 
+.vp-doc .project-logo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 14px 0 26px;
+}
+
+.vp-doc h1 {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.vp-doc h1 .project-logo {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  gap: 14px;
+}
+
+.vp-doc .project-logo img {
+  width: auto;
+  height: 48px;
+  max-width: min(220px, 100%);
+  margin: 0;
+  border: 0;
+  background: transparent;
+}
+
+.vp-doc .project-logo-alt img {
+  width: auto;
+  height: auto;
+  max-width: min(450px, 100%);
+  margin: 0;
+  margin-top: 20px;
+  border: 0;
+  background: transparent;
+}
+
 .vp-doc .about-intro {
   display: grid;
   grid-template-columns: minmax(180px, 0.42fr) minmax(0, 1fr);
@@ -529,6 +570,11 @@ body {
   align-items: center;
   justify-content: center;
   color: var(--vp-c-brand-1);
+}
+
+.vp-doc .about-tags li.no-icon {
+  gap: 0;
+  padding: 6px 8px;
 }
 
 .vp-doc .about-tag-icon svg {
@@ -804,6 +850,12 @@ body {
   transition: border-color 0.2s ease, background-color 0.2s ease;
 }
 
+.VPDocFooter .pager-link .title {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
 .outline-link {
   font-weight: 300 !important;
 }
@@ -855,6 +907,11 @@ body {
 .VPSwitchAppearance,
 .VPNavBar .VPNavBarAppearance button {
   border-radius: 2px;
+}
+
+[class^="VP"],
+[class*=" VP"] {
+  border-radius: 2px !important;
 }
 
 .VPBackToTop {

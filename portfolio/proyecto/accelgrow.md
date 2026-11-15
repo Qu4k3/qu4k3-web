@@ -1,3 +1,0 @@
-# AccelGrow
-
-## *Pendiente de definir*

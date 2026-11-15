@@ -1,3 +1,0 @@
-# Llibrenet
-
-## *Pendiente de definir*

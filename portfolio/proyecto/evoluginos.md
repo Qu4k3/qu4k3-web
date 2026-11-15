@@ -1,3 +1,0 @@
-# Evoluginos
-
-## *Pendiente de definir*

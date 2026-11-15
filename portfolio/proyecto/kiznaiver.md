@@ -1,3 +1,0 @@
-# Kiznaiver
-
-## *Pendiente de definir*

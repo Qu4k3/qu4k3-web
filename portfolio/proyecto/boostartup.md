@@ -1,3 +1,0 @@
-# Boostartup
-
-## *Pendiente de definir*

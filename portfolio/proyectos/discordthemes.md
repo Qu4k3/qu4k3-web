@@ -1,0 +1,45 @@
+<script setup>
+const technologies = [
+  { name: 'Flat' },
+]
+</script>
+
+# <span class="project-logo"><img src="/assets/img/projects/logos/discordthemes.webp" alt="" aria-hidden="true" width="48" height="48" /></span> Discord Themes
+
+
+## Enlaces
+
+<div class="about-actions">
+  <a class="about-action about-action--primary" href="https://discordthemes.net" target="_blank" rel="noopener noreferrer">Sitio web <span aria-hidden="true">↗</span></a>
+</div>
+
+## Sobre el proyecto
+
+Era un repositorio de plantillas de Discord para visualizar y descargar en un click, con contadores de descarga y guías de uso. Se desarrolló usando Flat-UI. En paralelo, el equipo de BetterDiscord estaba desarrollando lo mismo. Acabé transfiriendo el dominio al equipo detrás de NotAnotherAnimeTheme y a la gente de abstractconcept.studio.
+
+## Datos del proyecto
+
+| Inicio | Estado |
+|---|---|
+| 2018 | Abandonado |
+
+## Tecnologías
+
+<ul class="about-tags">
+  <li v-for="technology in technologies" :key="technology.name">
+    <span v-if="technology.icon" class="about-tag-icon" aria-hidden="true" v-html="technology.icon"></span>
+    <span>{{ technology.name }}</span>
+  </li>
+</ul>
+
+## Evolución
+
+| Fecha | Versión o hito | Cambios |
+|---|---|---|
+| 2018 | Sitio de temas para Discord | Colección web de temas visuales personalizados para Discord. |
+
+## Dominios
+
+| Dominio | Alta | Fin de uso |
+|---|---|---|
+| [discordthemes.net](https://discordthemes.net) | 03/07/2018 | 12/09/2019 (Transferido) |

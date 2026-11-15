@@ -1,43 +1,66 @@
 [
   {
-    "type": "personal",
-    "yearStart": "2021",
-    "yearEnd": "2021",
-    "yearPublished": "2021",
-    "title": "Tau Studio v0",
-    "description": "Sitio web de Tau Studio para presentar sus servicios de diseño, desarrollo web, marketing digital y SEO.",
+    "type": "colaborativo",
+    "yearStart": "2024",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "MEDI lens — App",
+    "description": "Aplicación móvil de MEDI lens para consultar medicamentos y gestionar un botiquín digital.",
     "icon": "",
-    "headerBackgroundImg": "",
-    "status": "Finalizado",
+    "headerBackgroundImg": "proyecto-medilens-app.png",
+    "status": "En Desarrollo",
     "tech": [
-      "Astro",
-      "SEO",
-      "Netlify"
+      "React Native",
+      "Expo",
+      "API"
     ],
-    "favicon": "/assets/img/projects/tau-logo.svg",
-    "text": "Tau Studio v0",
-    "url": "https://tau.studio/v0/",
-    "link": "/proyecto/tau-v0"
+    "favicon": "/assets/img/projects/logos/medilens.svg",
+    "text": "MEDI lens — App",
+    "url": "https://play.google.com/store/apps/details?id=es.medilens.app",
+    "link": "/proyectos/medilens-app",
+    "github": "https://github.com/medi-lens/medilens-app"
   },
   {
-    "type": "personal",
-    "yearStart": "2026",
+    "type": "colaborativo",
+    "yearStart": "2024",
     "yearEnd": "",
-    "yearPublished": "2026",
-    "title": "Tau Studio v1",
-    "description": "Nueva versión del sitio web de Tau Studio, un estudio digital especializado en experiencias web, marketing digital y SEO.",
+    "yearPublished": "2025",
+    "title": "MEDI lens — Landing",
+    "description": "Landing informativa para MEDI lens, una aplicación móvil para consultar y gestionar información sobre medicamentos.",
     "icon": "",
-    "headerBackgroundImg": "proyecto-tau.png",
+    "headerBackgroundImg": "medilens-landing.jpg",
     "status": "En Desarrollo",
     "tech": [
       "Astro",
-      "SEO",
       "Netlify"
     ],
-    "favicon": "/assets/img/projects/tau-logo.svg",
-    "text": "Tau Studio v1",
-    "url": "https://tau.studio",
-    "link": "/proyecto/tau"
+    "favicon": "/assets/img/projects/logos/medilens.svg",
+    "text": "MEDI lens — Landing",
+    "url": "https://medilens.es",
+    "link": "/proyectos/medilens",
+    "github": "https://github.com/medi-lens/medilens-landing"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2024",
+    "yearEnd": "2024",
+    "yearPublished": "2024",
+    "title": "Inefable Day",
+    "description": "Aplicación web para crear y compartir páginas personales con una experiencia visual cuidada.",
+    "icon": "",
+    "headerBackgroundImg": "inefable.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "Next.js",
+      "Mantine",
+      "Vercel",
+      "PostgreSQL"
+    ],
+    "favicon": "/assets/img/favicons/inefable-day.png",
+    "text": "Inefable Day",
+    "url": "https://inefable.day",
+    "link": "/proyectos/inefable",
+    "github": "https://github.com/Qu4k3/inefable"
   },
   {
     "type": "personal",
@@ -55,148 +78,127 @@
       "Vercel",
       "Steam API"
     ],
-    "favicon": "/assets/img/favicons/killingfloor-zone.png",
+    "favicon": "/assets/img/projects/logos/kf-zone.webp",
     "text": "Killing Floor Zone",
     "url": "https://killingfloor.zone",
-    "link": "/proyecto/killingfloor-zone",
-    "github": "https://github.com/Qu4k3/killingfloorzone"
+    "link": "/proyectos/killingfloor-zone",
+    "github": ""
   },
   {
     "type": "personal",
-    "yearStart": "2024",
+    "yearStart": "2019",
     "yearEnd": "",
-    "yearPublished": "2025",
-    "title": "MEDI lens — Landing",
-    "description": "Landing informativa para MEDI lens, una aplicación móvil para consultar y gestionar información sobre medicamentos.",
+    "yearPublished": "2019",
+    "title": "Tau Studio",
+    "description": "Nueva versión del sitio web de Tau Studio, un estudio digital especializado en experiencias web, marketing digital y SEO.",
     "icon": "",
-    "headerBackgroundImg": "medilens-landing.jpg",
+    "headerBackgroundImg": "proyecto-tau.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "Astro",
+      "SEO",
+      "Netlify"
+    ],
+    "favicon": "/assets/img/projects/tau-logo.svg",
+    "text": "Tau Studio",
+    "url": "https://tau.studio",
+    "link": "/proyectos/tau",
+    "github": "https://github.com/tau/studio"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "",
+    "yearPublished": "2018",
+    "title": "Disboard Team",
+    "description": "Sitio web del equipo competitivo Disboard Team, con perfiles, resultados, estadísticas y datos públicos en formato JSON.",
+    "icon": "",
+    "headerBackgroundImg": "disboard-home.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "Astro",
+      "Sass",
+      "JavaScript",
+      "JSON",
+      "Netlify"
+    ],
+    "favicon": "/assets/img/projects/logos/disboard-team.webp",
+    "text": "Disboard Team",
+    "url": "https://disboard.team",
+    "link": "/proyectos/disboard-team",
+    "github": "https://github.com/disboard-team/disboard-team",
+    "group": "disboard"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "",
+    "yearPublished": "2018",
+    "title": "Disboard Documentación",
+    "description": "Documentación técnica y guía de uso para la plataforma y los servicios de Disboard, organizada por idiomas y versiones.",
+    "icon": "",
+    "headerBackgroundImg": "proyecto-disboard-docs.png",
     "status": "En Desarrollo",
     "tech": [
       "VitePress",
-      "Vue",
+      "Vue.js",
+      "Node.js",
       "Netlify"
     ],
-    "favicon": "/assets/img/favicons/medilens-es.png",
-    "text": "MEDI lens — Landing",
-    "url": "https://medilens.es",
-    "link": "/proyecto/medilens",
-    "github": "https://github.com/medi-lens/medilens-landing"
+    "favicon": "/assets/img/projects/logos/disboard-docs.gif",
+    "text": "Disboard Docs",
+    "url": "https://docs.disboard.team",
+    "link": "/proyectos/disboard-docs",
+    "github": "https://github.com/disboard-team/disboard-docs",
+    "group": "disboard"
   },
   {
     "type": "personal",
-    "yearStart": "2024",
-    "yearEnd": "",
-    "yearPublished": "2025",
-    "title": "MEDI lens — App",
-    "description": "Aplicación móvil de MEDI lens para consultar medicamentos y gestionar un botiquín digital.",
-    "icon": "",
-    "headerBackgroundImg": "proyecto-medilens-app.png",
-    "status": "En Desarrollo",
-    "tech": [
-      "React Native",
-      "Expo",
-      "API"
-    ],
-    "favicon": "/assets/img/favicons/medilens-es.png",
-    "text": "MEDI lens - App",
-    "url": "https://play.google.com/store/apps/details?id=es.medilens.app",
-    "link": "/proyecto/medilens-app",
-    "github": "https://github.com/medi-lens/medilens-app"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2025",
-    "yearEnd": "2025",
-    "yearPublished": "2025",
-    "title": "Pocket Link v0",
-    "description": "Herramienta para guardar, organizar y compartir enlaces desde una interfaz web sencilla.",
-    "icon": "",
-    "headerBackgroundImg": "pckt-link-home.png",
-    "status": "En Desarrollo",
-    "tech": [
-      "Next.js",
-      "Mantine",
-      "Vercel",
-      "Amazon Dynamo DB"
-    ],
-    "favicon": "/assets/img/favicons/pckt-link.png",
-    "text": "Pocket Link",
-    "url": "https://pckt.link/v0/",
-    "link": "/proyecto/pckt-link-v0",
-    "github": "https://github.com/Qu4k3/pckt-link"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2026",
+    "yearStart": "2018",
     "yearEnd": "",
     "yearPublished": "2026",
-    "title": "Pocket Link v1",
-    "description": "Nueva versión de Pocket Link para guardar, organizar y compartir enlaces desde una interfaz web sencilla.",
+    "title": "Disboard Discord Bot",
+    "description": "Bot de Discord para tareas de gestión del equipo, consulta rápida de información y comandos útiles.",
     "icon": "",
-    "headerBackgroundImg": "pckt-link-home.png",
+    "headerBackgroundImg": "",
     "status": "En Desarrollo",
     "tech": [
-      "Next.js",
-      "Mantine",
-      "Vercel",
-      "Amazon Dynamo DB"
+      "Node.js",
+      "Express",
+      "Discord.js v14"
     ],
-    "favicon": "/assets/img/favicons/pckt-link.png",
-    "text": "Pocket Link v1",
-    "url": "https://pckt.link",
-    "link": "/proyecto/pckt-link",
-    "github": "https://github.com/Qu4k3/pckt-link"
+    "favicon": "/assets/img/projects/logos/disboard-bot.png",
+    "text": "Disboard Bot",
+    "url": "https://bot.disboard.team",
+    "link": "/proyectos/disboard-bot",
+    "github": "https://github.com/Qu4k3/disboard-bot",
+    "group": "disboard"
   },
   {
     "type": "personal",
-    "yearStart": "2024",
-    "yearEnd": "2024",
-    "yearPublished": "2024",
-    "title": "Inefable Day",
-    "description": "Aplicación web para crear y compartir páginas personales con una experiencia visual cuidada.",
-    "icon": "",
-    "headerBackgroundImg": "inefable.png",
-    "status": "Finalizado",
-    "tech": [
-      "Next.js",
-      "Mantine",
-      "Vercel",
-      "PostgreSQL"
-    ],
-    "favicon": "/assets/img/favicons/inefable-day.png",
-    "text": "Inefable Day",
-    "url": "https://inefable.day",
-    "link": "/proyecto/inefable",
-    "github": "https://github.com/Qu4k3/inefable"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2024",
+    "yearStart": "2016",
     "yearEnd": "",
-    "yearPublished": "2025",
-    "title": "Fibers v2",
-    "description": "Plataforma educativa para organizar recursos, apuntes y contenidos de estudiantes de informática.",
+    "yearPublished": "2026",
+    "title": "CSGO Numbers",
+    "description": "Proyecto web iniciado como una página coming soon y reescrito desde cero con Next.js; su primera publicación fue en 2026.",
     "icon": "",
-    "headerBackgroundImg": "proyecto-fibers.png",
+    "headerBackgroundImg": "",
     "status": "En Desarrollo",
     "tech": [
-      "Next.js",
-      "MUI",
-      "Firebase",
-      "Vercel"
+      "Next.js"
     ],
-    "favicon": "/assets/img/favicons/fibers-cat.png",
-    "text": "Inefable Day",
-    "url": "https://fibers.cat",
-    "link": "/proyecto/fibers",
-    "github": "https://github.com/fibers-cat/fibers"
+    "favicon": "/assets/img/projects/logos/csgonumbers.webp",
+    "text": "CSGO Numbers",
+    "url": "https://csgonumbers.com",
+    "link": "/proyectos/csgo-numbers",
+    "github": "https://github.com/Qu4k3/csgonumbers-website"
   },
   {
     "type": "personal",
-    "yearStart": "2025",
+    "yearStart": "2015",
     "yearEnd": "",
-    "yearPublished": "2025",
-    "title": "Qu4k3 v2",
+    "yearPublished": "2015",
+    "title": "Qu4k3",
     "description": "Portfolio personal de Paul Guillamón para presentar proyectos, experiencia y trabajos realizados.",
     "icon": "",
     "headerBackgroundImg": "qu4k3.png",
@@ -207,158 +209,527 @@
       "Netlify"
     ],
     "favicon": "/assets/img/favicons/qu4k3-com.png",
-    "text": "Qu4k3 v2",
+    "text": "Qu4k3",
     "url": "https://qu4k3.com",
-    "link": "/proyecto/qu4k3",
+    "link": "/proyectos/qu4k3",
     "github": "https://github.com/qu4k3-web"
   },
   {
     "type": "personal",
     "yearStart": "2018",
     "yearEnd": "2020",
-    "yearPublished": "2020",
-    "title": "Disboard Web v0",
-    "description": "Directorio web de servidores de Discord con navegación, búsqueda y descubrimiento de comunidades.",
+    "yearPublished": "2018",
+    "title": "Disboard Web",
+    "description": "Directorio web de servidores de Discord, con navegación, búsqueda y descubrimiento de comunidades.",
     "icon": "",
     "headerBackgroundImg": "disboard-home.png",
     "status": "Finalizado",
     "tech": [
-      "React",
-      "React Router",
-      "React Helmet",
-      "Sass",
-      "Axios"
+      "Next.js",
+      "React"
     ],
     "favicon": "/assets/img/favicons/disboard-team.png",
     "text": "Disboard Web",
     "url": "https://disboard.team/v0/",
-    "link": "/proyecto/disboard-web-v0",
-    "github": "https://github.com/Qu4k3/disboard-website"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2026",
-    "yearEnd": "",
-    "yearPublished": "2026",
-    "title": "Disboard Web v1",
-    "description": "Nueva versión del directorio web de servidores de Discord, con búsqueda y descubrimiento de comunidades.",
-    "icon": "",
-    "headerBackgroundImg": "disboard-home.png",
-    "status": "En Desarrollo",
-    "tech": [
-      "React",
-      "React Router",
-      "React Helmet",
-      "Sass",
-      "Axios"
-    ],
-    "favicon": "/assets/img/favicons/disboard-team.png",
-    "text": "Disboard Web v1",
-    "url": "https://disboard.team",
-    "link": "/proyecto/disboard-web",
-    "github": "https://github.com/Qu4k3/disboard-website"
+    "link": "/proyectos/disboard-web",
+    "github": "https://github.com/disboard-team/disboard-website",
+    "group": "disboard"
   },
   {
     "type": "personal",
     "yearStart": "2018",
     "yearEnd": "2020",
-    "yearPublished": "2020",
+    "yearPublished": "2018",
     "title": "Disboard API",
-    "description": "API REST para gestionar servidores, usuarios y datos del directorio de comunidades de Disboard.",
+    "description": "API REST para servir los datos de servidores, usuarios y comunidades de Disboard.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
     "tech": [
-      "Node",
+      "Node.js",
       "Express",
       "Mongoose",
       "MongoDB",
-      "Nano ID"
+      "Nano ID",
+      "Heroku"
     ],
-    "favicon": "/assets/img/favicons/api-disboard-team.png",
+    "favicon": "/assets/img/projects/logos/disboard-api.gif",
     "text": "Disboard API",
     "url": "https://api.disboard.team",
-    "link": "/proyecto/disboard-api",
-    "github": "https://github.com/Qu4k3/disboard-api"
+    "link": "/proyectos/disboard-api",
+    "github": "https://github.com/disboard-team/disboard-api",
+    "group": "disboard"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2021",
+    "yearEnd": "2021",
+    "yearPublished": "2021",
+    "title": "CEU Eventos (App)",
+    "description": "MVP móvil para escanear invitaciones y registrar asistencias, conectado con Microsoft Dynamics para enviar comunicaciones y encuestas tras los eventos.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "React Native",
+      "Expo",
+      "Async Storage",
+      "Microsoft Dynamics API"
+    ],
+    "favicon": "/assets/img/favicons/ceu-es.png",
+    "text": "CEU Eventos (App)",
+    "url": "https://ceu.es",
+    "link": "/proyectos/ceu-events-scanner",
+    "github": "https://github.com/Qu4k3/ceu-events-scanner"
   },
   {
     "type": "personal",
     "yearStart": "2018",
-    "yearEnd": "2020",
-    "yearPublished": "2020",
-    "title": "Disboard Documentación v0",
-    "description": "Documentación técnica y guía de uso para la plataforma y los servicios de Disboard.",
-    "icon": "",
-    "headerBackgroundImg": "docs.disboard.team.png",
-    "status": "Finalizado",
-    "tech": [
-      "VuePress v0"
-    ],
-    "favicon": "/assets/img/favicons/docs-disboard-team.png",
-    "text": "Disboard Docs",
-    "url": "https://docs.disboard.team/v0/",
-    "link": "/proyecto/disboard-docs-v0",
-    "github": "https://github.com/Qu4k3/disboard-docs"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2026",
-    "yearEnd": "",
-    "yearPublished": "2026",
-    "title": "Disboard Documentación v1",
-    "description": "Nueva versión de la documentación técnica y guía de uso para la plataforma y los servicios de Disboard.",
-    "icon": "",
-    "headerBackgroundImg": "proyecto-disboard-docs.png",
-    "status": "En Desarrollo",
-    "tech": [
-      "VitePress",
-      "Vue"
-    ],
-    "favicon": "/assets/img/favicons/docs-disboard-team.png",
-    "text": "Disboard Documentación v1",
-    "url": "https://docs.disboard.team",
-    "link": "/proyecto/disboard-docs",
-    "github": "https://github.com/Qu4k3/disboard-docs"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2018",
-    "yearEnd": "2020",
-    "yearPublished": "2020",
-    "title": "Disboard Discord Bot v0",
-    "description": "Bot de Discord para automatizar la publicación y gestión de servidores dentro de Disboard.",
+    "yearEnd": "2019",
+    "yearPublished": "2018",
+    "title": "Lakitu (Discord Bot)",
+    "description": "Bot independiente para apoyar la moderación de la comunidad española de Mario Kart, con acciones para representantes de equipos y bienvenida automática.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": [
-      "Express",
-      "Discord.js v11"
-    ],
-    "favicon": "/assets/img/favicons/bot-disboard-team.png",
-    "text": "Disboard Bot",
-    "url": "https://bot.disboard.team/v0/",
-    "link": "/proyecto/disboard-bot-v0",
-    "github": "https://github.com/Qu4k3/disboard-bot"
-  },
-  {
-    "type": "personal",
-    "yearStart": "2026",
-    "yearEnd": "",
-    "yearPublished": "2026",
-    "title": "Disboard Discord Bot v1",
-    "description": "Nueva versión del bot de Discord para automatizar la publicación y gestión de servidores dentro de Disboard.",
-    "icon": "",
-    "headerBackgroundImg": "",
-    "status": "En Desarrollo",
     "tech": [
       "Node.js",
-      "Discord.js"
+      "Express",
+      "Discord.js",
+      "Webhooks",
+      "Glitch",
+      "Fly.io"
     ],
-    "favicon": "/assets/img/favicons/bot-disboard-team.png",
-    "text": "Disboard Discord Bot v1",
-    "url": "https://bot.disboard.team",
-    "link": "/proyecto/disboard-bot",
-    "github": "https://github.com/Qu4k3/disboard-bot"
+    "favicon": "/assets/img/projects/logos/mk-lakitu.png",
+    "text": "Lakitu",
+    "url": "",
+    "link": "/proyectos/mk-lakitu",
+    "github": "https://github.com/Qu4k3/lakitu-bot",
+    "group": "mariokart"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "Torneo Interautonómico de Mario Kart",
+    "description": "Web informativa para un torneo de Mario Kart por comunidades autónomas, con normas, inscripción, calendario y resultados.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "GSAP",
+      "Flickity"
+    ],
+    "favicon": "/assets/img/projects/logos/mk-torneo.webp",
+    "text": "Torneo Interautonómico",
+    "url": "https://qu4k3.com/archive/mk/mariokartworld/torneo-interautonomico/index.html",
+    "link": "/proyectos/mk-torneo-interautonomico",
+    "github": "",
+    "group": "mariokart"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "Spanish National League (SNL)",
+    "description": "Web de la Liga Española de Mario Kart 8 Deluxe, con resultados semanales, tablas y clasificaciones.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "Flat UI Pro",
+      "Video.js",
+      "Google Analytics"
+    ],
+    "favicon": "/assets/img/projects/logos/mk-snl.webp",
+    "text": "SNL",
+    "url": "https://qu4k3.com/archive/mk/mariokartworld/snl/index.html",
+    "link": "/proyectos/mk-snl",
+    "github": "",
+    "group": "mariokart"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2017",
+    "yearEnd": "2020",
+    "yearPublished": "2017",
+    "title": "Monster Hunter World Guild",
+    "description": "Landing de presentación de una nueva plataforma de Monster Hunter World, con registro por correo para recibir actualizaciones.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "MySQL"
+    ],
+    "favicon": "/assets/img/projects/logos/mhw-guild.jpg",
+    "text": "MHW Guild",
+    "url": "https://mhwguild.com",
+    "link": "/proyectos/mhw-guild",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2017",
+    "yearEnd": "2017",
+    "yearPublished": "2017",
+    "dateRange": "09/02/2017",
+    "title": "Zerg Pulse",
+    "description": "Prueba de juego multijugador en línea para navegador, con salas y control del personaje mediante el teclado.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "favicon": "/assets/img/projects/logos/zerg-pulse.gif",
+    "text": "Zerg Pulse",
+    "url": "https://github.com/Qu4k3/zerg-pulse",
+    "link": "/proyectos/zerg-pulse",
+    "github": "https://github.com/Qu4k3/zerg-pulse"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2017",
+    "yearEnd": "2017",
+    "yearPublished": "2017",
+    "dateRange": "18/02/2017",
+    "title": "Pong",
+    "description": "Juego clásico de Pong para navegador, dibujado con HTML5 Canvas y programado en JavaScript.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Canvas"
+    ],
+    "favicon": "/assets/img/projects/logos/pong.png",
+    "text": "Pong",
+    "url": "https://qu4k3.com/pong",
+    "link": "/proyectos/pong",
+    "github": "https://github.com/Qu4k3/pong"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2017",
+    "yearEnd": "",
+    "yearPublished": "2017",
+    "dateRange": "2017",
+    "title": "E-Card Game",
+    "description": "Juego web de E-Card inspirado en el anime Kaiji, desarrollado con HTML, CSS y JavaScript.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/favicons/ecardgame-io.png",
+    "text": "E-Card Game",
+    "url": "https://ecardgame.io",
+    "link": "/proyectos/ecard-game",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2017",
+    "yearEnd": "2021",
+    "yearPublished": "2017",
+    "title": "ASCII Art",
+    "description": "Plataforma para subir y compartir diseños y dibujos en ASCII.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "Ruby on Rails"
+    ],
+    "favicon": "/assets/img/projects/logos/ascii-art.gif",
+    "text": "ASCII Art",
+    "url": "https://asciiart.io",
+    "link": "/proyectos/ascii-art",
+    "github": "https://github.com/Qu4k3/asciiart"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2016",
+    "yearEnd": "2022",
+    "yearPublished": "2016",
+    "title": "Kiznaiver",
+    "description": "Landing dedicada a Kiznaiver, con la introducción del anime como vídeo de fondo.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/projects/logos/kiznaiver.png",
+    "text": "Kiznaiver",
+    "url": "https://qu4k3.com/archive/kiznaiver/",
+    "link": "/proyectos/kiznaiver",
+    "github": "https://github.com/Qu4k3/kiznaiver"
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2026",
+    "yearEnd": "",
+    "yearPublished": "2026",
+    "dateRange": "Desde 2026",
+    "title": "Transcontrol App",
+    "description": "Aplicación web de gestión para empresas de transporte, con control de vehículos, conductores, servicios, documentación y métricas de flota.",
+    "icon": "",
+    "headerBackgroundImg": "proyecto-transcontrol-app.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "React",
+      "MUI",
+      "SPA",
+      "Dashboard"
+    ],
+    "favicon": "/assets/img/favicons/transcontrol.svg",
+    "text": "Transcontrol — App",
+    "url": "https://app.transcontrol.es",
+    "link": "/proyectos/transcontrol-app"
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2026",
+    "yearEnd": "",
+    "yearPublished": "2026",
+    "dateRange": "Desde 2026",
+    "title": "Transcontrol",
+    "description": "Landing comercial para Transcontrol, optimizada para presentar la plataforma de transporte, captar solicitudes de demo y mejorar su posicionamiento orgánico.",
+    "icon": "",
+    "headerBackgroundImg": "proyecto-transcontrol.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "Astro",
+      "MUI",
+      "SEO técnico",
+      "SEO on-page"
+    ],
+    "favicon": "/assets/img/favicons/transcontrol.svg",
+    "text": "Transcontrol — Landing",
+    "url": "https://transcontrol.es",
+    "link": "/proyectos/transcontrol"
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2024",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "Pocket Link",
+    "description": "Nueva versión de Pocket Link para guardar, organizar y compartir enlaces desde una interfaz web sencilla.",
+    "icon": "",
+    "headerBackgroundImg": "pckt-link-home.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "Next.js",
+      "Mantine",
+      "Vercel",
+      "Amazon Dynamo DB"
+    ],
+    "favicon": "/assets/img/projects/logos/pckt-link.webp",
+    "text": "Pocket Link",
+    "url": "https://pckt.link",
+    "link": "/proyectos/pckt-link",
+    "github": "https://github.com/pckt-link/pckt-link"
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2016",
+    "yearEnd": "",
+    "yearPublished": "2016",
+    "title": "Fibers",
+    "description": "Plataforma educativa para organizar recursos, apuntes y contenidos de estudiantes de informática.",
+    "icon": "",
+    "headerBackgroundImg": "proyecto-fibers.png",
+    "status": "En Desarrollo",
+    "tech": [
+      "Astro",
+      "MUI",
+      "Supabase"
+    ],
+    "favicon": "/assets/img/favicons/fibers-cat.png",
+    "text": "Fibers",
+    "url": "https://fibers.cat",
+    "link": "/proyectos/fibers",
+    "github": "https://github.com/fibers-cat/fibers"
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2018",
+    "yearEnd": "2019",
+    "yearPublished": "2018",
+    "title": "Anime Institute",
+    "description": "Sitio web y comunidad dedicada a compartir contenidos y recursos sobre anime.",
+    "icon": "",
+    "headerBackgroundImg": "animeinstitute.png",
+    "status": "Finalizado",
+    "tech": [
+      "Wordpress"
+    ],
+    "favicon": "/assets/img/favicons/anime-institute.png",
+    "text": "Anime Institute",
+    "url": "https://animeinstitute.net",
+    "link": "/proyectos/animeinstitute"
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "NVersus",
+    "description": "Proyecto web experimental centrado en una comunidad y contenidos de entretenimiento.",
+    "icon": "/assets/img/projects/icons/nversus.png",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "Wordpress"
+    ],
+    "favicon": "/assets/img/projects/logos/nversus.png",
+    "text": "NVersus",
+    "url": "https://nversus.com",
+    "link": "/proyectos/nversus",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "Discord Themes",
+    "description": "Era un repositorio de plantillas de Discord para visualizar y descargar en un click, con contadores de descarga y guías de uso. Se desarrolló usando Flat-UI. En paralelo, el equipo de BetterDiscord estaba desarrollando lo mismo. Acabé transfiriendo el dominio al equipo detrás de NotAnotherAnimeTheme y a la gente de abstractconcept.studio.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "Flat"
+    ],
+    "favicon": "/assets/img/projects/logos/discordthemes.webp",
+    "text": "Discord Themes",
+    "url": "https://discordthemes.net",
+    "link": "/proyectos/discordthemes",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2018",
+    "yearEnd": "2019",
+    "yearPublished": "2018",
+    "title": "iForce Team",
+    "description": "Página de presentación de un equipo competitivo de esports.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "Wordpress"
+    ],
+    "favicon": "/assets/img/projects/logos/ice-force.webp",
+    "text": "iForce Team",
+    "url": "https://iceforce.team",
+    "link": "/proyectos/iforce-team",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2018",
+    "yearEnd": "2019",
+    "yearPublished": "2018",
+    "title": "Federación Española de Mario Kart (FEMK)",
+    "description": "Sitio web en WordPress de la Federación Española de Mario Kart.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "WordPress"
+    ],
+    "favicon": "/assets/img/projects/logos/femk.webp",
+    "text": "FEMK",
+    "url": "https://femk.es",
+    "link": "/proyectos/mk-femk",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2017",
+    "yearEnd": "2020",
+    "yearPublished": "2017",
+    "title": "Mario Kart World",
+    "description": "Web de la comunidad española de Mario Kart para presentar torneos, estadísticas y competiciones nacionales.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "Bootstrap 3.3.7"
+    ],
+    "favicon": "/assets/img/projects/logos/mkw.png",
+    "text": "Mario Kart World",
+    "url": "https://qu4k3.com/archive/mk/mariokartworld/",
+    "link": "/proyectos/mk-mkw",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2017",
+    "yearEnd": "2018",
+    "yearPublished": "2017",
+    "title": "Comunidad Española de Mario Kart (CEMK)",
+    "description": "Sitio WordPress con noticias de la comunidad española de Mario Kart.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "WordPress"
+    ],
+    "favicon": "/assets/img/projects/logos/cemk.png",
+    "text": "CEMK",
+    "url": "https://cemk.es",
+    "link": "/proyectos/mk-cemk",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2017",
+    "yearEnd": "2019",
+    "yearPublished": "2017",
+    "title": "NotAnotherAnimeTheme",
+    "description": "Tema altamente personalizable para Discord, compatible con BetterDiscord y Powercord, con control total sobre fondos, columnas y colores de la interfaz.",
+    "icon": "",
+    "headerBackgroundImg": "notanotheranimetheme.jpg",
+    "status": "En Desarrollo",
+    "tech": [
+      "CSS",
+      "BetterDiscord"
+    ],
+    "favicon": "/assets/img/projects/logos/notanotheranimetheme.webp",
+    "text": "NotAnotherAnimeTheme",
+    "url": "https://betterdiscord.app/theme/NotAnotherAnimeTheme",
+    "link": "/proyectos/notanotheranimetheme",
+    "github": "https://github.com/puckzxz/NotAnotherAnimeTheme"
   },
   {
     "type": "cliente",
@@ -379,52 +750,8 @@
     "favicon": "/assets/img/favicons/kinfelina-org.png",
     "text": "Kin Felina",
     "url": "https://kinfelina.org/",
-    "link": "/proyecto/kinfelina",
+    "link": "/proyectos/kinfelina",
     "github": "https://github.com/kinfelina/web"
-  },
-  {
-    "type": "cliente",
-    "yearStart": "2026",
-    "yearEnd": "",
-    "yearPublished": "2026",
-    "dateRange": "Desde 2026",
-    "title": "Transcontrol App",
-    "description": "Aplicación web de gestión para empresas de transporte, con control de vehículos, conductores, servicios, documentación y métricas de flota.",
-    "icon": "",
-    "headerBackgroundImg": "proyecto-transcontrol-app.png",
-    "status": "Finalizado",
-    "tech": [
-      "React",
-      "MUI",
-      "SPA",
-      "Dashboard"
-    ],
-    "favicon": "/assets/img/favicons/transcontrol.svg",
-    "text": "Transcontrol App",
-    "url": "https://app.transcontrol.es",
-    "link": "/proyecto/transcontrol-app"
-  },
-  {
-    "type": "cliente",
-    "yearStart": "2026",
-    "yearEnd": "",
-    "yearPublished": "2026",
-    "dateRange": "Desde 2026",
-    "title": "Transcontrol",
-    "description": "Landing comercial para Transcontrol, optimizada para presentar la plataforma de transporte, captar solicitudes de demo y mejorar su posicionamiento orgánico.",
-    "icon": "",
-    "headerBackgroundImg": "proyecto-transcontrol.png",
-    "status": "Finalizado",
-    "tech": [
-      "Astro",
-      "MUI",
-      "SEO técnico",
-      "SEO on-page"
-    ],
-    "favicon": "/assets/img/favicons/transcontrol.svg",
-    "text": "Transcontrol",
-    "url": "https://transcontrol.es",
-    "link": "/proyecto/transcontrol"
   },
   {
     "type": "cliente",
@@ -436,7 +763,7 @@
     "description": "Sitio web corporativo y catálogo inmobiliario para Finques Mireia, una inmobiliaria centrada en las necesidades de las personas.",
     "icon": "",
     "headerBackgroundImg": "proyecto-finques-mireia.png",
-    "status": "Finalizado",
+    "status": "En Desarrollo",
     "tech": [
       "Wordpress",
       "Elementor",
@@ -446,7 +773,7 @@
     "favicon": "/assets/img/favicons/finquesmireia-com.png",
     "text": "Finques Mireia",
     "url": "https://finquesmireia.com/",
-    "link": "/proyecto/finques-mireia"
+    "link": "/proyectos/finques-mireia"
   },
   {
     "type": "cliente",
@@ -470,7 +797,7 @@
     "favicon": "/assets/img/favicons/iberiaestimulantes-com.png",
     "text": "Iberia Estimulantes",
     "url": "https://iberiaestimulantes.com/",
-    "link": "/proyecto/iberia-estimulantes"
+    "link": "/proyectos/iberia-estimulantes"
   },
   {
     "type": "cliente",
@@ -493,7 +820,7 @@
     "favicon": "/assets/img/favicons/hucaconstructora-com.png",
     "text": "HUCA Constructora",
     "url": "https://hucaconstructora.com/",
-    "link": "/proyecto/huca-constructora"
+    "link": "/proyectos/huca-constructora"
   },
   {
     "type": "cliente",
@@ -511,10 +838,10 @@
       "Docker",
       "PostgreSQL"
     ],
-    "favicon": "/assets/img/favicons/cms-tratar-es.png",
+    "favicon": "",
     "text": "Tratar CMS",
     "url": "https://cms.tratar.es",
-    "link": "/proyecto/tratar",
+    "link": "/proyectos/tratar",
     "github": "https://github.com/webmaster-tratar/recordar-cms-directus"
   },
   {
@@ -522,22 +849,28 @@
     "yearStart": "2021",
     "yearEnd": "2021",
     "yearPublished": "2021",
-    "title": "CEU Eventos (App)",
-    "description": "Aplicación móvil para consultar y gestionar eventos de CEU mediante integración con Microsoft Dynamics.",
+    "title": "UAO App Eventos",
+    "description": "Aplicación web para la gestión de eventos y acciones promocionales en los centros, con códigos QR y formularios multiidioma.",
     "icon": "",
     "headerBackgroundImg": "",
-    "status": "Abandonado",
+    "status": "Finalizado",
     "tech": [
-      "React Native",
-      "Expo",
-      "Async Storage",
-      "Microsoft Dynamics API"
+      "React",
+      "Next.js",
+      "React Hooks",
+      "Postman",
+      "Node.js",
+      "Vercel",
+      "Bootstrap 5",
+      "qrcode.react",
+      "react-hook-form",
+      "react-toast-notifications"
     ],
     "favicon": "/assets/img/favicons/ceu-es.png",
-    "text": "CEU Eventos (App)",
-    "url": "https://ceu.es",
-    "link": "/proyecto/ceu-events-scanner",
-    "github": "https://github.com/Qu4k3/ceu-events-scanner"
+    "text": "UAO App Eventos",
+    "url": "https://eventos.uao.es",
+    "link": "/proyectos/uao-app-events",
+    "github": "https://github.com/Qu4k3/uao-app-eventos"
   },
   {
     "type": "cliente",
@@ -548,7 +881,7 @@
     "description": "Sitio web corporativo multilingüe para L'Esmena, desarrollado con WordPress y herramientas de edición visual.",
     "icon": "",
     "headerBackgroundImg": "esmena.png",
-    "status": "Finalizado",
+    "status": "En Desarrollo",
     "tech": [
       "Wordpress",
       "Elementor",
@@ -560,29 +893,30 @@
     "favicon": "/assets/img/favicons/esmena-cat.png",
     "text": "L'Esmena",
     "url": "https://esmena.cat",
-    "link": "/proyecto/esmena"
+    "link": "/proyectos/esmena"
   },
   {
     "type": "cliente",
     "yearStart": "2021",
     "yearEnd": "2021",
-    "yearPublished": "",
+    "yearPublished": "2021",
     "title": "Llibrenet",
-    "description": "Sitio web para Llibrenet orientado a presentar su actividad y servicios editoriales.",
+    "description": "Auditoría de seguridad y planteamiento de actualizaciones para el sitio de Llibrenet.",
     "icon": "",
     "headerBackgroundImg": "proyecto-llibrenet.png",
     "status": "Finalizado",
-    "tech": [],
+    "tech": [
+      "WordPress"
+    ],
     "favicon": "/assets/img/favicons/llibrenet-com.png",
     "text": "Llibrenet",
     "url": "https://llibrenet.com",
-    "link": "/proyecto/llibrenet"
+    "link": "/proyectos/llibrenet"
   },
   {
     "type": "cliente",
     "yearStart": "2021",
     "yearEnd": "2022",
-    "yearPublished": "",
     "title": "inOne",
     "description": "Sistema de plantillas y contenidos para crear comunicaciones digitales y campañas de email.",
     "icon": "",
@@ -595,10 +929,10 @@
       "Laravel",
       "Node"
     ],
-    "favicon": "/assets/img/favicons/inone-es.png",
+    "favicon": "/assets/img/projects/logos/inone.svg",
     "text": "inOne",
     "url": "https://inone.es",
-    "link": "/proyecto/inone"
+    "link": "/proyectos/inone"
   },
   {
     "type": "cliente",
@@ -619,18 +953,18 @@
     "favicon": "/assets/img/favicons/mailing-repo-vercel-app.png",
     "text": "UAO Mailing Repository",
     "url": "https://mailing-repo.vercel.app",
-    "link": "/proyecto/uao-mailing-repository"
+    "link": "/proyectos/uao-mailing-repository"
   },
   {
     "type": "cliente",
     "yearStart": "2020",
-    "yearEnd": "",
-    "yearPublished": "",
+    "yearEnd": "2020",
+    "yearPublished": "2020",
     "title": "Farell Editors",
     "description": "Sitio web corporativo para Farell Editors, editorial especializada en edición y contenidos.",
     "icon": "",
     "headerBackgroundImg": "farelleditors.png",
-    "status": "Finalizado",
+    "status": "En Desarrollo",
     "tech": [
       "Wordpress",
       "OVH"
@@ -638,13 +972,12 @@
     "favicon": "/assets/img/favicons/farelleditors-cat.png",
     "text": "Farell Editors",
     "url": "https://farelleditors.cat",
-    "link": "/proyecto/farell-editors"
+    "link": "/proyectos/farell-editors"
   },
   {
     "type": "cliente",
     "yearStart": "2020",
     "yearEnd": "2021",
-    "yearPublished": "",
     "title": "Globalex Consulting",
     "description": "Sitio web corporativo para presentar los servicios de consultoría de Globalex.",
     "icon": "",
@@ -657,13 +990,12 @@
     "favicon": "/assets/img/favicons/pmglobalex-com.png",
     "text": "Globalex Consulting",
     "url": "https://pmglobalex.com",
-    "link": "/proyecto/globalex"
+    "link": "/proyectos/globalex"
   },
   {
     "type": "cliente",
     "yearStart": "2020",
     "yearEnd": "2020",
-    "yearPublished": "",
     "title": "LEI Network",
     "description": "Sitio web corporativo para la red LEI y la presentación de sus servicios profesionales.",
     "icon": "",
@@ -675,18 +1007,17 @@
     "favicon": "/assets/img/favicons/lei-network-com.png",
     "text": "LEI Network",
     "url": "https://lei-network.com",
-    "link": "/proyecto/lei-network"
+    "link": "/proyectos/lei-network"
   },
   {
     "type": "cliente",
     "yearStart": "2019",
     "yearEnd": "2019",
-    "yearPublished": "",
     "title": "JS Arquitecto",
     "description": "Sitio web profesional para mostrar los servicios y proyectos de un estudio de arquitectura.",
     "icon": "",
     "headerBackgroundImg": "js-arquitecto.png",
-    "status": "Finalizado",
+    "status": "En Desarrollo",
     "tech": [
       "Wordpress",
       "OVH"
@@ -694,13 +1025,13 @@
     "favicon": "/assets/img/favicons/js-arquitecto-com.png",
     "text": "JS Arquitecto",
     "url": "https://js-arquitecto.com",
-    "link": "/proyecto/js-arquitecto"
+    "link": "/proyectos/js-arquitecto"
   },
   {
     "type": "cliente",
     "yearStart": "2019",
     "yearEnd": "2019",
-    "yearPublished": "",
+    "yearPublished": "2019",
     "title": "Go To iKoncierge",
     "description": "Sitio web para presentar servicios de conserjería y experiencias personalizadas para clientes.",
     "icon": "",
@@ -710,16 +1041,15 @@
       "Wordpress",
       "OVH"
     ],
-    "favicon": "/assets/img/favicons/gotoikoncierge-com.png",
+    "favicon": "/assets/img/projects/logos/gotoikoncierge.png",
     "text": "Go To iKoncierge",
     "url": "https://gotoikoncierge.com",
-    "link": "/proyecto/gotoikoncierge"
+    "link": "/proyectos/gotoikoncierge"
   },
   {
     "type": "cliente",
     "yearStart": "2019",
     "yearEnd": "2019",
-    "yearPublished": "",
     "title": "Wanda T-Shirt",
     "description": "Tienda online para presentar y vender la colección de camisetas de Wanda.",
     "icon": "",
@@ -727,18 +1057,18 @@
     "status": "Finalizado",
     "tech": [
       "Wordpress",
-      "Woo Commerce"
+      "WooCommerce"
     ],
     "favicon": "/assets/img/favicons/wandat-shirt-com.png",
     "text": "Wanda T-Shirt",
     "url": "https://wandat-shirt.com",
-    "link": "/proyecto/wanda-t-shirt"
+    "link": "/proyectos/wanda-t-shirt"
   },
   {
     "type": "cliente",
     "yearStart": "2019",
     "yearEnd": "2019",
-    "yearPublished": "",
+    "yearPublished": "2019",
     "title": "Clínica Abedent Podología",
     "description": "Sitio web informativo para una clínica especializada en podología y atención sanitaria.",
     "icon": "",
@@ -747,35 +1077,15 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/clinicaabedentpodologia-com.png",
+    "favicon": "/assets/img/projects/logos/clinica-abedent-podologia.png",
     "text": "Clínica Abedent Podología",
     "url": "https://clinicaabedentpodologia.com",
-    "link": "/proyecto/clinica-abedent-podologia"
-  },
-  {
-    "type": "cliente",
-    "yearStart": "2018",
-    "yearEnd": "2018",
-    "yearPublished": "",
-    "title": "iconciergeRC",
-    "description": "Sitio web para servicios de conserjería premium y atención personalizada.",
-    "icon": "",
-    "headerBackgroundImg": "",
-    "status": "Finalizado",
-    "tech": [
-      "Wordpress",
-      "OVH"
-    ],
-    "favicon": "/assets/img/favicons/iconciergerc-com.png",
-    "text": "iconciergeRC",
-    "url": "https://iconciergerc.com",
-    "link": "/proyecto/gotoikoncierge"
+    "link": "/proyectos/clinica-abedent-podologia"
   },
   {
     "type": "cliente",
     "yearStart": "2018",
     "yearEnd": "2020",
-    "yearPublished": "",
     "title": "LFB",
     "description": "Sitio web institucional del Liceo Francés de Barcelona.",
     "icon": "",
@@ -787,79 +1097,170 @@
     "favicon": "/assets/img/favicons/lfb-es.png",
     "text": "LFB",
     "url": "https://lfb.es",
-    "link": "/proyecto/lfb"
+    "link": "/proyectos/lfb"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2018",
+    "yearEnd": "2018",
+    "yearPublished": "2018",
+    "title": "iconciergeRC",
+    "description": "Sitio web para servicios de conserjería premium y atención personalizada.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "Wordpress",
+      "OVH"
+    ],
+    "favicon": "/assets/img/projects/logos/iconciergerc.png",
+    "text": "iconciergeRC",
+    "url": "https://iconciergerc.com",
+    "link": "/proyectos/iconciergerc"
   },
   {
     "type": "cliente",
     "yearStart": "2016",
     "yearEnd": "2016",
-    "yearPublished": "",
-    "title": "Evoluginos",
-    "description": "Proyecto web para presentar la actividad y los servicios de Evoluginos.",
+    "yearPublished": "2016",
+    "title": "Panorama d'Art",
+    "description": "Sitio web para Panorama d'Art, proyecto del Institut Barcelonès d'Art.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": [],
-    "favicon": "/assets/img/favicons/evoluginos-com.png",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/projects/logos/iba-institutbarcelonesdart.jpg",
+    "text": "Panorama d'Art",
+    "url": "https://panoramadart.com",
+    "link": "/proyectos/iba-panoramadart",
+    "github": "",
+    "group": "iba"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2016",
+    "yearEnd": "2016",
+    "yearPublished": "2016",
+    "title": "B151 Barcelona",
+    "description": "Sitio web para B151 Barcelona, proyecto del Institut Barcelonès d'Art.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/projects/logos/b151-barcelona.png",
+    "text": "B151 Barcelona",
+    "url": "https://b151barcelona.com",
+    "link": "/proyectos/iba-b151-barcelona",
+    "github": "",
+    "group": "iba"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2016",
+    "yearEnd": "2016",
+    "yearPublished": "2016",
+    "title": "Institut Barcelonès d'Art",
+    "description": "Sitio web para el Institut Barcelonès d'Art.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "WordPress"
+    ],
+    "favicon": "/assets/img/projects/logos/iba-institutbarcelonesdart.jpg",
+    "text": "Institut Barcelonès d'Art",
+    "url": "https://iba.cat",
+    "link": "/proyectos/iba-institutbarcelonesdart",
+    "github": "",
+    "group": "iba"
+  },
+  {
+    "type": "cliente",
+    "yearStart": "2016",
+    "yearEnd": "2016",
+    "yearPublished": "2016",
+    "title": "Evoluginos",
+    "description": "Sitio web para presentar la actividad y los servicios de Evoluginos.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Finalizado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/projects/logos/evoluginos.png",
     "text": "Evoluginos",
     "url": "https://evoluginos.com",
-    "link": "/proyecto/evoluginos"
+    "link": "/proyectos/evoluginos"
   },
   {
     "type": "cliente",
     "yearStart": "2016",
     "yearEnd": "2016",
-    "yearPublished": "",
+    "yearPublished": "2016",
     "title": "Marketplace Barcelona",
-    "description": "Propuesta de marketplace para reunir productos y servicios de comercios de Barcelona.",
+    "description": "Desarrollo de una landing y diseño de piezas impresas para una propuesta de marketplace de comercios de Barcelona.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": [],
-    "favicon": "/assets/img/favicons/marketplacebarcelona-com.png",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "/assets/img/projects/logos/marketplace-barcelona.png",
     "text": "Marketplace Barcelona",
     "url": "https://marketplacebarcelona.com",
-    "link": "/proyecto/marketplace-barcelona"
+    "link": "/proyectos/marketplace-barcelona"
   },
   {
     "type": "cliente",
     "yearStart": "2016",
     "yearEnd": "2016",
-    "yearPublished": "",
     "title": "KRN Accessories",
-    "description": "Sitio web para presentar una colección de accesorios y productos de moda.",
+    "description": "Sitio web en WordPress para presentar una colección de accesorios y productos de moda.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
-    "tech": [],
-    "favicon": "/assets/img/favicons/krnaccessories-com.png",
+    "tech": [
+      "WordPress"
+    ],
+    "favicon": "/assets/img/projects/logos/krn-accessories.jpg",
     "text": "KRN Accessories",
     "url": "https://krnaccessories.com",
-    "link": "/proyecto/krn-accessories"
+    "link": "/proyectos/krn-accessories"
   },
   {
     "type": "cliente",
     "yearStart": "2016",
     "yearEnd": "2016",
-    "yearPublished": "",
     "title": "Lovely Families",
-    "description": "Sitio web para presentar servicios y recursos dirigidos a familias.",
+    "description": "Auditoría de marketing de un sitio web en WordPress para servicios y recursos dirigidos a familias.",
     "icon": "",
     "headerBackgroundImg": "lovelyfamilies.png",
     "status": "Finalizado",
     "tech": [
+      "WordPress",
       "Google Analytics"
     ],
     "favicon": "/assets/img/favicons/lovelyfamilies-com.png",
     "text": "Lovely Families",
     "url": "https://lovelyfamilies.com",
-    "link": "/proyecto/lovelyfamilies"
+    "link": "/proyectos/lovelyfamilies"
   },
   {
     "type": "cliente",
     "yearStart": "2016",
     "yearEnd": "2016",
-    "yearPublished": "",
     "title": "AccelGrow",
     "description": "Sitio web corporativo para presentar los servicios y la propuesta de valor de AccelGrow.",
     "icon": "",
@@ -868,16 +1269,17 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/accelgrow-com.png",
+    "favicon": "/assets/img/projects/logos/accelgrow.png",
     "text": "AccelGrow",
     "url": "https://accelgrow.com",
-    "link": "/proyecto/accelgrow"
+    "link": "/proyectos/accelgrow",
+    "group": "accelgrow"
   },
   {
     "type": "cliente",
     "yearStart": "2016",
     "yearEnd": "2016",
-    "yearPublished": "",
+    "yearPublished": "2016",
     "title": "Boostartup",
     "description": "Sitio web para presentar servicios de apoyo, estrategia y crecimiento para startups.",
     "icon": "",
@@ -886,16 +1288,17 @@
     "tech": [
       "Wordpress"
     ],
-    "favicon": "/assets/img/favicons/boostartup-es.png",
+    "favicon": "",
     "text": "Boostartup",
     "url": "https://boostartup.es",
-    "link": "/proyecto/boostartup"
+    "link": "/proyectos/boostartup",
+    "group": "accelgrow"
   },
   {
     "type": "cliente",
     "yearStart": "2015",
     "yearEnd": "2015",
-    "yearPublished": "",
+    "yearPublished": "2015",
     "title": "Medical Nutribalance",
     "description": "Sitio web informativo para servicios relacionados con nutrición y bienestar.",
     "icon": "",
@@ -905,84 +1308,284 @@
       "HTML5",
       "CSS3"
     ],
-    "favicon": "/assets/img/favicons/medicalnutribalance-com.png",
+    "favicon": "/assets/img/projects/logos/medical-nutribalance.png",
     "text": "Medical Nutribalance",
     "url": "https://medicalnutribalance.com",
-    "link": "/proyecto/medical-nutribalance"
+    "link": "/proyectos/medical-nutribalance"
   },
   {
-    "type": "otros",
-    "yearStart": "2018",
-    "yearEnd": "2019",
-    "yearPublished": "2018",
-    "title": "Anime Institute",
-    "description": "Sitio web y comunidad dedicada a compartir contenidos y recursos sobre anime.",
+    "type": "personal",
+    "yearStart": "2015",
+    "yearEnd": "2023",
+    "yearPublished": "2015",
+    "title": "CSGO Bots",
+    "description": "Iba a ser un repositorio de bots disponibles para transacciones de mercados y transferencias en CSGO.",
     "icon": "",
-    "headerBackgroundImg": "animeinstitute.png",
-    "status": "Finalizado",
-    "tech": [
-      "Wordpress"
-    ],
-    "favicon": "/assets/img/favicons/animeinstitute-net.png",
-    "text": "Anime Institute",
-    "url": "https://animeinstitute.net",
-    "link": "/proyecto/animeinstitute"
-  },
-  {
-    "type": "otros",
-    "yearStart": "2018",
-    "yearEnd": "2018",
-    "yearPublished": "2018",
-    "title": "NVersus",
-    "description": "Proyecto web experimental centrado en una comunidad y contenidos de entretenimiento.",
-    "icon": "/assets/img/projects/icons/nversus.png",
     "headerBackgroundImg": "",
     "status": "Abandonado",
-    "tech": [
-      "Wordpress"
-    ],
-    "favicon": "/assets/img/favicons/nversus-com.png",
-    "text": "NVersus",
-    "url": "https://nversus.com",
-    "link": "/proyecto/nversus",
+    "tech": [],
+    "favicon": "",
+    "text": "CSGO Bots",
+    "url": "https://csgobots.com",
+    "link": "/proyectos/csgo-bots",
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "personal",
+    "yearStart": "2016",
+    "yearEnd": "2022",
+    "yearPublished": "2016",
+    "title": "Xatty",
+    "description": "Iba a ser un chat en línea con websocket con temática hacker.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [],
+    "favicon": "",
+    "text": "Xatty",
+    "url": "https://xatty.net",
+    "link": "/proyectos/xatty",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2016",
+    "yearEnd": "2017",
+    "yearPublished": "2016",
+    "title": "Pikotas",
+    "description": "Iba a ser una landing divertida como ejercicio práctico de entrenamiento al diseño y animación con HTML, CSS y JS para la famosa marca de caramelos.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "favicon": "",
+    "text": "Pikotas",
+    "url": "https://pikotas.com",
+    "link": "/proyectos/pikotas",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2017",
+    "yearEnd": "2021",
+    "yearPublished": "2017",
+    "title": "Insofting",
+    "description": "Iba a ser mi empresa o mi nombre tras hacerme autónomo; era un sitio desarrollado con WordPress. Fue el precursor de Tau Studio, evolucionando hacia algo más serio y maduro.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "WordPress"
+    ],
+    "favicon": "/assets/img/favicons/insofting.svg",
+    "text": "Insofting",
+    "url": "https://insofting.com",
+    "link": "/proyectos/insofting",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
     "yearStart": "2018",
-    "yearEnd": "2018",
+    "yearEnd": "2021",
     "yearPublished": "2018",
-    "title": "Discord Themes",
+    "title": "Mundolibros",
+    "description": "Era un repositorio de descarga gratuita de libros nutrido de colecciones de terceros, desarrollado con Ruby on Rails.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "Ruby on Rails"
+    ],
+    "favicon": "/assets/img/favicons/mundolibros.svg",
+    "text": "Mundolibros",
+    "url": "https://mundolibros.net",
+    "link": "/proyectos/mundolibros",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2018",
+    "yearEnd": "2021",
+    "yearPublished": "2018",
+    "title": "Kid Paddle",
+    "description": "La web oficial del autor requería Flash y la navegación y acceso a la información era complicada. Iba a ser una web de entrenamiento para promover sin ánimo de lucro el trabajo y material del autor.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [],
+    "favicon": "",
+    "text": "Kid Paddle",
+    "url": "https://kidpaddle.net",
+    "link": "/proyectos/kid-paddle",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2019",
+    "yearEnd": "2020",
+    "yearPublished": "2019",
+    "title": "Pagui",
+    "description": "Fue un intento de salir de \"Insofting\" a algo más personal, pero no acabó materializándose, y pasó a ser Tau Studio.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [],
+    "favicon": "",
+    "text": "Pagui",
+    "url": "https://pagui.net",
+    "link": "/proyectos/pagui",
+    "github": "https://github.com/Qu4k3/pagui"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2019",
+    "yearEnd": "2021",
+    "yearPublished": "2019",
+    "title": "Malthemes",
     "description": "Colección de temas visuales personalizados para Discord.",
     "icon": "",
     "headerBackgroundImg": "",
-    "status": "Abandonado",
+    "status": "Finalizado",
     "tech": [
-      "Flat"
+      "Flat UI",
+      "BetterDiscord"
     ],
-    "favicon": "/assets/img/favicons/discordthemes-net.png",
-    "text": "Discord Themes",
-    "url": "https://discordthemes.net",
-    "link": "/proyecto/dthemes",
+    "favicon": "",
+    "text": "Malthemes",
+    "url": "https://malthemes.com",
+    "link": "/proyectos/malthemes",
     "github": ""
   },
   {
-    "type": "otros",
+    "type": "colaborativo",
     "yearStart": "2018",
-    "yearEnd": "2019",
+    "yearEnd": "2018",
     "yearPublished": "2018",
-    "title": "iForce Team",
-    "description": "Sitio web para presentar una comunidad y equipo dedicado a proyectos digitales.",
+    "title": "Abstract Concept",
+    "description": "Ayudé a montar la web de Abstract Concept Studio en WordPress.",
     "icon": "",
     "headerBackgroundImg": "",
     "status": "Finalizado",
     "tech": [
-      "Wordpress"
+      "WordPress"
     ],
-    "favicon": "/assets/img/favicons/iceforce-team.png",
-    "text": "iForce Team",
-    "url": "https://iceforce.team",
-    "link": "/proyecto/iforce-team",
+    "favicon": "/assets/img/projects/logos/abstract-concept.webp",
+    "text": "Abstract Concept",
+    "url": "http://abstractconcept.studio",
+    "link": "/proyectos/abstract-concept-studio",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2019",
+    "yearEnd": "2020",
+    "yearPublished": "2019",
+    "title": "qk3.io",
+    "description": "Era un repositorio de proyectos y de hosting de proyectos, como indica la descripción de GitHub. También fue un entrenamiento o toma de contacto con Vue.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "Abandonado",
+    "tech": [
+      "Vue.js"
+    ],
+    "favicon": "/assets/img/projects/logos/qk3.png",
+    "text": "qk3.io",
+    "url": "https://qk3.io",
+    "link": "/proyectos/qk3",
+    "github": "https://github.com/Qu4k3/qk3.io"
+  },
+  {
+    "type": "personal",
+    "yearStart": "2023",
+    "yearEnd": "",
+    "yearPublished": "2023",
+    "title": "Raffu",
+    "description": "La idea es hacer una plataforma de sorteos similar a app-sorteos.com, easypromosapp.com y simpliers.com, con integración en las principales plataformas.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [],
+    "favicon": "/assets/img/favicons/raffu.svg",
+    "text": "Raffu",
+    "url": "https://raffu.app",
+    "link": "/proyectos/raffu",
+    "github": ""
+  },
+  {
+    "type": "personal",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "Thiéry Gallery",
+    "description": "Es un proyecto que consiste en la colección de sellos de mi abuelo Albert Thiéry.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [],
+    "favicon": "",
+    "text": "Thiéry Gallery",
+    "url": "https://thiery.gallery",
+    "link": "/proyectos/thiery-gallery",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "AGRO lens",
+    "description": "",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [],
+    "favicon": "",
+    "text": "AGRO lens",
+    "url": "",
+    "link": "/proyectos/agro-lens",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "VET lens — App",
+    "description": "Versión de MEDI lens para medicamentos veterinarios (app).",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [
+      "Expo"
+    ],
+    "favicon": "/assets/img/projects/logos/vetlens.png",
+    "text": "VET lens — App",
+    "url": "",
+    "link": "/proyectos/vetlens-app",
+    "github": ""
+  },
+  {
+    "type": "colaborativo",
+    "yearStart": "2025",
+    "yearEnd": "",
+    "yearPublished": "2025",
+    "title": "VET lens — Landing",
+    "description": "Versión de MEDI lens para medicamentos veterinarios.",
+    "icon": "",
+    "headerBackgroundImg": "",
+    "status": "En Desarrollo",
+    "tech": [
+      "Astro",
+      "Netlify"
+    ],
+    "favicon": "/assets/img/projects/logos/vetlens.png",
+    "text": "VET lens — Landing",
+    "url": "https://vetlens.es",
+    "link": "/proyectos/vetlens",
     "github": ""
   }
 ]

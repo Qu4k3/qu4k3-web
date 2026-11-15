@@ -1,3 +1,0 @@
-# NVersus
-
-## *Pendiente de definir*

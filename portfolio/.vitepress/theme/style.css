@@ -353,6 +353,16 @@ body {
   background: transparent;
 }
 
+.vp-doc .project-logo-alt img {
+  width: auto;
+  height: auto;
+  max-width: min(450px, 100%);
+  margin: 0;
+  margin-top: 20px;
+  border: 0;
+  background: transparent;
+}
+
 .vp-doc .about-intro {
   display: grid;
   grid-template-columns: minmax(180px, 0.42fr) minmax(0, 1fr);

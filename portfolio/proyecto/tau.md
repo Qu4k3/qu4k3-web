@@ -13,7 +13,6 @@ const technologies = [
 
 # <span class="project-logo"><img src="/assets/img/projects/tau-logo.svg" alt="" aria-hidden="true" width="48" height="48" /></span> Tau Studio
 
-
 ## Enlaces
 
 <div class="about-actions">

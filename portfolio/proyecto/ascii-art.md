@@ -46,6 +46,6 @@ Plataforma para subir y compartir diseños y dibujos en ASCII.
 
 | Dominio | Alta (WHOIS/RDAP) | Fin de uso |
 |---|---|---|
-| [asciiart.io](https://asciiart.io) | No publicada | 09/01/2021 (dato aportado) |
+| [asciiart.io](https://asciiart.io) | 09/01/2017 | 09/01/2021 (dato aportado) |
 
 Dominio propio utilizado del 09/01/2017 al 09/01/2021, según el periodo aportado.

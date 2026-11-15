@@ -50,6 +50,6 @@ Aplicación móvil de MEDI lens para consultar información oficial sobre medica
 
 | Dominio | Alta (WHOIS/RDAP) | Fin de uso |
 |---|---|---|
-| [medilens.es](https://medilens.es) | No publicada | — |
+| [medilens.es](https://medilens.es) | 23/10/2024 | - |
 
 La ficha de la aplicación se distribuye desde Google Play; la landing y la aplicación comparten `medilens.es` como dominio del proyecto.

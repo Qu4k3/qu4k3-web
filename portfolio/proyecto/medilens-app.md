@@ -48,7 +48,7 @@ Aplicación móvil de MEDI lens para consultar información oficial sobre medica
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | [medilens.es](https://medilens.es) | 23/10/2024 | - |
 

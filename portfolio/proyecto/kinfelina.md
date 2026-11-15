@@ -44,8 +44,3 @@ Sitio web para Kin Felina.
 |---|---|---|
 | Desde septiembre de 2026 | Desarrollo del sitio web | Sitio web de Kin Felina desarrollado con Astro y desplegado en Netlify. |
 
-## Dominios
-
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [kinfelina.org](https://kinfelina.org/) | [17/05/2026](https://rdap.publicinterestregistry.org/rdap/domain/kinfelina.org) | — |

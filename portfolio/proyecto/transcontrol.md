@@ -56,8 +56,4 @@ Desarrollada con **Astro y MUI**, combina una experiencia rápida y responsive c
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [transcontrol.es](https://transcontrol.es) | [02/07/2015](https://www.dominios.es/sites/dominios/files/Altas%20Julio%202015%20%28ingl%C3%A9s%29.pdf) | — |
-
 La aplicación funciona en `app.transcontrol.es`, un subdominio de `transcontrol.es` sin registro independiente.

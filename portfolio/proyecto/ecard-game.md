@@ -46,6 +46,6 @@ Juego web de E-Card, inspirado en el anime *Gyakkyou Burai Kaiji: Ultimate Survi
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [ecardgame.io](https://ecardgame.io) | 16/01/2017 (dato aportado) | — (activo) |
+| [ecardgame.io](https://ecardgame.io) | 16/01/2017 | — |

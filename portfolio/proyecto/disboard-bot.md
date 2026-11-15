@@ -48,6 +48,6 @@ Bot de Discord creado para facilitar tareas de gestión del equipo, consultar in
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [bot.disboard.team](https://bot.disboard.team) (subdominio de `disboard.team`) | [07/02/2018](https://rdap.org/domain/disboard.team) | — |
+| [bot.disboard.team](https://bot.disboard.team) | Subdominio de `disboard.team` | - |

@@ -47,8 +47,4 @@ Sitio web corporativo para presentar soluciones agrícolas especializadas orient
 |---|---|---|
 | Abril–octubre de 2026 | Desarrollo del sitio corporativo | Web para presentar las soluciones agrícolas de Iberia Estimulantes. |
 
-## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [iberiaestimulantes.com](https://iberiaestimulantes.com/) | [11/02/2026](https://rdap.verisign.com/com/v1/domain/iberiaestimulantes.com) | — |

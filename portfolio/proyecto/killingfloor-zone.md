@@ -49,8 +49,8 @@ Plataforma para consultar estadísticas, logros y contenido de Killing Floor, co
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | [killingfloor.zone](https://killingfloor.zone) | [19/11/2023](https://rdap.identitydigital.services/rdap/domain/killingfloor.zone) | — |
-| [killingfloor.info](https://killingfloor.info) | 19/11/2023 | - |
 | [kf.zone](https://kf.zone) | 04/03/2025 | - |
+| [killingfloor.info](https://killingfloor.info) | 19/11/2023 | 19/11/2025 |

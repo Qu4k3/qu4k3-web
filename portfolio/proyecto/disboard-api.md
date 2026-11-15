@@ -51,6 +51,6 @@ API REST para servir los datos de servidores, usuarios y comunidades de Disboard
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [api.disboard.team](https://api.disboard.team) | Subdominio de `disboard.team` (registrado el 07/02/2018) | — |
+| [api.disboard.team](https://api.disboard.team) | Subdominio de `disboard.team` | - |

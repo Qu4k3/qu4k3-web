@@ -66,7 +66,7 @@ Si el stack cambió entre versiones, indica cada cambio también en la evolució
 <!-- Opcional: inclúyela en proyectos personales/propios; omítela en proyectos de cliente salvo que la historia del dominio sea relevante. -->
 ## Dominios
 
-La fecha de alta corresponde al registro del dominio según WHOIS/RDAP, no necesariamente al primer uso de la web. Si el registro no publica la fecha, indícalo como “No publicada”; no la infieras. Si la fecha actual es posterior al inicio del proyecto, aclara que se trata del registro vigente y no de la fecha histórica original.
+La fecha de alta corresponde al registro del dominio, no necesariamente al primer uso de la web. Si el registro no publica la fecha, indícalo como “No publicada”; no la infieras. Si la fecha actual es posterior al inicio del proyecto, aclara que se trata del registro vigente y no de la fecha histórica original.
 
 | Dominio | Alta | Fin de uso |
 |---|---|---|

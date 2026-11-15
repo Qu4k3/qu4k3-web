@@ -49,6 +49,6 @@ Landing de presentación de una nueva plataforma relacionada con *Monster Hunter
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [mhwguild.com](https://mhwguild.com) | [11/09/2017 (WHOIS histórico)](https://mhwguild.com.clearwebstats.com/) | 12/09/2020 |
+| [mhwguild.com](https://mhwguild.com) | 12/09/2017 | 12/09/2020 |

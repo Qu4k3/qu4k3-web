@@ -43,6 +43,6 @@ Sitio web de la Federación Española de Mario Kart.
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [femk.es](https://femk.es) | 14/07/2018 (dato aportado) | 14/07/2019 (dato aportado) |
+| [femk.es](https://femk.es) | 14/07/2018 | 14/07/2019 |

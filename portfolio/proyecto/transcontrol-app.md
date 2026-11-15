@@ -57,8 +57,4 @@ La SPA está construida con **React y MUI**, con una interfaz de dashboard orien
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [transcontrol.es](https://transcontrol.es) | [02/07/2015](https://www.dominios.es/sites/dominios/files/Altas%20Julio%202015%20%28ingl%C3%A9s%29.pdf) | — |
-
 La aplicación funciona en `app.transcontrol.es`, un subdominio de `transcontrol.es` sin registro independiente.

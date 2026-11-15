@@ -40,6 +40,6 @@ Colección de temas visuales personalizados para Discord.
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [discordthemes.net](https://discordthemes.net) | [03/07/2018 (WHOIS histórico)](https://azstats.org/site/discordthemes.net/) | No documentado |
+| [discordthemes.net](https://discordthemes.net) | 03/07/2018 | 12/09/2019 (Transferido) |

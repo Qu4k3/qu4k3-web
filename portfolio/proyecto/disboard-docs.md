@@ -54,6 +54,6 @@ Documentación técnica y guía de uso de la plataforma y los servicios de Disbo
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [docs.disboard.team](https://docs.disboard.team) | Subdominio de `disboard.team` (registrado el 07/02/2018) | — |
+| [docs.disboard.team](https://docs.disboard.team) | Subdominio de `disboard.team` | - |

@@ -45,8 +45,3 @@ Sitio web para una empresa constructora, con información de sus proyectos de co
 |---|---|---|
 | Desde julio de 2025 | Desarrollo del sitio web | Web corporativa para presentar los trabajos de construcción y reforma de HUCA. |
 
-## Dominios
-
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [hucaconstructora.com](https://hucaconstructora.com/) | [12/05/2025](https://rdap.verisign.com/com/v1/domain/hucaconstructora.com) | — |

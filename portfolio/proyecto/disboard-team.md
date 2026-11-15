@@ -53,7 +53,7 @@ Sitio oficial del equipo competitivo Disboard Team para consultar miembros, equi
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | [disboard.team](https://disboard.team) | 07/02/2018 | — |
 | [disboard.jp](https://disboard.jp) | 08/02/2019 | 25/02/2022 |

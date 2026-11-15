@@ -46,10 +46,10 @@ Aplicación web para crear y compartir páginas personales con una experiencia v
 | Fecha | Versión o hito | Cambios |
 |---|---|---|
 | Septiembre de 2026 | Mantenimiento | Se restaura la web original y se incorporan analítica con Umami y medición de métricas web con `web-vitals`. [Historial del repositorio](https://github.com/Qu4k3/inefable/commits/main). |
-| 2024 | Lanzamiento del proyecto | Se publica Inefable Day, una aplicación para crear y compartir páginas personales. |
+| 2024 | Lanzamiento del proyecto | Se publica Inefable Day, la web presentación de mi boda con Isa :) |
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [inefable.day](https://inefable.day) | [28/08/2023](https://pubapi.registry.google/rdap/domain/inefable.day) | — |
+| [inefable.day](https://inefable.day) | 28/08/2023 | — |

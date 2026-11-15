@@ -42,6 +42,6 @@ Página de presentación de un equipo competitivo de esports.
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [iceforce.team](https://iceforce.team) | Sin registro RDAP actual | No documentado |
+| [iceforce.team](https://iceforce.team) | 02/06/2018 | 02/06/2019 |

@@ -47,6 +47,6 @@ Directorio web de servidores de Discord para explorar comunidades mediante naveg
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | [disboard.team](https://disboard.team) | 07/02/2018 | — |

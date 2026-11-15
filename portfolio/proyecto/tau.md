@@ -49,6 +49,6 @@ Sitio web de un estudio digital orientado a crear experiencias web y estrategias
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | [tau.studio](https://tau.studio) | [28/05/2023 (registro RDAP actual)](https://rdap.identitydigital.services/rdap/domain/tau.studio); el proyecto comenzó en 2019 | — |

@@ -43,6 +43,6 @@ Sitio web con noticias de la comunidad española de Mario Kart.
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
-| [cemk.es](https://cemk.es) | 13/07/2017 (dato aportado) | 13/07/2018 |
+| [cemk.es](https://cemk.es) | 13/07/2017 | 13/07/2018 |

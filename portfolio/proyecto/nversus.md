@@ -40,8 +40,3 @@ Proyecto web experimental centrado en una comunidad y contenidos de entretenimie
 |---|---|---|
 | 2018 | Proyecto web experimental | Proyecto experimental para una comunidad y contenidos de entretenimiento, creado con WordPress. |
 
-## Dominios
-
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [nversus.com](https://nversus.com) | [19/09/2025 (registro consultado)](https://rdap.verisign.com/com/v1/domain/nversus.com); no consta la alta original de 2018 | No documentado |

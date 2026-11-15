@@ -44,8 +44,3 @@ Sitio web corporativo y catálogo inmobiliario para Finques Mireia, una inmobili
 |---|---|---|
 | Mayo–junio de 2026 | Web corporativa y catálogo inmobiliario | Sitio para presentar la inmobiliaria y sus propiedades. |
 
-## Dominios
-
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
-|---|---|---|
-| [finquesmireia.com](https://finquesmireia.com/) | [27/04/2025](https://rdap.verisign.com/com/v1/domain/finquesmireia.com) | — |

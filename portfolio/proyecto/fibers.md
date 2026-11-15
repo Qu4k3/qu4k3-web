@@ -53,6 +53,6 @@ Plataforma educativa para organizar recursos, apuntes y contenidos de estudiante
 
 ## Dominios
 
-| Dominio | Alta (WHOIS/RDAP) | Fin de uso |
+| Dominio | Alta | Fin de uso |
 |---|---|---|
 | [fibers.cat](https://fibers.cat) | [21/09/2016 (RDAP)](https://rdap.nic.cat/domain/fibers.cat) | — |

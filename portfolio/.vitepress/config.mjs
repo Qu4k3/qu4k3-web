@@ -162,9 +162,32 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon-32x32.png',
 
-    /*search: {
-      provider: 'local'
-    },*/
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: 'Buscar',
+            buttonAriaLabel: 'Buscar en el sitio'
+          },
+          modal: {
+            displayDetails: 'Mostrar lista detallada',
+            resetButtonTitle: 'Borrar búsqueda',
+            backButtonTitle: 'Cerrar búsqueda',
+            noResultsText: 'No hay resultados para',
+            footer: {
+              selectText: 'para seleccionar',
+              selectKeyAriaLabel: 'intro',
+              navigateText: 'para navegar',
+              navigateUpKeyAriaLabel: 'flecha arriba',
+              navigateDownKeyAriaLabel: 'flecha abajo',
+              closeText: 'para cerrar',
+              closeKeyAriaLabel: 'escape'
+            }
+          }
+        }
+      }
+    },
 
     nav: [
       {
